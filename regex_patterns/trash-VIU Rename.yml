@@ -1,0 +1,6 @@
+name: VIU Rename
+pattern: \[(VIU)\b|\b(VIU)\]
+description: TRaSH pattern imported from radarr/viu
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: W
+pattern: ^(Wednesday29th)$
+description: TRaSH pattern imported from radarr/french-scene
+tags:
+- TRaSH
+tests: null

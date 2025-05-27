@@ -1,0 +1,15 @@
+name: '[TRaSH] MP3'
+description: '**Imported from sonarr/mp3**
+
+
+  MP3 (MPEG-1 and/or MPEG-2 Audio Layer 3) is a lossy data compression format for
+  audio.'
+tags:
+- TRaSH
+- MP3
+conditions:
+- name: MP3
+  negate: false
+  required: true
+  type: release_title
+  pattern: MP3

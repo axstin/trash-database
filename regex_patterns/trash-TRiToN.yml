@@ -1,0 +1,6 @@
+name: TRiToN
+pattern: ^(TRiToN)$
+description: TRaSH pattern imported from radarr/remux-tier-03
+tags:
+- TRaSH
+tests: null

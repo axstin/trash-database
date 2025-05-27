@@ -1,0 +1,15 @@
+name: '[TRaSH] Language: Not French'
+description: '**Imported from sonarr/language-not-french**
+
+
+  Because it uses reverse scoring, and if you use the default scores, it will assign
+  all releases without the French audio a score of `-10000`.'
+tags:
+- TRaSH
+- 'Language: Not French'
+conditions:
+- name: Not French Language
+  negate: true
+  required: false
+  type: language
+  language: french

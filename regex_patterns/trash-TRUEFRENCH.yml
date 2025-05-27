@@ -1,0 +1,6 @@
+name: TRUEFRENCH
+pattern: \b(TRUEFRENCH|VFF)\b
+description: TRaSH pattern imported from radarr/french-vff
+tags:
+- TRaSH
+tests: null

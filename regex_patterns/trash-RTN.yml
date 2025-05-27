@@ -1,0 +1,6 @@
+name: RTN
+pattern: ^(RTN)$
+description: TRaSH pattern imported from sonarr/web-tier-01
+tags:
+- TRaSH
+tests: null

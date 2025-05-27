@@ -1,0 +1,35 @@
+name: '[TRaSH] [Sonarr] Upscaled'
+description: '**Imported from sonarr/upscaled**
+
+
+  This custom format is used to prevent grabbing upscaled releases.'
+tags:
+- TRaSH
+- Upscaled
+- TRaSH Sonarr
+conditions:
+- name: AI Upscales
+  negate: false
+  required: false
+  type: release_title
+  pattern: AI Upscales-2
+- name: AIUS
+  negate: false
+  required: false
+  type: release_title
+  pattern: AIUS
+- name: Regrade
+  negate: false
+  required: false
+  type: release_title
+  pattern: Regrade
+- name: TheUpscaler
+  negate: false
+  required: false
+  type: release_title
+  pattern: TheUpscaler
+- name: Upscaled
+  negate: false
+  required: false
+  type: release_title
+  pattern: Upscaled-3

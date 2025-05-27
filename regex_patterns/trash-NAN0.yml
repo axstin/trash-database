@@ -1,0 +1,6 @@
+name: NAN0
+pattern: (?<=remux).*\b(NAN0)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-03-seadex-muxers
+tags:
+- TRaSH
+tests: null

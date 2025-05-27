@@ -1,0 +1,15 @@
+name: '[TRaSH] FreeLeech'
+description: "**Imported from sonarr/freeleech**\n\nSometimes, torrent sites set a\
+  \ torrent to be freeleech. This means, that the download of this torrent will not\
+  \ count towards your download quota or ratio. This is useful if you do not have\
+  \ the best ratio yet.\n\n!!! warning\n\n    Keep in mind not all trackers support\
+  \ this option."
+tags:
+- TRaSH
+- FreeLeech
+conditions:
+- name: FreeLeech
+  negate: false
+  required: false
+  type: indexer_flag
+  flag: freeleech

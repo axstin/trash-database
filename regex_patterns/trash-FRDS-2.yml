@@ -1,0 +1,6 @@
+name: FRDS-2
+pattern: ^(FRDS)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

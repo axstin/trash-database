@@ -1,0 +1,39 @@
+name: '[TRaSH] [Sonarr] German Bluray Tier 03'
+description: '**Imported from sonarr/german-bluray-tier-03**
+
+
+  - WiP
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Bluray Tier 03
+- TRaSH Sonarr
+conditions:
+- name: RobertDeNiro
+  negate: false
+  required: false
+  type: release_group
+  pattern: RobertDeNiro-2
+- name: HQC
+  negate: false
+  required: false
+  type: release_group
+  pattern: HQC
+- name: HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDSource
+- name: Bluray
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not REMUX
+  negate: true
+  required: true
+  type: source
+  source: blurayraw

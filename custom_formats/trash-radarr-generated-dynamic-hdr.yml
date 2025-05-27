@@ -1,0 +1,52 @@
+name: '[TRaSH] [Radarr] Generated Dynamic HDR'
+description: "**Imported from radarr/generated-dynamic-hdr**\n\n- A collection of\
+  \ groups known for generating their own dynamic HDR metadata\u2014Dolby Vision and/or\
+  \ HDR10+.\n- This generated dynamic HDR metadata does not come from official retail\
+  \ sources (discs or streaming services), so it is usually undesirable. Because of\
+  \ the substantial effort needed and the almost impossible task of reliably ensuring\
+  \ quality without reviewing each movie manually."
+tags:
+- TRaSH
+- Generated Dynamic HDR
+- TRaSH Radarr
+conditions:
+- name: BiTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: BiTOR-2
+- name: DepraveD
+  negate: false
+  required: false
+  type: release_group
+  pattern: DepraveD
+- name: SasukeducK
+  negate: false
+  required: false
+  type: release_group
+  pattern: SasukeducK
+- name: tarunk9c
+  negate: false
+  required: false
+  type: release_group
+  pattern: tarunk9c
+- name: VD0N
+  negate: false
+  required: false
+  type: release_group
+  pattern: VD0N
+- name: VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: VECTOR-2
+- name: HDR10+
+  negate: false
+  required: false
+  type: release_title
+  pattern: HDR10+-2
+- name: DV
+  negate: false
+  required: false
+  type: release_title
+  pattern: DV

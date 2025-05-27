@@ -1,0 +1,20 @@
+name: '[TRaSH] [Sonarr] WEB Scene'
+description: '**Imported from sonarr/web-scene**
+
+
+  One of the few scene groups that released quality releases.'
+tags:
+- TRaSH
+- WEB Scene
+- TRaSH Sonarr
+conditions:
+- name: DEFLATE
+  negate: false
+  required: false
+  type: release_group
+  pattern: DEFLATE-2
+- name: INFLATE
+  negate: false
+  required: false
+  type: release_group
+  pattern: INFLATE

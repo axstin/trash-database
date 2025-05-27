@@ -1,0 +1,6 @@
+name: P73
+pattern: (P73)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

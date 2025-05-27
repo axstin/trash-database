@@ -1,0 +1,41 @@
+name: '[TRaSH] [Sonarr] SDR (no WEBDL)'
+description: '**Imported from sonarr/sdr-no-webdl**
+
+
+  This will prevent grabbing UHD/4k Remux and Bluray encode releases without HDR Formats.
+  - i.e., SDR WEB releases will still be allowed since 4K SDR WEB releases can often
+  look better than the 1080p version due to the improved bitrate.
+
+
+  {! include-markdown "../../includes/cf-descriptions/sdr-no-webdl-sonarr-warning.md"
+  !}'
+tags:
+- TRaSH
+- SDR (no WEBDL)
+- TRaSH Sonarr
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+- name: Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: web_dl
+- name: Not WEBRip
+  negate: true
+  required: true
+  type: source
+  source: webrip

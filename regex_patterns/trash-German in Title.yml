@@ -1,0 +1,6 @@
+name: German in Title
+pattern: (?i)\bgerman\b
+description: TRaSH pattern imported from radarr/language-not-german-or-english
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,32 @@
+name: '[TRaSH] [Radarr] SiC'
+description: '**Imported from radarr/sic**'
+tags:
+- TRaSH
+- SiC
+- TRaSH Radarr
+conditions:
+- name: SiC
+  negate: false
+  required: true
+  type: release_title
+  pattern: SiC-3
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: WEBDL
+  negate: false
+  required: true
+  type: source
+  source: web_dl
+- name: HDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: HDR-2
+- name: DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV

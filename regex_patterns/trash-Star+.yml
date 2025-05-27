@@ -1,0 +1,6 @@
+name: Star+
+pattern: \b(STRP)\b
+description: TRaSH pattern imported from radarr/strp
+tags:
+- TRaSH
+tests: null

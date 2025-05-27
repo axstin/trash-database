@@ -1,0 +1,6 @@
+name: CBM
+pattern: \b(CBM)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-07-p2pscene
+tags:
+- TRaSH
+tests: null

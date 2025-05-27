@@ -1,0 +1,27 @@
+name: '[TRaSH] [Sonarr] Scene'
+description: '**Imported from sonarr/scene**
+
+
+  This Custom Format will try to recognize so-called "scene releases". Depending on
+  your preferences, you can give it a negative score `-10000`, a positive score, or
+  just skip adding it altogether.'
+tags:
+- TRaSH
+- Scene
+- TRaSH Sonarr
+conditions:
+- name: Scene Groups + Naming
+  negate: false
+  required: true
+  type: release_title
+  pattern: Scene Groups + Naming
+- name: Not INFLATE/DEFLATE
+  negate: true
+  required: true
+  type: release_title
+  pattern: INFLATE/DEFLATE-2
+- name: Not GERMAN
+  negate: true
+  required: true
+  type: release_title
+  pattern: GERMAN-2

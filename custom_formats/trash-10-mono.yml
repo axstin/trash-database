@@ -1,0 +1,26 @@
+name: '[TRaSH] 1.0 Mono'
+description: '**Imported from sonarr/10-mono**'
+tags:
+- TRaSH
+- 1.0 Mono
+conditions:
+- name: Mono
+  negate: false
+  required: true
+  type: release_title
+  pattern: Mono
+- name: Not 3.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: 3.0ch
+- name: Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: 4.0ch
+- name: Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: High Channel Count

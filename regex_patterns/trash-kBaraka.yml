@@ -1,0 +1,6 @@
+name: kBaraka
+pattern: \b(kBaraka)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-04-seadex-muxers
+tags:
+- TRaSH
+tests: null

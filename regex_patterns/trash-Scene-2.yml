@@ -1,0 +1,6 @@
+name: Scene-2
+pattern: ^(Scene)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

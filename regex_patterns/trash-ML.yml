@@ -1,0 +1,6 @@
+name: ML
+pattern: \b(ML)\b
+description: TRaSH pattern imported from radarr/language-german-dl-undefined
+tags:
+- TRaSH
+tests: null

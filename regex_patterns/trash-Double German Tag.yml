@@ -1,0 +1,6 @@
+name: Double German Tag
+pattern: '[._-]German[._-].+?[._-]?German$'
+description: TRaSH pattern imported from radarr/german-lq-release-title
+tags:
+- TRaSH
+tests: null

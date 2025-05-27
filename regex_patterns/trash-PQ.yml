@@ -1,0 +1,6 @@
+name: PQ
+pattern: \b(PQ)\b
+description: TRaSH pattern imported from radarr/pq
+tags:
+- TRaSH
+tests: null

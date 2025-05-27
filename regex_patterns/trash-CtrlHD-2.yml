@@ -1,0 +1,6 @@
+name: CtrlHD-2
+pattern: ^(CtrlHD)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-01
+tags:
+- TRaSH
+tests: null

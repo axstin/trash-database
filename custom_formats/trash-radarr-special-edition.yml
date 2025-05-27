@@ -1,0 +1,42 @@
+name: '[TRaSH] [Radarr] Special Edition'
+description: '**Imported from radarr/special-edition**
+
+
+  Custom format that matches various special editions (non-theatrical edition)
+
+
+  - The Director''s Cut is the version edited by the Director, usually for additional
+  home media releases.
+
+  - An Extended Cut is usually any version of the film that is longer than the theatrical
+  cut (though in very rare cases, its shorter).'
+tags:
+- TRaSH
+- Special Edition
+- TRaSH Radarr
+conditions:
+- name: Special Edition
+  negate: false
+  required: true
+  type: release_title
+  pattern: Special Edition
+- name: Not IMAX Edition
+  negate: true
+  required: true
+  type: release_title
+  pattern: IMAX Edition
+- name: Not Open Matte
+  negate: true
+  required: true
+  type: release_title
+  pattern: Open Matte-2
+- name: Not Theatrical
+  negate: true
+  required: true
+  type: release_title
+  pattern: Theatrical
+- name: Not Extended Clip
+  negate: true
+  required: true
+  type: release_title
+  pattern: Extended Clip-2

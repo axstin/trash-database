@@ -1,0 +1,6 @@
+name: N-2
+pattern: ^(N0Z00M|NERDHD|NERO|NrZ|NTK)$
+description: TRaSH pattern imported from sonarr/french-scene
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: tarunk9c
+pattern: ^(tarunk9c)$
+description: TRaSH pattern imported from radarr/generated-dynamic-hdr
+tags:
+- TRaSH
+tests: null

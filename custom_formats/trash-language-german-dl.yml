@@ -1,0 +1,26 @@
+name: '[TRaSH] German DL'
+description: '**Imported from sonarr/language-german-dl**
+
+
+  This custom format helps Radarr/Sonarr recognize German Dual Language audio releases.
+
+
+  - Add this Custom Format with the default score of `-10000` to prevent getting releases
+  that include `German + Original audio`.
+
+  - Add this Custom Format with a score of +`10001` if you prefer releases that include
+  `German + Original audio`,  It will add `German DL` to your filename.'
+tags:
+- TRaSH
+- German DL
+conditions:
+- name: German
+  negate: false
+  required: true
+  type: language
+  language: german
+- name: Original Language
+  negate: false
+  required: true
+  type: language
+  language: original

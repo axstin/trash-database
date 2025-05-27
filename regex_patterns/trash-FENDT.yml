@@ -1,0 +1,6 @@
+name: FENDT
+pattern: ^(FENDT)$
+description: TRaSH pattern imported from sonarr/german-scene
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: BUYMORE
+pattern: -BUYMORE\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

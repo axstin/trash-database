@@ -1,0 +1,6 @@
+name: WKN
+pattern: \b(WKN|Waka(nim)?)\b
+description: TRaSH pattern imported from sonarr/french-wkn
+tags:
+- TRaSH
+tests: null

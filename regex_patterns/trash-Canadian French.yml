@@ -1,0 +1,6 @@
+name: Canadian French
+pattern: \b(VFQ|\d{3,4}p[ .]CAN|(?<=MULTi[ .])FR(A|ENCH))\b
+description: TRaSH pattern imported from radarr/french-vfq
+tags:
+- TRaSH
+tests: null

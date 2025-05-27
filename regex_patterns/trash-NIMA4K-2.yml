@@ -1,0 +1,6 @@
+name: NIMA4K-2
+pattern: (NIMA4K)$
+description: TRaSH pattern imported from radarr/german-remux-tier-01
+tags:
+- TRaSH
+tests: null

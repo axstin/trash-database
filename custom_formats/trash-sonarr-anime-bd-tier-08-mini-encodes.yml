@@ -1,0 +1,80 @@
+name: '[TRaSH] [Sonarr] Anime BD Tier 08 (Mini Encodes)'
+description: '**Imported from sonarr/anime-bd-tier-08-mini-encodes**
+
+
+  Know groups that do mini encodes.'
+tags:
+- TRaSH
+- Anime BD Tier 08 (Mini Encodes)
+- TRaSH Sonarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: Bluray Remux
+  negate: false
+  required: false
+  type: source
+  source: blurayraw
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: AkihitoSubs
+  negate: false
+  required: false
+  type: release_title
+  pattern: AkihitoSubs
+- name: Arukoru
+  negate: false
+  required: false
+  type: release_title
+  pattern: Arukoru
+- name: EDGE
+  negate: false
+  required: false
+  type: release_title
+  pattern: EDGE
+- name: EMBER
+  negate: false
+  required: false
+  type: release_title
+  pattern: EMBER
+- name: GHOST
+  negate: false
+  required: false
+  type: release_title
+  pattern: GHOST
+- name: Judas
+  negate: false
+  required: false
+  type: release_title
+  pattern: Judas
+- name: naiyas
+  negate: false
+  required: false
+  type: release_title
+  pattern: naiyas
+- name: Nep_Blanc
+  negate: false
+  required: false
+  type: release_title
+  pattern: Nep_Blanc
+- name: Prof
+  negate: false
+  required: false
+  type: release_title
+  pattern: Prof
+- name: "Shir\u03C3"
+  negate: false
+  required: false
+  type: release_title
+  pattern: "Shir\u03C3"
+- name: YURASAKA
+  negate: false
+  required: false
+  type: release_title
+  pattern: YURASAKA

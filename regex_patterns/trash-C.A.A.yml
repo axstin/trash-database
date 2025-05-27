@@ -1,0 +1,6 @@
+name: C.A.A
+pattern: ^(C\.A\.A)$
+description: TRaSH pattern imported from radarr/bad-dual-groups
+tags:
+- TRaSH
+tests: null

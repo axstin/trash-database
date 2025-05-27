@@ -1,0 +1,6 @@
+name: BHDStudio-2
+pattern: ^(BHDStudio)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-03
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: w00t
+pattern: ^(w00t)$
+description: TRaSH pattern imported from radarr/german-microsized
+tags:
+- TRaSH
+tests: null

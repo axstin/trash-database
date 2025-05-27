@@ -1,0 +1,6 @@
+name: COLL3CTiF
+pattern: ^(COLL3CTiF)$
+description: TRaSH pattern imported from sonarr/french-web-tier-02
+tags:
+- TRaSH
+tests: null

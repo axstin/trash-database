@@ -1,0 +1,26 @@
+name: '[TRaSH] MAX'
+description: '**Imported from sonarr/max**'
+tags:
+- TRaSH
+- MAX
+conditions:
+- name: Max
+  negate: false
+  required: false
+  type: release_title
+  pattern: Max
+- name: MAX Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: MAX Rename
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

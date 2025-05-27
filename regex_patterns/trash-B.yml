@@ -1,0 +1,6 @@
+name: B
+pattern: ^(BANKAi|BAWLS|BiPOLAR|BLACKPANTERS|BODIE|BOOLZ|BRiNK|BTT)$
+description: TRaSH pattern imported from radarr/french-scene
+tags:
+- TRaSH
+tests: null

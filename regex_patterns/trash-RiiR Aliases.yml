@@ -1,0 +1,6 @@
+name: RiiR Aliases
+pattern: \b(TOJ)\b
+description: TRaSH pattern imported from radarr/german-web-tier-01
+tags:
+- TRaSH
+tests: null

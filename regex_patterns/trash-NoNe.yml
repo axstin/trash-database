@@ -1,0 +1,6 @@
+name: NoNe
+pattern: ^(NoNe)$
+description: TRaSH pattern imported from radarr/french-web-tier-02
+tags:
+- TRaSH
+tests: null

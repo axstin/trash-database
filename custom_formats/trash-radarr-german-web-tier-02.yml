@@ -1,0 +1,65 @@
+name: '[TRaSH] [Radarr] German Web Tier 02'
+description: '**Imported from radarr/german-web-tier-02**
+
+
+  - WiP
+
+  - Groups that get their releases directly from the source.
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that have the best German audio track to an English release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Web Tier 02
+- TRaSH Radarr
+conditions:
+- name: VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: VECTOR
+- name: MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MULTiPLEX
+- name: SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiXTYNiNE
+- name: Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: Oergel
+- name: 4SF
+  negate: false
+  required: false
+  type: release_group
+  pattern: 4SF
+- name: ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: ABJ
+- name: paranoid06
+  negate: false
+  required: false
+  type: release_group
+  pattern: paranoid06
+- name: WebDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WebRip
+  negate: false
+  required: false
+  type: source
+  source: webrip

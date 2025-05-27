@@ -1,0 +1,6 @@
+name: PsO-2
+pattern: ^(PsO)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

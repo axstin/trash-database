@@ -1,0 +1,6 @@
+name: TSCC
+pattern: ^(TSCC)$
+description: TRaSH pattern imported from radarr/german-web-tier-01
+tags:
+- TRaSH
+tests: null

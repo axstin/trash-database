@@ -1,0 +1,6 @@
+name: BBC iPlayer
+pattern: \b(ip|iplayer)\b
+description: TRaSH pattern imported from radarr/ip
+tags:
+- TRaSH
+tests: null

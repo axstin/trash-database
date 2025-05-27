@@ -1,0 +1,6 @@
+name: DON-2
+pattern: ^(DON)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-01
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: Asenshi
+pattern: \b(Asenshi)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

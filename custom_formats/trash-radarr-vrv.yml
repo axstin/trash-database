@@ -1,0 +1,26 @@
+name: '[TRaSH] [Radarr] VRV'
+description: '**Imported from radarr/vrv**
+
+
+  [From Wikipedia, the free encyclopedia](<https://www.wikiwand.com/en/VRV_(streaming_service)>){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- VRV
+- TRaSH Radarr
+conditions:
+- name: VRV
+  negate: false
+  required: true
+  type: release_title
+  pattern: VRV
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

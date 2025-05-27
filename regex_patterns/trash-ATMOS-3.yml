@@ -1,0 +1,6 @@
+name: ATMOS-3
+pattern: \b(ATMOS|DDPA)(\b|\d)
+description: TRaSH pattern imported from radarr/ddplus-atmos
+tags:
+- TRaSH
+tests: null

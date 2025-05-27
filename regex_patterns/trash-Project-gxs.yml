@@ -1,0 +1,6 @@
+name: Project-gxs
+pattern: \b(Project-gxs)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

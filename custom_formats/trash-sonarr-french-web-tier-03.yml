@@ -1,0 +1,64 @@
+name: '[TRaSH] [Sonarr] FR WEB Tier 03'
+description: '**Imported from sonarr/french-web-tier-03**
+
+
+  - WIP
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- FR WEB Tier 03
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: ARK01
+  negate: false
+  required: false
+  type: release_group
+  pattern: ARK01
+- name: BraD
+  negate: false
+  required: false
+  type: release_group
+  pattern: BraD
+- name: dRuIdE
+  negate: false
+  required: false
+  type: release_group
+  pattern: dRuIdE
+- name: FTMVHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: FTMVHD
+- name: LAZARUS
+  negate: false
+  required: false
+  type: release_group
+  pattern: LAZARUS-2
+- name: MYSTERiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: MYSTERiON
+- name: Scaph
+  negate: false
+  required: false
+  type: release_group
+  pattern: Scaph
+- name: WQM
+  negate: false
+  required: false
+  type: release_group
+  pattern: WQM

@@ -1,0 +1,6 @@
+name: SHOWEHD-2
+pattern: ^(SHOWEHD)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

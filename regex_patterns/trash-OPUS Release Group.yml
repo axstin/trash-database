@@ -1,0 +1,6 @@
+name: OPUS Release Group
+pattern: OPUS
+description: TRaSH pattern imported from radarr/opus
+tags:
+- TRaSH
+tests: null

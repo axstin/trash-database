@@ -1,0 +1,6 @@
+name: BluRay3D
+pattern: \b(BluRay3D)\b
+description: TRaSH pattern imported from radarr/3d
+tags:
+- TRaSH
+tests: null

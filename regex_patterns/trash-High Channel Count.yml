@@ -1,0 +1,6 @@
+name: High Channel Count
+pattern: '[^0-9][5-9][ .][0-1]\b'
+description: TRaSH pattern imported from radarr/40-sound
+tags:
+- TRaSH
+tests: null

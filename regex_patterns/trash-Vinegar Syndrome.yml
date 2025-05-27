@@ -1,0 +1,6 @@
+name: Vinegar Syndrome
+pattern: \b(Vinegar[ ._-]Syndrome)\b
+description: TRaSH pattern imported from radarr/vinegar-syndrome
+tags:
+- TRaSH
+tests: null

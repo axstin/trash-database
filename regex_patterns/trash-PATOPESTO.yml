@@ -1,0 +1,6 @@
+name: PATOPESTO
+pattern: ^(PATOPESTO)$
+description: TRaSH pattern imported from radarr/french-web-tier-01
+tags:
+- TRaSH
+tests: null

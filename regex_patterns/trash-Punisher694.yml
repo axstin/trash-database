@@ -1,0 +1,6 @@
+name: Punisher694
+pattern: \b(Punisher694)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-01
+tags:
+- TRaSH
+tests: null

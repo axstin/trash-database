@@ -1,0 +1,6 @@
+name: RobertDeNiro-2
+pattern: ^(RobertDeNiro)$
+description: TRaSH pattern imported from radarr/german-bluray-tier-03
+tags:
+- TRaSH
+tests: null

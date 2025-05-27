@@ -1,0 +1,6 @@
+name: C1NEM4
+pattern: ^(C1NEM4)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

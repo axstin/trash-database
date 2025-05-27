@@ -1,0 +1,6 @@
+name: RARBG
+pattern: ^(RARBG)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

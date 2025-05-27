@@ -1,0 +1,6 @@
+name: INFLATE/DEFLATE
+pattern: \b(INFLATE|DEFLATE)\b
+description: TRaSH pattern imported from radarr/scene
+tags:
+- TRaSH
+tests: null

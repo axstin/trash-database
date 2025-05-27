@@ -1,0 +1,6 @@
+name: ADN
+pattern: \b(ADN)\b
+description: TRaSH pattern imported from sonarr/french-adn
+tags:
+- TRaSH
+tests: null

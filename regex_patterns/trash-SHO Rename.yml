@@ -1,0 +1,6 @@
+name: SHO Rename
+pattern: \[(SHO)\b|\b(SHO)\]
+description: TRaSH pattern imported from sonarr/sho
+tags:
+- TRaSH
+tests: null

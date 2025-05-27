@@ -1,0 +1,64 @@
+name: '[TRaSH] DTS'
+description: '**Imported from sonarr/dts**
+
+
+  Digital Theater Sound (DTS) is a digital audio technology developed by DTS, Inc,
+  which focuses on digital surround sound formats for consumer and commercial applications
+  as well as theatrical purposes. Compared to the Dolby Digital standard, DTS uses
+  four times less compression and digitizes audio sounds at 20 bits instead of 16
+  bits. This makes DTS-based audio richer in sound and more detailed than Dolby Digital-based
+  ones.'
+tags:
+- TRaSH
+- DTS
+conditions:
+- name: Basic DTS
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS
+- name: Not DTS-HD
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS-HD MA
+- name: Not DTS-HD HRA/ES
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS-HD HRA ES
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Dolby Digital Plus
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: TrueHD/ATMOS
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Basic Dolby Digital
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS X
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: PCM

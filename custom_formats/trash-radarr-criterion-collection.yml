@@ -1,0 +1,39 @@
+name: '[TRaSH] [Radarr] Criterion Collection'
+description: '**Imported from radarr/criterion-collection**
+
+
+  The Criterion Collection, Inc. (or simply Criterion) is an American home video distribution
+  company that focuses on licensing "important classic and contemporary films" and
+  selling them to film aficionados. Criterion has helped to standardize characteristics
+  of home video such as film restoration, using the letterbox format for widescreen
+  films, and adding bonus features and commentary tracks'
+tags:
+- TRaSH
+- Criterion Collection
+- TRaSH Radarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: Criterion
+  negate: false
+  required: false
+  type: release_title
+  pattern: Criterion
+- name: CC
+  negate: false
+  required: false
+  type: release_title
+  pattern: CC
+- name: Not Criterion RlsGrp
+  negate: true
+  required: true
+  type: release_group
+  pattern: Criterion RlsGrp

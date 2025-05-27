@@ -1,0 +1,6 @@
+name: 3L
+pattern: ^(3L)$
+description: TRaSH pattern imported from radarr/remux-tier-01
+tags:
+- TRaSH
+tests: null

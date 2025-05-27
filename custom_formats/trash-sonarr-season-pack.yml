@@ -1,0 +1,21 @@
+name: '[TRaSH] [Sonarr] Season Pack'
+description: "**Imported from sonarr/season-pack**\n\n!!! danger \"This CF utilizes\
+  \ functionality only available starting in Sonarr v4.0.2.1262.\"\n\nThis Custom\
+  \ Format can be used to prefer or exclude season packs\n\n- Give it a score of `10`\
+  \ if you prefer a season pack.\n- Give it a score of `-10000` if you prefer to not\
+  \ download season packs.\n- Utilizes the \"Release Type\" custom format condition\
+  \ added in v4.0.2.1262, Season Pack source status is now persistently stored alongside\
+  \ episodes.\n\n!!! info\n\n    - This Custom Format could previously result in download\
+  \ loops. The new \"Release Type\" custom format condition now prevents this undesired\
+  \ behavior. :bangbang:\n    - This will upgrade your already downloaded single episodes\
+  \ :bangbang:"
+tags:
+- TRaSH
+- Season Pack
+- TRaSH Sonarr
+conditions:
+- name: Season Packs
+  negate: false
+  required: false
+  type: release_type
+  releaseType: season_pack

@@ -1,0 +1,16 @@
+name: '[TRaSH] No-RlsGroup'
+description: "**Imported from sonarr/no-rlsgroup**\n\nSome indexers stripped out the\
+  \ release group, which could result in LQ groups receiving higher scores.\nFor example,\
+  \ many EVO releases are stripped of the group name, so they appear as \"upgrades\"\
+  \ and receive a decent score if other factors match.\n\n!!! warning\n\n    If you\
+  \ **DO NOT** use decent filenames (like not adding release groups), **DO NOT** add\
+  \ this Custom Format unless you want to upgrade them."
+tags:
+- TRaSH
+- No-RlsGroup
+conditions:
+- name: No Parsed Group
+  negate: true
+  required: false
+  type: release_group
+  pattern: No Parsed Group

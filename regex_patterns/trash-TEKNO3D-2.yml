@@ -1,0 +1,6 @@
+name: TEKNO3D-2
+pattern: \b(TEKNO3D)\b
+description: TRaSH pattern imported from radarr/lq-release-title
+tags:
+- TRaSH
+tests: null

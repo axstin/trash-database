@@ -1,0 +1,6 @@
+name: AUBC
+pattern: \b(AUBC)\b
+description: TRaSH pattern imported from radarr/aubc
+tags:
+- TRaSH
+tests: null

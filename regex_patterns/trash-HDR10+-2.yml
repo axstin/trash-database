@@ -1,0 +1,6 @@
+name: HDR10+-2
+pattern: \bHDR10(\+|P(lus)?\b)
+description: TRaSH pattern imported from radarr/pq
+tags:
+- TRaSH
+tests: null

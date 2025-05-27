@@ -1,0 +1,115 @@
+name: '[TRaSH] [Sonarr] Anime BD Tier 07 (P2P/Scene)'
+description: '**Imported from sonarr/anime-bd-tier-07-p2pscene**
+
+
+  Known P2P and Scene Anime groups.'
+tags:
+- TRaSH
+- Anime BD Tier 07 (P2P/Scene)
+- TRaSH Sonarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: Bluray Remux
+  negate: false
+  required: false
+  type: source
+  source: blurayraw
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: A-L
+  negate: false
+  required: false
+  type: release_title
+  pattern: A-L
+- name: ANiHLS
+  negate: false
+  required: false
+  type: release_title
+  pattern: ANiHLS
+- name: CBM
+  negate: false
+  required: false
+  type: release_title
+  pattern: CBM
+- name: DHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: DHD
+- name: DragsterPS
+  negate: false
+  required: false
+  type: release_title
+  pattern: DragsterPS
+- name: HAiKU
+  negate: false
+  required: false
+  type: release_title
+  pattern: HAiKU
+- name: Hark0N
+  negate: false
+  required: false
+  type: release_title
+  pattern: Hark0N
+- name: iAHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: iAHD
+- name: inid4c
+  negate: false
+  required: false
+  type: release_title
+  pattern: inid4c
+- name: KiyoshiStar
+  negate: false
+  required: false
+  type: release_title
+  pattern: KiyoshiStar
+- name: MCR
+  negate: false
+  required: false
+  type: release_title
+  pattern: MCR
+- name: NPC
+  negate: false
+  required: false
+  type: release_title
+  pattern: NPC
+- name: RedBlade
+  negate: false
+  required: false
+  type: release_title
+  pattern: RedBlade
+- name: RH
+  negate: false
+  required: false
+  type: release_title
+  pattern: RH
+- name: SEV
+  negate: false
+  required: false
+  type: release_title
+  pattern: SEV
+- name: STRiFE
+  negate: false
+  required: false
+  type: release_title
+  pattern: STRiFE
+- name: TENEIGHTY
+  negate: false
+  required: false
+  type: release_title
+  pattern: TENEIGHTY
+- name: WaLMaRT
+  negate: false
+  required: false
+  type: release_title
+  pattern: WaLMaRT

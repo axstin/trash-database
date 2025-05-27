@@ -1,0 +1,6 @@
+name: TTGA
+pattern: \b(TTGA)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-05-remuxes
+tags:
+- TRaSH
+tests: null

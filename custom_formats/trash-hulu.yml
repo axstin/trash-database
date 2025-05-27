@@ -1,0 +1,24 @@
+name: '[TRaSH] HULU'
+description: "**Imported from sonarr/hulu**\n\n[From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Hulu){:target=\"\
+  \\_blank\" rel=\"noopener noreferrer\"}\n\nHulu (/\u02C8hu\u02D0lu\u02D0/) is an\
+  \ American subscription streaming service owned by The Walt Disney Company. It was\
+  \ launched on October 29, 2007."
+tags:
+- TRaSH
+- HULU
+conditions:
+- name: Hulu
+  negate: false
+  required: true
+  type: release_title
+  pattern: Hulu
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

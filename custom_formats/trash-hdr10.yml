@@ -1,0 +1,47 @@
+name: '[TRaSH] HDR10'
+description: '**Imported from sonarr/hdr10**
+
+
+  HDR10 is the most basic HDR format used in consumer media and is supported by all
+  HDR-supported devices.
+
+
+  HDR10 relies on static metadata which limits its effect to a per-movie or per-episode
+  basis. Because of this, it lacks the information for how the content should be adjusted
+  for your specific display. The interaction between display capabilities, video metadata,
+  and the ultimate output (i.e., the presentation of the video) is controlled by the
+  display, which may result in quality that is ultimately not how was originally intended.'
+tags:
+- TRaSH
+- HDR10
+conditions:
+- name: HDR10
+  negate: false
+  required: true
+  type: release_title
+  pattern: HDR10
+- name: Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: DV HDR10
+- name: Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: PQ
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: HLG
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: SDR-2
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: DV

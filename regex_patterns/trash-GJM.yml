@@ -1,0 +1,6 @@
+name: GJM
+pattern: \b(GJM)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-05-fansubs
+tags:
+- TRaSH
+tests: null

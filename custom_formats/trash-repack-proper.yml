@@ -1,0 +1,21 @@
+name: '[TRaSH] Repack/Proper'
+description: '**Imported from sonarr/repack-proper**'
+tags:
+- TRaSH
+- Repack/Proper
+conditions:
+- name: Repack
+  negate: false
+  required: false
+  type: release_title
+  pattern: Repack
+- name: Proper
+  negate: false
+  required: false
+  type: release_title
+  pattern: Proper
+- name: Rerip
+  negate: false
+  required: false
+  type: release_title
+  pattern: Rerip

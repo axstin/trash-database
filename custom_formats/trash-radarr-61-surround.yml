@@ -1,0 +1,27 @@
+name: '[TRaSH] [Radarr] 6.1 Surround'
+description: '**Imported from radarr/61-surround**'
+tags:
+- TRaSH
+- 6.1 Surround
+- TRaSH Radarr
+conditions:
+- name: 6.1 Surround
+  negate: false
+  required: true
+  type: release_title
+  pattern: 6.1 Surround-2
+- name: Not 7.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: 7.1 Surround-2
+- name: Not 5.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: 5.1 Surround
+- name: Not Low Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Low Channel Count-2

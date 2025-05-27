@@ -1,0 +1,6 @@
+name: Kitsune-2
+pattern: ^(Kitsune)$
+description: TRaSH pattern imported from radarr/web-tier-01
+tags:
+- TRaSH
+tests: null

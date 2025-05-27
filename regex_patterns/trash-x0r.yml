@@ -1,0 +1,6 @@
+name: x0r
+pattern: ^(x0r)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

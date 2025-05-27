@@ -1,0 +1,6 @@
+name: DRACULA
+pattern: ^(DRACULA)$
+description: TRaSH pattern imported from sonarr/web-tier-03
+tags:
+- TRaSH
+tests: null

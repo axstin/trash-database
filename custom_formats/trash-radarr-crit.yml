@@ -1,0 +1,31 @@
+name: '[TRaSH] [Radarr] CRiT'
+description: '**Imported from radarr/crit**
+
+
+  [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/The_Criterion_Collection#Streaming_as_The_Criterion_Channel){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- CRiT
+- TRaSH Radarr
+conditions:
+- name: CRiT
+  negate: false
+  required: true
+  type: release_title
+  pattern: CRiT
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: Not Criterion RlsGrp
+  negate: true
+  required: true
+  type: release_group
+  pattern: Criterion RlsGrp

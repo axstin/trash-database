@@ -1,0 +1,6 @@
+name: 2dead-2
+pattern: ^(2dead)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

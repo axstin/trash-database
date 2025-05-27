@@ -1,0 +1,19 @@
+name: '[TRaSH] VFQ'
+description: '**Imported from sonarr/french-vfq**
+
+
+  Canadian French Version.'
+tags:
+- TRaSH
+- VFQ
+conditions:
+- name: Canadian French
+  negate: false
+  required: true
+  type: release_title
+  pattern: Canadian French
+- name: Not VF2
+  negate: true
+  required: true
+  type: release_title
+  pattern: VF2

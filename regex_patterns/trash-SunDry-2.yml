@@ -1,0 +1,6 @@
+name: SunDry-2
+pattern: ^(SunDry)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

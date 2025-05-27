@@ -1,0 +1,6 @@
+name: jennaortega
+pattern: ^(jennaortega(UHD)?)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

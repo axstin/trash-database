@@ -1,0 +1,6 @@
+name: Seicher-Raws
+pattern: Seicher[ ._-]?(Raws)
+description: TRaSH pattern imported from radarr/anime-raws
+tags:
+- TRaSH
+tests: null

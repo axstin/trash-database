@@ -1,0 +1,6 @@
+name: Criterion
+pattern: \b(Criterion)\b
+description: TRaSH pattern imported from radarr/criterion-collection
+tags:
+- TRaSH
+tests: null

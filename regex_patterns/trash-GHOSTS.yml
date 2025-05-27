@@ -1,0 +1,6 @@
+name: GHOSTS
+pattern: ^(GHOSTS)$
+description: TRaSH pattern imported from sonarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: phazer11
+pattern: \b(phazer11)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

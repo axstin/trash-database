@@ -1,0 +1,6 @@
+name: $tore-Chill
+pattern: \b(\$tore-Chill)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

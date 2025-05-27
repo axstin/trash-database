@@ -1,0 +1,6 @@
+name: 24xHD
+pattern: \b(24xHD)\b
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

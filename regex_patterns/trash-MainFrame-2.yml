@@ -1,0 +1,6 @@
+name: MainFrame-2
+pattern: ^(MainFrame)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-01
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: dB-2
+pattern: ^(dB)$
+description: TRaSH pattern imported from radarr/web-tier-02
+tags:
+- TRaSH
+tests: null

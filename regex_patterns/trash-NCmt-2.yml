@@ -1,0 +1,6 @@
+name: NCmt-2
+pattern: ^(NCmt)$
+description: TRaSH pattern imported from radarr/remux-tier-02
+tags:
+- TRaSH
+tests: null

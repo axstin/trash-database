@@ -1,0 +1,6 @@
+name: LYS1TH3A
+pattern: \b(LYS1TH3A)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-01-muxers
+tags:
+- TRaSH
+tests: null

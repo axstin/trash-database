@@ -1,0 +1,6 @@
+name: Tsundere-Raws
+pattern: \b(Tsundere[ .-]?Raws)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-01
+tags:
+- TRaSH
+tests: null

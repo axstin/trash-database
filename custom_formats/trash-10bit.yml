@@ -1,0 +1,19 @@
+name: '[TRaSH] 10bit'
+description: '**Imported from sonarr/10bit**
+
+
+  This Custom Format covers releases that are 10bit.'
+tags:
+- TRaSH
+- 10bit
+conditions:
+- name: 10bit
+  negate: false
+  required: false
+  type: release_title
+  pattern: 10bit
+- name: hi10p
+  negate: false
+  required: false
+  type: release_title
+  pattern: hi10p

@@ -1,0 +1,6 @@
+name: Rakuv
+pattern: -Rakuv\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

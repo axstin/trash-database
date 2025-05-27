@@ -1,0 +1,6 @@
+name: Extras-2
+pattern: (?<=\b[12]\d{3}\b).*\b(Extras|Bonus|Extended[ ._-]Clip)\b
+description: TRaSH pattern imported from radarr/extras
+tags:
+- TRaSH
+tests: null

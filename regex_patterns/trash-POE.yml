@@ -1,0 +1,6 @@
+name: POE
+pattern: (POE)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

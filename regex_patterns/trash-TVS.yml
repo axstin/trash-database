@@ -1,0 +1,6 @@
+name: TVS
+pattern: ^(TVS)$
+description: TRaSH pattern imported from radarr/german-web-tier-01
+tags:
+- TRaSH
+tests: null

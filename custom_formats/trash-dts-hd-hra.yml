@@ -1,0 +1,92 @@
+name: '[TRaSH] DTS-HD HRA'
+description: '**Imported from sonarr/dts-hd-hra**
+
+
+  [Technical Whitepaper](https://www.opusproductions.com/pdfs/DTS_HD_WhitePaper.pdf){:target="\_blank"
+  rel="noopener noreferrer"}
+
+
+  | Codec      | Page   | Paragraph |
+
+  | ---------- | ------ | --------- |
+
+  | DTS-HD MA  | Page 6 | 5.1.1     |
+
+  | DTS-HD HRA | Page 7 | 5.1.2     |
+
+
+  DTS-HD HRA is the lossy version of DTS-HD MA.
+
+
+  | Codec          | DTS-HRA          | DTS-MA            |
+
+  | -------------- | ---------------- | ----------------- |
+
+  | Lossy/lossless | Lossy            | Lossless          |
+
+  | Data rate      | 1.5 - 6.0 Mbit/s | VBR - 24.5 Mbit/s |
+
+  | Channels       | Up to 7.1 ch     | Up to 7.1 ch      |
+
+  | Sampling Freq. | 96 kHz           | 192 kHz           |
+
+  | Resolution     | -                | Up to 24-bit      |'
+tags:
+- TRaSH
+- DTS-HD HRA
+conditions:
+- name: DTS-HD HRA
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS-HD HRA
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: TrueHD/ATMOS
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Dolby Digital Plus
+- name: Not Basic DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Basic DTS
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: Basic Dolby Digital
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS X
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: PCM
+- name: Not DTS-ES
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS-ES
+- name: Not 6.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: 6.1 Surround

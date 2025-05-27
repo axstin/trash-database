@@ -1,0 +1,11 @@
+name: '[TRaSH] MULTi'
+description: '**Imported from sonarr/multi**'
+tags:
+- TRaSH
+- MULTi
+conditions:
+- name: Multi
+  negate: false
+  required: true
+  type: release_title
+  pattern: Multi

@@ -1,0 +1,146 @@
+name: '[TRaSH] [Radarr] HD Bluray Tier 01'
+description: '**Imported from radarr/hd-bluray-tier-01**
+
+
+  Groups that:
+
+
+  - Have established themselves as consistently delivering high-quality releases.
+
+  - Use remuxes as their source without micro-sizing them.
+
+  - If Movies => Have a minimum of GP releases. (best encodes in their class 1080p
+  and lower)
+
+  - Follow the [Contributing General Guidelines](https://github.com/TRaSH-Guides/Guides/blob/master/CONTRIBUTING.md#general-guidelines){:target="_blank"
+  rel="noopener noreferrer"}.'
+tags:
+- TRaSH
+- HD Bluray Tier 01
+- TRaSH Radarr
+conditions:
+- name: BLURAY
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux
+- name: Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: BBQ
+  negate: false
+  required: false
+  type: release_group
+  pattern: BBQ
+- name: BMF
+  negate: false
+  required: false
+  type: release_group
+  pattern: BMF-2
+- name: c0kE
+  negate: false
+  required: false
+  type: release_group
+  pattern: c0kE-2
+- name: Chotab
+  negate: false
+  required: false
+  type: release_group
+  pattern: Chotab-2
+- name: CRiSC
+  negate: false
+  required: false
+  type: release_group
+  pattern: CRiSC-2
+- name: CtrlHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: CtrlHD-2
+- name: D-Z0N3
+  negate: false
+  required: false
+  type: release_group
+  pattern: D-Z0N3-2
+- name: Dariush
+  negate: false
+  required: false
+  type: release_group
+  pattern: Dariush-2
+- name: decibeL
+  negate: false
+  required: false
+  type: release_group
+  pattern: decibeL-2
+- name: DON
+  negate: false
+  required: false
+  type: release_group
+  pattern: DON-2
+- name: EbP
+  negate: false
+  required: false
+  type: release_group
+  pattern: EbP-2
+- name: EDPH
+  negate: false
+  required: false
+  type: release_group
+  pattern: EDPH-2
+- name: Geek
+  negate: false
+  required: false
+  type: release_group
+  pattern: Geek-2
+- name: LolHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: LolHD-2
+- name: NCmt
+  negate: false
+  required: false
+  type: release_group
+  pattern: NCmt-2
+- name: PTer
+  negate: false
+  required: false
+  type: release_group
+  pattern: PTer-2
+- name: TayTO
+  negate: false
+  required: false
+  type: release_group
+  pattern: TayTO-2
+- name: TDD
+  negate: false
+  required: false
+  type: release_group
+  pattern: TDD-2
+- name: TnP
+  negate: false
+  required: false
+  type: release_group
+  pattern: TnP-2
+- name: VietHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: VietHD-2
+- name: ZQ
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZQ-2
+- name: ZoroSenpai
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZoroSenpai-2

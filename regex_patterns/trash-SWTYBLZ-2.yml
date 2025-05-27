@@ -1,0 +1,6 @@
+name: SWTYBLZ-2
+pattern: \b(SWTYBLZ)\b
+description: TRaSH pattern imported from radarr/lq-release-title
+tags:
+- TRaSH
+tests: null

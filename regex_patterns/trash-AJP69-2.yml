@@ -1,0 +1,6 @@
+name: AJP69-2
+pattern: ^(AJP69)$
+description: TRaSH pattern imported from radarr/web-tier-01
+tags:
+- TRaSH
+tests: null

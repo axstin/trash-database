@@ -1,0 +1,6 @@
+name: EuReKA
+pattern: ^(EuReKA)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

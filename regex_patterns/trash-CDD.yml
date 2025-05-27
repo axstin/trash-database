@@ -1,0 +1,6 @@
+name: CDD
+pattern: ^(CDD)$
+description: TRaSH pattern imported from sonarr/german-scene
+tags:
+- TRaSH
+tests: null

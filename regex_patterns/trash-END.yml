@@ -1,0 +1,6 @@
+name: END
+pattern: ^(END)$
+description: TRaSH pattern imported from sonarr/web-tier-02
+tags:
+- TRaSH
+tests: null

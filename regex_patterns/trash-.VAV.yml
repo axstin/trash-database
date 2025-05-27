@@ -1,0 +1,6 @@
+name: .VAV
+pattern: '[.]VAV\b'
+description: TRaSH pattern imported from radarr/retags
+tags:
+- TRaSH
+tests: null

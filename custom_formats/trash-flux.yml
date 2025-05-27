@@ -1,0 +1,11 @@
+name: '[TRaSH] FLUX'
+description: '**Imported from sonarr/flux**'
+tags:
+- TRaSH
+- FLUX
+conditions:
+- name: FLUX
+  negate: false
+  required: true
+  type: release_group
+  pattern: FLUX-2

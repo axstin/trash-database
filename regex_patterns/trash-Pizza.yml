@@ -1,0 +1,6 @@
+name: Pizza
+pattern: \[Pizza\]|-Pizza\b
+description: TRaSH pattern imported from radarr/anime-web-tier-02-top-fansubs
+tags:
+- TRaSH
+tests: null

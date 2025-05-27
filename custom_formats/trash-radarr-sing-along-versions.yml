@@ -1,0 +1,15 @@
+name: '[TRaSH] [Radarr] Sing-Along Versions'
+description: '**Imported from radarr/sing-along-versions**
+
+
+  Versions of musical films that have sing-along lyrics hardcoded into the video stream.'
+tags:
+- TRaSH
+- Sing-Along Versions
+- TRaSH Radarr
+conditions:
+- name: Sing-Along
+  negate: false
+  required: true
+  type: release_title
+  pattern: Sing Along

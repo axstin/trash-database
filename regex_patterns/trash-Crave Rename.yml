@@ -1,0 +1,6 @@
+name: Crave Rename
+pattern: \[(CRAV)\b|\b(CRAV)\]
+description: TRaSH pattern imported from radarr/crav
+tags:
+- TRaSH
+tests: null

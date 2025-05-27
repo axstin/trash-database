@@ -1,0 +1,6 @@
+name: VF2
+pattern: \b(VF2|(VF(F|Q)[ .]VF(F|Q)))\b
+description: TRaSH pattern imported from radarr/french-vfq
+tags:
+- TRaSH
+tests: null

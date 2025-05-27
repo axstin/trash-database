@@ -1,0 +1,6 @@
+name: RK
+pattern: ^(RK)$
+description: TRaSH pattern imported from radarr/bad-dual-groups
+tags:
+- TRaSH
+tests: null

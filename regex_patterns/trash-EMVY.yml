@@ -1,0 +1,6 @@
+name: EMVY
+pattern: (EMVY)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

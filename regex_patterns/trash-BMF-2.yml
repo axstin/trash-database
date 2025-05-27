@@ -1,0 +1,6 @@
+name: BMF-2
+pattern: ^(BMF)$
+description: TRaSH pattern imported from radarr/remux-tier-01
+tags:
+- TRaSH
+tests: null

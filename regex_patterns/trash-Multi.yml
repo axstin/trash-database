@@ -1,0 +1,6 @@
+name: Multi
+pattern: \b(Multi)(?![ ._-]?sub(s)?)(\b|\d)
+description: TRaSH pattern imported from radarr/multi
+tags:
+- TRaSH
+tests: null

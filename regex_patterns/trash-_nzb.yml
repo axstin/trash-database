@@ -1,0 +1,6 @@
+name: _nzb
+pattern: _nzb\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

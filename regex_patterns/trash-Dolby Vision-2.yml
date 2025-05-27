@@ -1,0 +1,6 @@
+name: Dolby Vision-2
+pattern: \b(dv|dovi|dolby[ .]?V(ision)?)\b
+description: TRaSH pattern imported from radarr/dv-webdl
+tags:
+- TRaSH
+tests: null

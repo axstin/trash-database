@@ -1,0 +1,6 @@
+name: Basic DTS
+pattern: DTS[ .]?[1-9]
+description: TRaSH pattern imported from radarr/dts-x
+tags:
+- TRaSH
+tests: null

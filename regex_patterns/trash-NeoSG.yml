@@ -1,0 +1,6 @@
+name: NeoSG
+pattern: \b(NeoSG)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-03
+tags:
+- TRaSH
+tests: null

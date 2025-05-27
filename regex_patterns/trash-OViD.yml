@@ -1,0 +1,6 @@
+name: OViD
+pattern: \b(ovid)\b
+description: TRaSH pattern imported from radarr/ovid
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: VinSyn
+pattern: \b(VinSyn)\b
+description: TRaSH pattern imported from radarr/vinegar-syndrome
+tags:
+- TRaSH
+tests: null

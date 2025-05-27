@@ -1,0 +1,59 @@
+name: '[TRaSH] [Radarr] German Bluray Tier 03'
+description: '**Imported from radarr/german-bluray-tier-03**
+
+
+  - WiP
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Bluray Tier 03
+- TRaSH Radarr
+conditions:
+- name: RobertDeNiro
+  negate: false
+  required: false
+  type: release_group
+  pattern: RobertDeNiro-2
+- name: LeetHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: LeetHD
+- name: RHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: RHD
+- name: HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDSource
+- name: UNFIrED
+  negate: false
+  required: false
+  type: release_group
+  pattern: UNFIrED
+- name: iNCEPTION
+  negate: false
+  required: false
+  type: release_group
+  pattern: iNCEPTION
+- name: FX
+  negate: false
+  required: false
+  type: release_group
+  pattern: FX
+- name: Bluray
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux

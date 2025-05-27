@@ -1,0 +1,6 @@
+name: SasukeducK
+pattern: ^(SasukeducK)$
+description: TRaSH pattern imported from radarr/generated-dynamic-hdr
+tags:
+- TRaSH
+tests: null

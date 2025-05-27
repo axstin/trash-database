@@ -1,0 +1,6 @@
+name: Raws-Maji
+pattern: \b(Raws-Maji)\b
+description: TRaSH pattern imported from radarr/anime-raws
+tags:
+- TRaSH
+tests: null

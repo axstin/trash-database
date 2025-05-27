@@ -1,0 +1,6 @@
+name: Yangire-Raws
+pattern: \b(Yangire[ .-]?Raws)\b
+description: TRaSH pattern imported from radarr/french-anime-fansub
+tags:
+- TRaSH
+tests: null

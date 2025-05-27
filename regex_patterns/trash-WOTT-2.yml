@@ -1,0 +1,6 @@
+name: WOTT-2
+pattern: ^(WOTT)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

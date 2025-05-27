@@ -1,0 +1,41 @@
+name: '[TRaSH] [Sonarr] Retags'
+description: '**Imported from sonarr/retags**
+
+
+  Retags are often seen on public trackers, where the tracker or uploader adds their
+  name to the torrent. They may also appear on some Usenet indexers.
+
+
+  - If you rely on public trackers, **DO NOT** use this Custom Format.
+
+  - Use this Custom Format **ONLY** if you **DO NOT** prefer Retagged releases.'
+tags:
+- TRaSH
+- Retags
+- TRaSH Sonarr
+conditions:
+- name: .heb
+  negate: false
+  required: false
+  type: release_title
+  pattern: .heb
+- name: '[eztv]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[eztv]'
+- name: '[rarbg]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[rarbg]'
+- name: '[rartv]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[rartv]'
+- name: '[TGx]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TGx]'

@@ -1,0 +1,6 @@
+name: d3g-2
+pattern: ^(d3g)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

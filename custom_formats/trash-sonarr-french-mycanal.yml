@@ -1,0 +1,36 @@
+name: '[TRaSH] [Sonarr] MyCANAL'
+description: '**Imported from sonarr/french-mycanal**
+
+
+  [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Groupe_Canal%2B){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- MyCANAL
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: CANAL+
+  negate: false
+  required: false
+  type: release_title
+  pattern: CANAL+
+- name: MyCANAL
+  negate: false
+  required: false
+  type: release_title
+  pattern: MyCANAL
+- name: Not MyCanal RlsGrp
+  negate: true
+  required: true
+  type: release_group
+  pattern: MyCanal RlsGrp

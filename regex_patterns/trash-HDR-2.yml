@@ -1,0 +1,6 @@
+name: HDR-2
+pattern: \bHDR(\b|\d)
+description: TRaSH pattern imported from radarr/sic
+tags:
+- TRaSH
+tests: null

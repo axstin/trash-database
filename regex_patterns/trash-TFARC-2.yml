@@ -1,0 +1,6 @@
+name: TFARC-2
+pattern: ^(TFARC)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

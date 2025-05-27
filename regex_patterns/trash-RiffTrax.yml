@@ -1,0 +1,6 @@
+name: RiffTrax
+pattern: ^(Rifftrax)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

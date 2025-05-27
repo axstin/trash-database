@@ -1,0 +1,6 @@
+name: Cancer58
+pattern: (Cancer58)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

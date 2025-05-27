@@ -1,0 +1,24 @@
+name: '[TRaSH] Not German or English'
+description: '**Imported from sonarr/language-not-german-or-english**
+
+
+  Used to avoid releases which do not contain German or English audio.'
+tags:
+- TRaSH
+- Not German or English
+conditions:
+- name: Not English Language
+  negate: true
+  required: true
+  type: language
+  language: english
+- name: Not German Language
+  negate: true
+  required: true
+  type: language
+  language: german
+- name: Not German in Title
+  negate: true
+  required: true
+  type: release_title
+  pattern: German in Title

@@ -1,0 +1,6 @@
+name: BTM
+pattern: ^(BTM)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: C
+pattern: ^(CARAPiLS|CiELOS|CiNEMA|CMBHD|CoRa|COUAC|CRYPT0)$
+description: TRaSH pattern imported from radarr/french-scene
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: Videoland
+pattern: \b(vdl|Videoland)\b
+description: TRaSH pattern imported from radarr/vdl
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: bonkai77
+pattern: \b(bonkai77)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

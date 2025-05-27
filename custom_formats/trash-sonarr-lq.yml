@@ -1,0 +1,169 @@
+name: '[TRaSH] [Sonarr] LQ'
+description: '**Imported from sonarr/lq**
+
+
+  - A collection of known low-quality groups (often banned from the top trackers due
+  to their lack of quality), banned or dishonest release groups, or rips/encodes from
+  the scene and quick-to-release P2P groups that, while adequate, are typically not
+  regarded as high quality.
+
+  - Release groups that disrupt the Starr apps automation because their poor naming
+  could potentially create download loops, even if their overall quality is excellent.
+
+
+  --8<-- "includes/cf-descriptions/apply-10000.md"'
+tags:
+- TRaSH
+- LQ
+- TRaSH Sonarr
+conditions:
+- name: BRiNK
+  negate: false
+  required: false
+  type: release_group
+  pattern: BRiNK
+- name: BTM
+  negate: false
+  required: false
+  type: release_group
+  pattern: BTM
+- name: CHX
+  negate: false
+  required: false
+  type: release_group
+  pattern: CHX
+- name: CTFOH
+  negate: false
+  required: false
+  type: release_group
+  pattern: CTFOH
+- name: d3g
+  negate: false
+  required: false
+  type: release_group
+  pattern: d3g-2
+- name: DepraveD
+  negate: false
+  required: false
+  type: release_group
+  pattern: DepraveD
+- name: EVO
+  negate: false
+  required: false
+  type: release_group
+  pattern: EVO-2
+- name: Feranki1980
+  negate: false
+  required: false
+  type: release_group
+  pattern: Feranki1980
+- name: FGT
+  negate: false
+  required: false
+  type: release_group
+  pattern: FGT
+- name: FMD
+  negate: false
+  required: false
+  type: release_group
+  pattern: FMD
+- name: GHOSTS
+  negate: false
+  required: false
+  type: release_group
+  pattern: GHOSTS
+- name: HiQVE
+  negate: false
+  required: false
+  type: release_group
+  pattern: HiQVE
+- name: iNTENSO
+  negate: false
+  required: false
+  type: release_group
+  pattern: iNTENSO
+- name: iVy
+  negate: false
+  required: false
+  type: release_group
+  pattern: iVy
+- name: JFF
+  negate: false
+  required: false
+  type: release_group
+  pattern: JFF
+- name: KC
+  negate: false
+  required: false
+  type: release_group
+  pattern: KC
+- name: MeGusta
+  negate: false
+  required: false
+  type: release_group
+  pattern: MeGusta
+- name: nhanc3
+  negate: false
+  required: false
+  type: release_group
+  pattern: nhanc3-2
+- name: OFT
+  negate: false
+  required: false
+  type: release_group
+  pattern: OFT
+- name: Pahe
+  negate: false
+  required: false
+  type: release_group
+  pattern: Pahe
+- name: PSA
+  negate: false
+  required: false
+  type: release_group
+  pattern: PSA
+- name: SasukeducK
+  negate: false
+  required: false
+  type: release_group
+  pattern: SasukeducK
+- name: SHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: SHD
+- name: ShieldBearer
+  negate: false
+  required: false
+  type: release_group
+  pattern: ShieldBearer
+- name: TBS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TBS
+- name: TG
+  negate: false
+  required: false
+  type: release_group
+  pattern: TG
+- name: VIDEOHOLE
+  negate: false
+  required: false
+  type: release_group
+  pattern: VIDEOHOLE
+- name: worldmkv
+  negate: false
+  required: false
+  type: release_group
+  pattern: worldmkv
+- name: XLF
+  negate: false
+  required: false
+  type: release_group
+  pattern: XLF
+- name: Zero00
+  negate: false
+  required: false
+  type: release_group
+  pattern: Zero00

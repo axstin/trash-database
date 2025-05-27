@@ -1,0 +1,6 @@
+name: FunArts
+pattern: \b(FunArts)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: Tylor.D-2
+pattern: ^(Tylor\.D)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

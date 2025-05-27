@@ -1,0 +1,6 @@
+name: T4H
+pattern: ^(T4H)$
+description: TRaSH pattern imported from sonarr/web-tier-03
+tags:
+- TRaSH
+tests: null

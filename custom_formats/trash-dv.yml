@@ -1,0 +1,39 @@
+name: '[TRaSH] DV'
+description: '**Imported from sonarr/dv**
+
+
+  Depending on the source (WEB-DL, Bluray, or Remux) this format will match the following:
+
+
+  - With Remuxes, it means that it will have `DV HDR10`.
+
+  - With Bluray encodes, it means it will have `DV HDR10`.
+
+  - With WEB-DL, it means 99% it will only support Dolby Vision without `HDR10` fallback
+  (Incompatible devices will playback with blown out pinks and greens, if you have
+  this issue always make sure you also add the following [Custom Format](#dv-webdl)
+  with a score of `-10000`)'
+tags:
+- TRaSH
+- DV
+conditions:
+- name: DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV
+- name: Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: DV HDR10
+- name: Not DV HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: DV HLG
+- name: Not DV SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: DV SDR

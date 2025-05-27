@@ -1,0 +1,6 @@
+name: Scrambled-2
+pattern: (?<=\bS\d+\b).*(Scrambled)\b
+description: TRaSH pattern imported from sonarr/obfuscated
+tags:
+- TRaSH
+tests: null

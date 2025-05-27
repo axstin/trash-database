@@ -1,0 +1,6 @@
+name: FLUX-2
+pattern: ^(FLUX)$
+description: TRaSH pattern imported from radarr/web-tier-01
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,44 @@
+name: '[TRaSH] PCM'
+description: '**Imported from sonarr/pcm**
+
+
+  PCM is the method of encoding typically used for uncompressed digital audio.'
+tags:
+- TRaSH
+- PCM
+conditions:
+- name: PCM
+  negate: false
+  required: true
+  type: release_title
+  pattern: PCM
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: TrueHD/ATMOS
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Basic Dolby Digital
+- name: 'Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: Dolby Digital Plus

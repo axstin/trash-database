@@ -1,0 +1,6 @@
+name: HDARCHiV
+pattern: ^(HDARCHiV)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

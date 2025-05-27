@@ -1,0 +1,6 @@
+name: LoRD-2
+pattern: ^(LoRD)$
+description: TRaSH pattern imported from radarr/hd-bluray-tier-03
+tags:
+- TRaSH
+tests: null

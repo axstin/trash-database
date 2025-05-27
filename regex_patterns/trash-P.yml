@@ -1,0 +1,6 @@
+name: P
+pattern: ^(PANZeR|PATHECROUTE|Penrose|PiNKPANTERS|PKPTRS|PRiDEHD|PROPJOE|PURE|PUREWASTEOFBW)$
+description: TRaSH pattern imported from radarr/french-scene
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,15 @@
+name: '[TRaSH] Language: Not Original'
+description: '**Imported from sonarr/language-not-original**
+
+
+  Because it uses reverse scoring, and if you use the default scores, it will assign
+  all releases without the original audio a score of `-10000`.'
+tags:
+- TRaSH
+- 'Language: Not Original'
+conditions:
+- name: Not Original Language
+  negate: true
+  required: false
+  type: language
+  language: original

@@ -1,0 +1,6 @@
+name: XEBEC-2
+pattern: ^(XEBEC|4KBEC|CEBEX)$
+description: TRaSH pattern imported from radarr/web-tier-02
+tags:
+- TRaSH
+tests: null

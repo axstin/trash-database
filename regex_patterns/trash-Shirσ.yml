@@ -1,0 +1,6 @@
+name: "Shir\u03C3"
+pattern: "\\b(Shir\u03C3)\\b"
+description: TRaSH pattern imported from radarr/anime-bd-tier-08-mini-encodes
+tags:
+- TRaSH
+tests: null

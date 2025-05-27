@@ -1,0 +1,31 @@
+name: '[TRaSH] [Sonarr] FUNi'
+description: '**Imported from sonarr/funi**
+
+
+  [From Wikipedia, the free encyclopedia](https://www.wikiwand.com/en/Funimation){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- FUNi
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: WEB
+  negate: false
+  required: false
+  type: source
+  source: television
+- name: Funimation
+  negate: false
+  required: true
+  type: release_title
+  pattern: Funimation

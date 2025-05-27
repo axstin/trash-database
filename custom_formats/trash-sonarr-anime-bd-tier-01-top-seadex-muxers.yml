@@ -1,0 +1,86 @@
+name: '[TRaSH] [Sonarr] Anime BD Tier 01 (Top SeaDex Muxers)'
+description: '**Imported from sonarr/anime-bd-tier-01-top-seadex-muxers**
+
+
+  Groups that do the best releases as per SeaDex. They are more consistent and trump
+  others.'
+tags:
+- TRaSH
+- Anime BD Tier 01 (Top SeaDex Muxers)
+- TRaSH Sonarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: Bluray Remux
+  negate: false
+  required: false
+  type: source
+  source: blurayraw
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: Aergia
+  negate: false
+  required: false
+  type: release_title
+  pattern: Aergia
+- name: Arg0
+  negate: false
+  required: false
+  type: release_title
+  pattern: Arg0
+- name: Legion
+  negate: false
+  required: false
+  type: release_title
+  pattern: Legion
+- name: LYS1TH3A
+  negate: false
+  required: false
+  type: release_title
+  pattern: LYS1TH3A
+- name: OZR
+  negate: false
+  required: false
+  type: release_title
+  pattern: OZR
+- name: sam
+  negate: false
+  required: false
+  type: release_title
+  pattern: sam
+- name: SCY
+  negate: false
+  required: false
+  type: release_title
+  pattern: SCY
+- name: smol
+  negate: false
+  required: false
+  type: release_title
+  pattern: smol
+- name: SoM
+  negate: false
+  required: false
+  type: release_title
+  pattern: SoM
+- name: Vanilla
+  negate: false
+  required: false
+  type: release_title
+  pattern: Vanilla
+- name: Vodes
+  negate: false
+  required: false
+  type: release_title
+  pattern: Vodes
+- name: ZeroBuild
+  negate: false
+  required: false
+  type: release_title
+  pattern: ZeroBuild

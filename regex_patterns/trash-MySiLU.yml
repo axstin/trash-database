@@ -1,0 +1,6 @@
+name: MySiLU
+pattern: ^(MySiLU)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

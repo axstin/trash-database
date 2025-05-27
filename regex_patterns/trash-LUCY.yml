@@ -1,0 +1,6 @@
+name: LUCY
+pattern: ^(LUCY)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: GNOMiSSiON
+pattern: ^(GNOMiSSiON)$
+description: TRaSH pattern imported from radarr/web-tier-03
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: Upscaled-2
+pattern: (?<=\b[12]\d{3}\b).*\b(UPS|Up(s(caled?|UHD)|(Rez)))\b
+description: TRaSH pattern imported from radarr/upscaled
+tags:
+- TRaSH
+tests: null

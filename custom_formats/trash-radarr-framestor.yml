@@ -1,0 +1,12 @@
+name: '[TRaSH] [Radarr] FraMeSToR'
+description: '**Imported from radarr/framestor**'
+tags:
+- TRaSH
+- FraMeSToR
+- TRaSH Radarr
+conditions:
+- name: FraMeSToR
+  negate: false
+  required: true
+  type: release_group
+  pattern: FraMeSToR-2

@@ -1,0 +1,6 @@
+name: CC Rename
+pattern: \[(CC)\b|\b(CC)\]
+description: TRaSH pattern imported from sonarr/cc
+tags:
+- TRaSH
+tests: null

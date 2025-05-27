@@ -1,0 +1,6 @@
+name: 4KCONNECTiON
+pattern: ^(4KCONNECTiON)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

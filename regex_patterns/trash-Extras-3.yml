@@ -1,0 +1,6 @@
+name: Extras-3
+pattern: (?<=\bS\d+\b).*\b(Extras|Bonus|Extended[ ._-]Clip)\b
+description: TRaSH pattern imported from sonarr/extras
+tags:
+- TRaSH
+tests: null

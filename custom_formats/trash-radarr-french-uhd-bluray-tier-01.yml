@@ -1,0 +1,64 @@
+name: '[TRaSH] [Radarr] FR UHD Bluray Tier 01'
+description: '**Imported from radarr/french-uhd-bluray-tier-01**
+
+
+  - WiP
+
+  - Groups that created encodes from the remuxes without micro-sizing them.
+
+  - Groups that add the best French audio track to an English release from Tier 01
+  or 02.
+
+  - HDR/DoVi (Depending on what''s offered and often both).
+
+  - HD Audio (Atmos, TrueHD etc...).'
+tags:
+- TRaSH
+- FR UHD Bluray Tier 01
+- TRaSH Radarr
+conditions:
+- name: FLOP
+  negate: false
+  required: false
+  type: release_group
+  pattern: FLOP
+- name: FRATERNiTY
+  negate: false
+  required: false
+  type: release_group
+  pattern: FRATERNiTY
+- name: FoX
+  negate: false
+  required: false
+  type: release_group
+  pattern: FoX
+- name: Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: Psaro
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: SDR
+- name: Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: web_dl
+- name: Not WEBRIP
+  negate: true
+  required: true
+  type: source
+  source: webrip

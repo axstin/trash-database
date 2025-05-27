@@ -1,0 +1,6 @@
+name: HBO Rename
+pattern: \[(HBO)\b|\b(HBO)\]
+description: TRaSH pattern imported from radarr/hbo
+tags:
+- TRaSH
+tests: null

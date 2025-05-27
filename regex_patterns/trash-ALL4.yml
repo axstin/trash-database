@@ -1,0 +1,6 @@
+name: ALL4
+pattern: \b(ALL4)\b
+description: TRaSH pattern imported from sonarr/all4
+tags:
+- TRaSH
+tests: null

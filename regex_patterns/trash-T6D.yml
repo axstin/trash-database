@@ -1,0 +1,6 @@
+name: T6D
+pattern: ^(T6D)$
+description: TRaSH pattern imported from sonarr/web-tier-01
+tags:
+- TRaSH
+tests: null

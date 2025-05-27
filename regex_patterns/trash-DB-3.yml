@@ -1,0 +1,6 @@
+name: DB-3
+pattern: \[DB\]
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

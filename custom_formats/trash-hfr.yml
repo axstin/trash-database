@@ -1,0 +1,16 @@
+name: '[TRaSH] HFR'
+description: '**Imported from sonarr/hfr**
+
+
+  HFR stands for High Frame Rate and refers to a video format that uses a higher number
+  of frames per second than traditional video, which could result in smoother and
+  more detailed motion.'
+tags:
+- TRaSH
+- HFR
+conditions:
+- name: HFR
+  negate: false
+  required: true
+  type: release_title
+  pattern: HFR

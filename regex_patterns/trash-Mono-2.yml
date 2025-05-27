@@ -1,0 +1,6 @@
+name: Mono-2
+pattern: '[^0-9]1[ .]0|\bMono\b|\[PCM \]'
+description: TRaSH pattern imported from sonarr/30-sound
+tags:
+- TRaSH
+tests: null
