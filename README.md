@@ -1,3 +1,7 @@
+# Fork
+
+Adds TRaSH formats and regexes, imported via script from https://github.com/TRaSH-Guides/Guides/tree/master/docs/json
+
 # Dictionarry Database
 
 [![Website](https://img.shields.io/badge/Website-dictionarry.dev-blue)](https://dictionarry.dev)
