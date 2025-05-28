@@ -1,0 +1,31 @@
+name: '[TRaSH] [Sonarr] AUViO'
+description: "**Imported from sonarr/french-auvio**\n\n[From Wikipedia, the free encyclopedia](https://fr.wikipedia.org/wiki/Auvio){:target=\"\
+  \\_blank\" rel=\"noopener noreferrer\"}\n\n**RTBF**<br>\n\n<sub>RTBF = Radio-t\xE9\
+  l\xE9vision belge de la Communaut\xE9 fran\xE7aise (Radio T\xE9l\xE9vision Belge\
+  \ Francophone)</sub>\n\n[From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/RTBF){:target=\"\
+  \\_blank\" rel=\"noopener noreferrer\"}"
+tags:
+- TRaSH
+- AUViO
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: AUViO
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AUViO'
+- name: "Radio T\xE9l\xE9vision Belge Francophone"
+  negate: false
+  required: false
+  type: release_title
+  pattern: "[TRaSH] Radio T\xE9l\xE9vision Belge Francophone"

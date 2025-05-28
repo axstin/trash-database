@@ -1,0 +1,11 @@
+name: '[TRaSH] MPEG2'
+description: '**Imported from sonarr/mpeg2**'
+tags:
+- TRaSH
+- MPEG2
+conditions:
+- name: MPEG2
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] MPEG2'

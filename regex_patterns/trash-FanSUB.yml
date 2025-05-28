@@ -1,6 +1,0 @@
-name: FanSUB
-pattern: \b(FanSUB)\b
-description: TRaSH pattern imported from radarr/fansub
-tags:
-- TRaSH
-tests: null

@@ -1,6 +1,0 @@
-name: Pendeti-2
-pattern: ^(Pendeti)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

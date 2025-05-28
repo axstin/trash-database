@@ -1,6 +1,0 @@
-name: KamiFS
-pattern: \b(KamiFS)\b
-description: TRaSH pattern imported from radarr/dubs-only
-tags:
-- TRaSH
-tests: null

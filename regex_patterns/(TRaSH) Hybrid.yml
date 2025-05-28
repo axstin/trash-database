@@ -1,0 +1,6 @@
+name: '[TRaSH] Hybrid'
+pattern: \bhybrid(\b|\d)
+description: TRaSH pattern imported from radarr/hybrid
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,31 @@
+name: '[TRaSH] [Sonarr] CC'
+description: '**Imported from sonarr/cc**
+
+
+  [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comedy_Central){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- CC
+- TRaSH Sonarr
+conditions:
+- name: Comedy Central
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Comedy Central'
+- name: CC Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CC Rename'
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

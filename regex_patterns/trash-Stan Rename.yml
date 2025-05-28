@@ -1,6 +1,0 @@
-name: Stan Rename
-pattern: \[(STAN)\b|\b(STAN)\]
-description: TRaSH pattern imported from radarr/stan
-tags:
-- TRaSH
-tests: null

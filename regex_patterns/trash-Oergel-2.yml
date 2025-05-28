@@ -1,6 +1,0 @@
-name: Oergel-2
-pattern: ^(Oergel)$
-description: TRaSH pattern imported from sonarr/german-web-tier-02
-tags:
-- TRaSH
-tests: null

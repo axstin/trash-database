@@ -1,6 +1,0 @@
-name: INFLATE
-pattern: ^(INFLATE)$
-description: TRaSH pattern imported from sonarr/web-scene
-tags:
-- TRaSH
-tests: null

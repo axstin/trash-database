@@ -1,0 +1,34 @@
+name: '[TRaSH] Anime Dual Audio'
+description: '**Imported from sonarr/anime-dual-audio**
+
+
+  This Custom Format covers releases that have Dual Audio.'
+tags:
+- TRaSH
+- Anime Dual Audio
+conditions:
+- name: Dual Audio
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dual Audio'
+- name: Not Single Language Only
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Single Language Only'
+- name: Japanese Language
+  negate: false
+  required: false
+  type: language
+  language: japanese
+- name: Chinese Language
+  negate: false
+  required: false
+  type: language
+  language: chinese
+- name: Korean Language
+  negate: false
+  required: false
+  type: language
+  language: korean

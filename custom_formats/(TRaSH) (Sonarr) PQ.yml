@@ -1,0 +1,45 @@
+name: '[TRaSH] [Sonarr] PQ'
+description: '**Imported from sonarr/pq**
+
+
+  PQ (perceptual quantizer) or PQ10 is the most basic HDR format that can be used
+  for both video and still images. It is the same as the HDR10 format without any
+  metadata.
+
+
+  You will find this mainly with older movies.'
+tags:
+- TRaSH
+- PQ
+- TRaSH Sonarr
+conditions:
+- name: PQ
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] PQ'
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV'
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: HDR10
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HDR10+'
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HLG'
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] SDR'

@@ -1,0 +1,6 @@
+name: '[TRaSH] matheousse'
+pattern: \b(matheousse)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-03
+tags:
+- TRaSH
+tests: null

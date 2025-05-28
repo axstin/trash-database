@@ -1,6 +1,0 @@
-name: KAN3D2M-2
-pattern: \b(KAN3D2M)\b
-description: TRaSH pattern imported from radarr/anime-web-tier-04-official-subs
-tags:
-- TRaSH
-tests: null

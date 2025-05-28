@@ -1,6 +1,0 @@
-name: Proper2
-pattern: \b(Proper2)\b
-description: TRaSH pattern imported from radarr/repack2
-tags:
-- TRaSH
-tests: null

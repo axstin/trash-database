@@ -1,0 +1,6 @@
+name: '[TRaSH] Oergel'
+pattern: (Oergel)$
+description: TRaSH pattern imported from radarr/german-web-tier-02
+tags:
+- TRaSH
+tests: null

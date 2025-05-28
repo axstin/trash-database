@@ -1,0 +1,6 @@
+name: '[TRaSH] [TGx]'
+pattern: \[TGx\]
+description: TRaSH pattern imported from radarr/retags
+tags:
+- TRaSH
+tests: null

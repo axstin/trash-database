@@ -1,0 +1,69 @@
+name: '[TRaSH] [Radarr] LQ (Release Title)'
+description: '**Imported from radarr/lq-release-title**
+
+
+  A collection of terms seen in the titles of Low-Quality releases that are not captured
+  by using a release group name.
+
+
+  --8<-- "includes/cf-descriptions/apply-10000.md"'
+tags:
+- TRaSH
+- LQ (Release Title)
+- TRaSH Radarr
+conditions:
+- name: 1XBET
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] 1XBET'
+- name: BEN THE MEN
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BEN THE MEN'
+- name: EVO (no WEBDL)
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] EVO (no WEBDL)'
+- name: Feranki1980
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Feranki1980-2'
+- name: GalaxyRG
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] GalaxyRG-2'
+- name: jennaortega
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] jennaortega-2'
+- name: PiRaTeS (no WEBDL)
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] PiRaTeS (no WEBDL)'
+- name: SWTYBLZ
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SWTYBLZ'
+- name: TeeWee
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TeeWee'
+- name: TEKNO3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TEKNO3D-2'
+- name: Will1869
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Will1869'

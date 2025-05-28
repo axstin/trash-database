@@ -1,0 +1,6 @@
+name: '[TRaSH] xh265'
+pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
+description: TRaSH pattern imported from radarr/x265
+tags:
+- TRaSH
+tests: null

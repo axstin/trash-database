@@ -1,6 +1,0 @@
-name: FastSUB
-pattern: \b(FastSUB)\b
-description: TRaSH pattern imported from radarr/fastsub
-tags:
-- TRaSH
-tests: null

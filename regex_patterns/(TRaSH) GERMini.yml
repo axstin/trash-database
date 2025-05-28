@@ -1,0 +1,6 @@
+name: '[TRaSH] GERMini'
+pattern: \b(GERMini)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: Anitsu
-pattern: \b(Anitsu)\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

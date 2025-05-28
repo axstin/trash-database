@@ -1,0 +1,6 @@
+name: '[TRaSH] TVSmash'
+pattern: ^(TVSmash)$
+description: TRaSH pattern imported from sonarr/web-tier-02
+tags:
+- TRaSH
+tests: null

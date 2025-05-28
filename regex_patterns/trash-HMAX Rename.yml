@@ -1,6 +1,0 @@
-name: HMAX Rename
-pattern: \[(HMAX)\b|\b(HMAX)\]
-description: TRaSH pattern imported from radarr/hmax
-tags:
-- TRaSH
-tests: null

@@ -1,6 +1,0 @@
-name: INTERNAL
-pattern: \b(INTERNAL)\b
-description: TRaSH pattern imported from radarr/internal
-tags:
-- TRaSH
-tests: null

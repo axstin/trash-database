@@ -1,0 +1,6 @@
+name: '[TRaSH] Judgement'
+pattern: \[Judgment\]|-Judgment\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,74 @@
+name: '[TRaSH] [Sonarr] German Bluray Tier 01'
+description: '**Imported from sonarr/german-bluray-tier-01**
+
+
+  - WiP
+
+  - Groups that get their releases directly from the source.
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that source and add the German audio track from the source to an English
+  release from Tier 01 or 02.
+
+  - HDR/DoVi (Depending on what''s offered and often both).'
+tags:
+- TRaSH
+- German Bluray Tier 01
+- TRaSH Sonarr
+conditions:
+- name: ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ZeroTwo'
+- name: ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ZeroTwo Aliases-2'
+- name: TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TSCC'
+- name: TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TvR'
+- name: NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NIMA4K'
+- name: TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TVS'
+- name: PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PXL'
+- name: CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CNY'
+- name: WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WeebPinn'
+- name: Bluray
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not REMUX
+  negate: true
+  required: true
+  type: source
+  source: blurayraw

@@ -1,6 +1,0 @@
-name: SHOWE-2
-pattern: ^(SHOWE)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] ARC'
+pattern: \[ARC\]|-ARC\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-02-seadex-muxers
+tags:
+- TRaSH
+tests: null

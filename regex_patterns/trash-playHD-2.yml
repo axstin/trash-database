@@ -1,6 +1,0 @@
-name: playHD-2
-pattern: ^(playHD)$
-description: TRaSH pattern imported from radarr/hd-bluray-tier-03
-tags:
-- TRaSH
-tests: null

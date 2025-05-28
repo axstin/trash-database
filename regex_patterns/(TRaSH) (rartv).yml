@@ -1,0 +1,6 @@
+name: '[TRaSH] [rartv]'
+pattern: \[rartv\]
+description: TRaSH pattern imported from radarr/retags
+tags:
+- TRaSH
+tests: null

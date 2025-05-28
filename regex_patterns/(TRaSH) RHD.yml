@@ -1,0 +1,6 @@
+name: '[TRaSH] RHD'
+pattern: ^(RHD)$
+description: TRaSH pattern imported from radarr/german-remux-tier-02
+tags:
+- TRaSH
+tests: null

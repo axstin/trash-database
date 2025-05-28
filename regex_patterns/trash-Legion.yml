@@ -1,6 +1,0 @@
-name: Legion
-pattern: \[Legion\]|-Legion\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-01-top-seadex-muxers
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] VF2-2'
+pattern: \b(VF2)\b
+description: TRaSH pattern imported from radarr/french-vf2
+tags:
+- TRaSH
+tests: null

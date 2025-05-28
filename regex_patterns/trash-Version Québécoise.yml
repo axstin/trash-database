@@ -1,6 +1,0 @@
-name: "Version Qu\xE9b\xE9coise"
-pattern: \b(VQ)\b
-description: TRaSH pattern imported from radarr/french-vq
-tags:
-- TRaSH
-tests: null

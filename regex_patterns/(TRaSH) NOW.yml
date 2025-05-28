@@ -1,0 +1,6 @@
+name: '[TRaSH] NOW'
+pattern: \b(now)\b[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from radarr/now
+tags:
+- TRaSH
+tests: null

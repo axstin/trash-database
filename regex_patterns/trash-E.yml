@@ -1,6 +1,0 @@
-name: E
-pattern: ^(ENJOi|EUBDS)$
-description: TRaSH pattern imported from radarr/french-scene
-tags:
-- TRaSH
-tests: null

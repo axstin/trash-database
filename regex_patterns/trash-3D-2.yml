@@ -1,6 +1,0 @@
-name: 3D-2
-pattern: (?<=\b[12]\d{3}\b).*\b(3d|sbs|half[ .-]ou|half[ .-]sbs)\b
-description: TRaSH pattern imported from radarr/3d
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] BlackAngel'
+pattern: ^(BlackAngel)$
+description: TRaSH pattern imported from radarr/french-remux-tier-01
+tags:
+- TRaSH
+tests: null

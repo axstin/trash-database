@@ -1,6 +1,0 @@
-name: SEiN
-pattern: \[SEiN\]|-SEiN\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

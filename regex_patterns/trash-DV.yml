@@ -1,6 +1,0 @@
-name: DV
-pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
-description: TRaSH pattern imported from radarr/sic
-tags:
-- TRaSH
-tests: null

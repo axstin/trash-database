@@ -1,0 +1,6 @@
+name: '[TRaSH] SiC-2'
+pattern: \bSiC\b
+description: TRaSH pattern imported from radarr/sic
+tags:
+- TRaSH
+tests: null

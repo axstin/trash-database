@@ -1,0 +1,6 @@
+name: '[TRaSH] APEX'
+pattern: ^(APEX|PAXA|PEXA|XEPA)$
+description: TRaSH pattern imported from radarr/web-tier-01
+tags:
+- TRaSH
+tests: null

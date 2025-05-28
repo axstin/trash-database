@@ -1,6 +1,0 @@
-name: Extended Clip-2
-pattern: \b(Extended[ ._-]Clip)\b
-description: TRaSH pattern imported from radarr/special-edition
-tags:
-- TRaSH
-tests: null

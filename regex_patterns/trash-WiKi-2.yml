@@ -1,6 +1,0 @@
-name: WiKi-2
-pattern: ^(WiKi)$
-description: TRaSH pattern imported from radarr/lq
-tags:
-- TRaSH
-tests: null

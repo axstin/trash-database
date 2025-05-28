@@ -1,0 +1,64 @@
+name: '[TRaSH] FR Anime FanSub'
+description: '**Imported from sonarr/french-anime-fansub**
+
+
+  Known good groups that only do FanSub in good quality.'
+tags:
+- TRaSH
+- FR Anime FanSub
+conditions:
+- name: Anime-Heart
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Anime-Heart'
+- name: Kaerizaki-Fansub
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kaerizaki-Fansub'
+- name: Natsumi-no-Sekai
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Natsumi-no-Sekai'
+- name: NekoYu'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NekoYu'
+- name: Onii-ChanSub
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Onii-ChanSub'
+- name: Owlolf
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Owlolf'
+- name: Pikari-Teshima
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Pikari-Teshima'
+- name: Seimeisen
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Seimeisen'
+- name: Team Arcedo
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Team Arcedo'
+- name: Yarashii
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Yarashii'
+- name: Yangire-Raws
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Yangire-Raws'

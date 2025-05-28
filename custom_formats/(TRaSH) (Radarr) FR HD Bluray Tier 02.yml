@@ -1,0 +1,78 @@
+name: '[TRaSH] [Radarr] FR HD Bluray Tier 02'
+description: '**Imported from radarr/french-hd-bluray-tier-02**
+
+
+  - WiP
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that have the best French audio track to an English release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- FR HD Bluray Tier 02
+- TRaSH Radarr
+conditions:
+- name: BLURAY
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux
+- name: Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDForever'
+- name: HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HeavyWeight'
+- name: MARBLECAKE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MARBLECAKE'
+- name: MYSTERiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MYSTERiON'
+- name: NoNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NoNE-2'
+- name: ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ONLY'
+- name: ONLYMOViE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ONLYMOViE'
+- name: TkHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TkHD'
+- name: UTT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] UTT'

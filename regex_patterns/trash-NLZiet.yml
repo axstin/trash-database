@@ -1,6 +1,0 @@
-name: NLZiet
-pattern: \b(nlz|NLZiet)\b
-description: TRaSH pattern imported from sonarr/nlz
-tags:
-- TRaSH
-tests: null

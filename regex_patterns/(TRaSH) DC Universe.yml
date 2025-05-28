@@ -1,0 +1,6 @@
+name: '[TRaSH] DC Universe'
+pattern: \b(dcu|DC Universe)\b
+description: TRaSH pattern imported from sonarr/dcu
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: Hark0N
-pattern: \b(Hark0N)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-07-p2pscene
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,71 @@
+name: '[TRaSH] [Radarr] FR Remux Tier 01'
+description: '**Imported from radarr/french-remux-tier-01**
+
+
+  - WiP
+
+  - Groups that produce remuxes from multiple sources (discs) and combine them to
+  produce the best end result.
+
+  - Groups producing remuxes with a group from Remux Tier 01 or 02 adding the best
+  available French Audio.'
+tags:
+- TRaSH
+- FR Remux Tier 01
+- TRaSH Radarr
+conditions:
+- name: Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: remux
+- name: BlackAngel
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BlackAngel'
+- name: Choco
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Choco'
+- name: HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDForever'
+- name: MAX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MAX'
+- name: ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ONLY'
+- name: Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Psaro'
+- name: Sicario
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Sicario'
+- name: Tezcat74
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Tezcat74'
+- name: TyrellCorp
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TyrellCorp'
+- name: Zapax
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Zapax'

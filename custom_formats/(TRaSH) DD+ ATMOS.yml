@@ -1,0 +1,50 @@
+name: '[TRaSH] DD+ ATMOS'
+description: '**Imported from sonarr/ddplus-atmos**
+
+
+  Atmos via UHD Blu-ray will be lossless, or lossy via streaming services so in this
+  case it will be lossy + Atmos'
+tags:
+- TRaSH
+- DD+ ATMOS
+conditions:
+- name: Dolby Digital Plus
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dolby Digital Plus'
+- name: ATMOS
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] ATMOS-2'
+- name: Not TrueHD
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] TrueHD'
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Basic Dolby Digital'
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: PCM

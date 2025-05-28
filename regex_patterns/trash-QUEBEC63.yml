@@ -1,6 +1,0 @@
-name: QUEBEC63
-pattern: ^(Q(UEBE)?C63)$
-description: TRaSH pattern imported from radarr/french-remux-tier-02
-tags:
-- TRaSH
-tests: null

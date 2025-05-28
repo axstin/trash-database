@@ -1,6 +1,0 @@
-name: Zero00
-pattern: ^(Zero00)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

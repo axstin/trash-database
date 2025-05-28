@@ -1,6 +1,0 @@
-name: sbR-3
-pattern: ^(sbR)$
-description: TRaSH pattern imported from radarr/hd-bluray-tier-02
-tags:
-- TRaSH
-tests: null

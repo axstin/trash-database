@@ -1,0 +1,32 @@
+name: '[TRaSH] [Radarr] 3.0 Sound'
+description: '**Imported from radarr/30-sound**'
+tags:
+- TRaSH
+- 3.0 Sound
+- TRaSH Radarr
+conditions:
+- name: 3.0ch
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] 3.0ch'
+- name: Not Mono
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Mono'
+- name: Not Stereo
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Stereo'
+- name: Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] 4.0ch'
+- name: Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] High Channel Count'

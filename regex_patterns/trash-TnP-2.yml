@@ -1,6 +1,0 @@
-name: TnP-2
-pattern: ^(TnP)$
-description: TRaSH pattern imported from radarr/hd-bluray-tier-01
-tags:
-- TRaSH
-tests: null

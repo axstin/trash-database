@@ -1,0 +1,6 @@
+name: '[TRaSH] VietHD'
+pattern: ^(VietHD)$
+description: TRaSH pattern imported from radarr/hd-bluray-tier-01
+tags:
+- TRaSH
+tests: null

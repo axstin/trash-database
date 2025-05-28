@@ -1,6 +1,0 @@
-name: MZABI-2
-pattern: ^(MZABI)$
-description: TRaSH pattern imported from radarr/web-tier-02
-tags:
-- TRaSH
-tests: null

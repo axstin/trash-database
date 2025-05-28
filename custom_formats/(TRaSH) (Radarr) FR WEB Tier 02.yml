@@ -1,0 +1,72 @@
+name: '[TRaSH] [Radarr] FR WEB Tier 02'
+description: '**Imported from radarr/french-web-tier-02**
+
+
+  - WiP
+
+  - Groups that source and add the French audio track from the source to an English
+  release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- FR WEB Tier 02
+- TRaSH Radarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: ALLDAYiN
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ALLDAYiN'
+- name: ARK01
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ARK01'
+- name: HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HeavyWeight'
+- name: NEO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NEO'
+- name: NoNe
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NoNe'
+- name: ONLYMOViE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ONLYMOViE'
+- name: POTO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] POTO'
+- name: Slay3R
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Slay3R'
+- name: TkHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TkHD'

@@ -1,6 +1,0 @@
-name: NoLo
-pattern: ^(NoLo)$
-description: TRaSH pattern imported from sonarr/french-web-tier-01
-tags:
-- TRaSH
-tests: null

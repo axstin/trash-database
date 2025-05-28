@@ -1,6 +1,0 @@
-name: Hybrid Release Group-2
-pattern: -HYBRID
-description: TRaSH pattern imported from radarr/dv-disk
-tags:
-- TRaSH
-tests: null

@@ -1,6 +1,0 @@
-name: SiC-2
-pattern: ^(SiC)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

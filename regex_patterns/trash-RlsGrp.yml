@@ -1,6 +1,0 @@
-name: RlsGrp
-pattern: \b(Flights)\b
-description: TRaSH pattern imported from radarr/dv-webdl
-tags:
-- TRaSH
-tests: null

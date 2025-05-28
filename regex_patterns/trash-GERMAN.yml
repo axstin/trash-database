@@ -1,6 +1,0 @@
-name: GERMAN
-pattern: \b(GERMAN)\b
-description: TRaSH pattern imported from radarr/scene
-tags:
-- TRaSH
-tests: null

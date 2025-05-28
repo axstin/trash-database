@@ -1,0 +1,6 @@
+name: '[TRaSH] SYFY'
+pattern: \b(SYFY)\b
+description: TRaSH pattern imported from sonarr/syfy
+tags:
+- TRaSH
+tests: null

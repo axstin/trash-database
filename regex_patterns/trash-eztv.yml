@@ -1,6 +1,0 @@
-name: '[eztv]'
-pattern: \[eztvx?[ ._-]?(io|re|to)?\]
-description: TRaSH pattern imported from radarr/retags
-tags:
-- TRaSH
-tests: null

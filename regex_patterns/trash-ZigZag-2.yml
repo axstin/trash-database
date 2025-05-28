@@ -1,6 +1,0 @@
-name: ZigZag-2
-pattern: "\\[ZigZag\\]|-ZigZab\b"
-description: TRaSH pattern imported from radarr/anime-web-tier-04-official-subs
-tags:
-- TRaSH
-tests: null

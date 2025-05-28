@@ -1,6 +1,0 @@
-name: HELD-2
-pattern: ^(HELD)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

@@ -1,6 +1,0 @@
-name: HQC
-pattern: ^(HQC)$
-description: TRaSH pattern imported from sonarr/german-web-tier-03
-tags:
-- TRaSH
-tests: null

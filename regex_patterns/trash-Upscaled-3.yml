@@ -1,6 +1,0 @@
-name: Upscaled-3
-pattern: (?<=\b\d{3,4}p\b).*\b(UPS|Up(s(caled?|UHD)|(Rez)))\b
-description: TRaSH pattern imported from sonarr/upscaled
-tags:
-- TRaSH
-tests: null

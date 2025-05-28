@@ -1,6 +1,0 @@
-name: Ohys-Raws
-pattern: Ohys[ ._-]?(Raws)
-description: TRaSH pattern imported from radarr/anime-raws
-tags:
-- TRaSH
-tests: null

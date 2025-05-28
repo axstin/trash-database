@@ -1,0 +1,35 @@
+name: '[TRaSH] [Radarr] Upscaled'
+description: '**Imported from radarr/upscaled**
+
+
+  This custom format is used to prevent grabbing upscaled releases.'
+tags:
+- TRaSH
+- Upscaled
+- TRaSH Radarr
+conditions:
+- name: AI Upscales
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AI Upscales'
+- name: AIUS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AIUS'
+- name: Regrade
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Regrade'
+- name: TheUpscaler
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TheUpscaler'
+- name: Upscaled
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Upscaled'

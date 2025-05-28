@@ -1,6 +1,0 @@
-name: HIDIVE
-pattern: \b(HIDI(VE)?)\b
-description: TRaSH pattern imported from sonarr/hidive
-tags:
-- TRaSH
-tests: null

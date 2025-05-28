@@ -1,0 +1,6 @@
+name: '[TRaSH] VC-1'
+pattern: \bVC[-_. ]?1\b
+description: TRaSH pattern imported from radarr/vc-1
+tags:
+- TRaSH
+tests: null

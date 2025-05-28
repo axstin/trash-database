@@ -1,0 +1,6 @@
+name: '[TRaSH] TV4A'
+pattern: ^(TV4A)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

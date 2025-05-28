@@ -1,0 +1,51 @@
+name: '[TRaSH] [Radarr] TrueHD ATMOS'
+description: '**Imported from radarr/truehd-atmos**
+
+
+  [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Dolby_Atmos){:target="\_blank"
+  rel="noopener noreferrer"}
+
+
+  Dolby Atmos is a surround sound technology developed by Dolby Laboratories. It expands
+  on existing surround sound systems by adding height channels, allowing sounds to
+  be interpreted as three-dimensional objects.'
+tags:
+- TRaSH
+- TrueHD ATMOS
+- TRaSH Radarr
+conditions:
+- name: TrueHD
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] TrueHD-2'
+- name: ATMOS
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] ATMOS'
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Basic Dolby Digital'
+- name: 'Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dolby Digital Plus'
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DTS X'
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC

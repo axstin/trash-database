@@ -1,6 +1,0 @@
-name: HAV1T
-pattern: \b(HAV1T)\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

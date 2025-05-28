@@ -1,6 +1,0 @@
-name: MULTi-2
-pattern: \b(MULTi)(\b|\d)
-description: TRaSH pattern imported from radarr/language-original-plus-french
-tags:
-- TRaSH
-tests: null

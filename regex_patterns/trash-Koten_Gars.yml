@@ -1,6 +1,0 @@
-name: Koten_Gars
-pattern: \b(Koten[ ._-]Gars)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-04-seadex-muxers
-tags:
-- TRaSH
-tests: null

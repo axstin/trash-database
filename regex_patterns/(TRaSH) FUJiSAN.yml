@@ -1,0 +1,6 @@
+name: '[TRaSH] FUJiSAN'
+pattern: \b(FUJiSAN)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-02
+tags:
+- TRaSH
+tests: null

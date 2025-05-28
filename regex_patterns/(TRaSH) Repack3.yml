@@ -1,0 +1,6 @@
+name: '[TRaSH] Repack3'
+pattern: \b(Repack3)\b
+description: TRaSH pattern imported from radarr/repack3
+tags:
+- TRaSH
+tests: null

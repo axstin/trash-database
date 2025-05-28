@@ -1,0 +1,6 @@
+name: '[TRaSH] ViSiON'
+pattern: ^(ViSiON)$
+description: TRaSH pattern imported from sonarr/web-tier-03
+tags:
+- TRaSH
+tests: null

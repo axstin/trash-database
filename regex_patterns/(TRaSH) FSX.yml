@@ -1,0 +1,6 @@
+name: '[TRaSH] FSX'
+pattern: (FSX)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

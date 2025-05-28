@@ -1,0 +1,56 @@
+name: '[TRaSH] HDR (undefined)'
+description: '**Imported from sonarr/hdr-undefined**
+
+
+  Some release groups don''t add HDR to their 4K release naming scheme.
+
+
+  Currently, only FraMeSToR and HQMUX do not include the ''HDR'' tag. In the future,
+  we can add more when it''s needed.
+
+
+  Add this Custom Format with the same score you use for `HDR10`.'
+tags:
+- TRaSH
+- HDR (undefined)
+conditions:
+- name: RlsGrp (Missing HDR)
+  negate: false
+  required: true
+  type: release_group
+  pattern: '[TRaSH] RlsGrp (Missing HDR)'
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV'
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: HDR10
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HDR10+'
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HLG'
+- name: Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] PQ'
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] SDR'

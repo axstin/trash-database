@@ -1,0 +1,6 @@
+name: '[TRaSH] SIGMA-2'
+pattern: ^(SIGMA)$
+description: TRaSH pattern imported from sonarr/web-tier-02
+tags:
+- TRaSH
+tests: null

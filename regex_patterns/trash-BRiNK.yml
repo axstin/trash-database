@@ -1,6 +1,0 @@
-name: BRiNK
-pattern: ^(BRiNK)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

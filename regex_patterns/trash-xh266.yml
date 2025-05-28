@@ -1,6 +1,0 @@
-name: x|h266
-pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
-description: TRaSH pattern imported from radarr/x266
-tags:
-- TRaSH
-tests: null

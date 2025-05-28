@@ -1,6 +1,0 @@
-name: UDF
-pattern: \b(UDF)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-02-seadex-muxers
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] Subbed'
+pattern: (?=.*(German|Ger))(?=.*(Sub|Multi(ple)?Sub))
+description: TRaSH pattern imported from radarr/language-german
+tags:
+- TRaSH
+tests: null

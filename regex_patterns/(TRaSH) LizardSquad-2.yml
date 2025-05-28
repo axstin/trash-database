@@ -1,0 +1,6 @@
+name: '[TRaSH] LizardSquad-2'
+pattern: ^(LizardSquad)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

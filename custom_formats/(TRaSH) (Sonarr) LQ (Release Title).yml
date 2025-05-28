@@ -1,0 +1,39 @@
+name: '[TRaSH] [Sonarr] LQ (Release Title)'
+description: '**Imported from sonarr/lq-release-title**
+
+
+  A collection of terms seen in the titles of Low-Quality releases that are not captured
+  by using a release group name.
+
+
+  --8<-- "includes/cf-descriptions/apply-10000.md"'
+tags:
+- TRaSH
+- LQ (Release Title)
+- TRaSH Sonarr
+conditions:
+- name: BEN THE MEN
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BEN THE MEN'
+- name: BiTOR (2160p)
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BiTOR (2160p)'
+- name: CREATiVE24
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CREATiVE24-2'
+- name: Feranki1980
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Feranki1980-2'
+- name: TeeWee
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TeeWee'

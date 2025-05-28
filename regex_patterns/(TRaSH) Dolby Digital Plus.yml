@@ -1,0 +1,6 @@
+name: '[TRaSH] Dolby Digital Plus'
+pattern: \bDD[P+]|\b(e[-_. ]?ac-?3)\b
+description: TRaSH pattern imported from radarr/truehd
+tags:
+- TRaSH
+tests: null

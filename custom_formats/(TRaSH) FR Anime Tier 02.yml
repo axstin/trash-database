@@ -1,0 +1,59 @@
+name: '[TRaSH] FR Anime Tier 02'
+description: '**Imported from sonarr/french-anime-tier-02**
+
+
+  - WIP
+
+  - Groups that are known to be active and only doing Anime, but with few releases
+  per year.
+
+  - Groups that are known to be active and doing Anime AND other types of releases.'
+tags:
+- TRaSH
+- FR Anime Tier 02
+conditions:
+- name: Aoi-Project
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Aoi-Project'
+- name: Elecman
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Elecman'
+- name: FUJiSAN
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] FUJiSAN'
+- name: GundamGuy
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] GundamGuy'
+- name: IssouCorp
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] IssouCorp'
+- name: KAF
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KAF'
+- name: Nagutos
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Nagutos'
+- name: OECUF
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] OECUF'
+- name: XSPITFIRE911
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] XSPITFIRE911'

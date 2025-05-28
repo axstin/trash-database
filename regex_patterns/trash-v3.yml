@@ -1,6 +1,0 @@
-name: v3
-pattern: (\b|\d)(v3)\b
-description: TRaSH pattern imported from radarr/v3
-tags:
-- TRaSH
-tests: null

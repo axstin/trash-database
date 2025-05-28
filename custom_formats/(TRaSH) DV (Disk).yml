@@ -1,0 +1,35 @@
+name: '[TRaSH] DV (Disk)'
+description: '**Imported from sonarr/dv-disk**
+
+
+  This will boost the score for Dolby Vision Releases using the original full-quality
+  Dolby Vision layer from the disc release to replace the old WEBDL HYBRID release.'
+tags:
+- TRaSH
+- DV (Disk)
+conditions:
+- name: FraMeSToR
+  negate: false
+  required: true
+  type: release_group
+  pattern: '[TRaSH] FraMeSToR-2'
+- name: DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV'
+- name: No FANRES
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] No FANRES'
+- name: Not Hybrid
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Hybrid'
+- name: Not Hybrid Release Group
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Hybrid Release Group-2'

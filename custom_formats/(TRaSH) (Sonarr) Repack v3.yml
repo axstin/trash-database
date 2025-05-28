@@ -1,0 +1,17 @@
+name: '[TRaSH] [Sonarr] Repack v3'
+description: '**Imported from sonarr/repack-v3**'
+tags:
+- TRaSH
+- Repack v3
+- TRaSH Sonarr
+conditions:
+- name: Repack v3
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Repack v3'
+- name: RealRealProperRepack
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RealRealProperRepack'

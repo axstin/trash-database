@@ -1,0 +1,6 @@
+name: '[TRaSH] Erai-Raws'
+pattern: \b(Erai-raws)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-04-official-subs
+tags:
+- TRaSH
+tests: null

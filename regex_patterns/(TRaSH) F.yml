@@ -1,0 +1,6 @@
+name: '[TRaSH] F'
+pattern: ^(FHD|FiDELiO|FiDO|ForceBleue|FREAMON|FRENCHDEADPOOL2|FRiES|FUTiL|FWDHD)$
+description: TRaSH pattern imported from radarr/french-scene
+tags:
+- TRaSH
+tests: null

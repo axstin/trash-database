@@ -1,0 +1,6 @@
+name: '[TRaSH] Galactic'
+pattern: \b(Galactic)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-03
+tags:
+- TRaSH
+tests: null

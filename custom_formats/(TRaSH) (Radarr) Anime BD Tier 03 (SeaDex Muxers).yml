@@ -1,0 +1,201 @@
+name: '[TRaSH] [Radarr] Anime BD Tier 03 (SeaDex Muxers)'
+description: '**Imported from radarr/anime-bd-tier-03-seadex-muxers**
+
+
+  Groups that do the best releases as per SeaDex. They are more consistent and trump
+  others.'
+tags:
+- TRaSH
+- Anime BD Tier 03 (SeaDex Muxers)
+- TRaSH Radarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: AC
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AC'
+- name: ASC
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ASC'
+- name: AssMix
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AssMix'
+- name: Ayashii
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Ayashii'
+- name: CBT
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CBT'
+- name: CRUCiBLE
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CRUCiBLE'
+- name: CTR
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CTR'
+- name: CyC
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CyC'
+- name: Dekinai
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Dekinai'
+- name: EXP
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] EXP'
+- name: Flugel
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Flugel'
+- name: Galator
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Galator'
+- name: GSK_kun
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] GSK_kun'
+- name: Holomux
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Holomux'
+- name: IK
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] IK'
+- name: Kaizoku
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kaizoku'
+- name: Kametsu
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kametsu'
+- name: KH
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KH'
+- name: kuchikirukia
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] kuchikirukia'
+- name: LazyRemux
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] LazyRemux'
+- name: MK
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] MK'
+- name: Mysteria
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Mysteria'
+- name: NAN0
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NAN0'
+- name: Netaro
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Netaro'
+- name: Pn8
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Pn8'
+- name: Pookie
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Pookie'
+- name: Quetzal
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Quetzal'
+- name: Rasetsu
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Rasetsu'
+- name: Senjou
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Senjou'
+- name: ShowY
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ShowY'
+- name: WBDP
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] WBDP'
+- name: WSE
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] WSE'
+- name: Yoghurt
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Yoghurt'
+- name: YURI
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] YURI'
+- name: ZOIO
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ZOIO'
+- name: ZR
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ZR-2'

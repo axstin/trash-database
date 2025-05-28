@@ -1,6 +1,0 @@
-name: NOSiViD-2
-pattern: ^(NOSiViD)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

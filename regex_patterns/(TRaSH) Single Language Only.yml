@@ -1,0 +1,6 @@
+name: '[TRaSH] Single Language Only'
+pattern: \[(JA|ZH|KO)\]
+description: TRaSH pattern imported from radarr/anime-dual-audio
+tags:
+- TRaSH
+tests: null

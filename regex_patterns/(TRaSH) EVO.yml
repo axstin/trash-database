@@ -1,0 +1,6 @@
+name: '[TRaSH] EVO'
+pattern: ^(EVO)$
+description: TRaSH pattern imported from sonarr/lq
+tags:
+- TRaSH
+tests: null

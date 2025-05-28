@@ -9,8 +9,12 @@ import copy
 def hash_dict(value):
     return hash(json.dumps(value, sort_keys=True))
 
-def sanitize_file_name(name):
-    return "".join(c for c in name if c.isalpha() or c.isdigit() or c in " _-+.").rstrip()
+def sanitize_name(name):
+    return "".join(c for c in name if c.isalpha() or c.isdigit() or c in " _-+.[]()#").rstrip()
+
+def display_name_to_file_name(name):
+    # https://github.com/Dictionarry-Hub/profilarr/blob/main/backend/app/data/utils.py
+    return name.replace("[", "(").replace("]", ")") + ".yml"
 
 def load_json(path):
     result = {}
@@ -101,7 +105,7 @@ class ProfilarrCustomFormat:
 
 def find_or_create_pattern(patterns, name, value, source):
     pattern = next((x for x in patterns if x["pattern"] == value), None)
-    name = name.removeprefix("Not ").strip()
+    name = "[TRaSH] " + sanitize_name(name.removeprefix("Not ").strip())
     if pattern is not None:
         if not pattern["name"].lower().startswith(name.lower()):
            print("notice: found pattern with matching values but different names (import name: %s, existing name: %s)" % (name, pattern["name"]))
@@ -379,7 +383,7 @@ def convert_condition(spec, cf: CustomFormat, patterns):
 
 def convert_format(cf: CustomFormat, patterns):
     result = {}
-    result["name"] = cf["name"]
+    result["name"] = sanitize_name(cf["name"])
     result["description"] = cf.description
     result["tags"] = [ "TRaSH", cf["name"] ]
 
@@ -434,14 +438,14 @@ def load_formats(path):
                     result.add(pcf)
     return result
 
-print("Removing trash-*.yml format files...")
+print("Removing trash yml format files...")
 for name in os.listdir("../custom_formats"):
-    if name.startswith("trash-"):
+    if name.startswith("trash-") or name.startswith("(TRaSH)"):
         os.remove("../custom_formats/%s" % name)
 
-print("Removing trash-*.yml regex files...")
+print("Removing trash yml regex files...")
 for name in os.listdir("../regex_patterns"):
-    if name.startswith("trash-"):
+    if name.startswith("trash-") or name.startswith("(TRaSH)"):
         os.remove("../regex_patterns/%s" % name)
 
 darry_cfs = load_formats("../custom_formats")
@@ -481,7 +485,7 @@ for cf in sonarr_only_cfs:
 print("Writing TRaSH custom formats...")
 for cfs in [ shared_cfs, radarr_only_cfs, sonarr_only_cfs ]:
     for cf in cfs:
-        with open("../custom_formats/trash-%s.yml" % cf.id, "w", encoding="utf-8") as file:
+        with open("../custom_formats/%s" % display_name_to_file_name(cf["name"]), "w", encoding="utf-8") as file:
             yaml.dump(cf.data, file, sort_keys=False)
 
 # regex files
@@ -489,10 +493,10 @@ print("Writing TRaSH regex files...")
 seen = set()
 for pattern in patterns:
     if "TRaSH" in pattern["tags"]:
-        file_name = sanitize_file_name(pattern["name"])
+        file_name = display_name_to_file_name(pattern["name"])
         assert file_name not in seen, "duplicate file %s (from %s)" % (file_name, pattern["name"])
         seen.add(file_name)
-        with open("../regex_patterns/trash-%s.yml" % file_name, "w", encoding="utf-8") as file:
+        with open("../regex_patterns/%s" % file_name, "w", encoding="utf-8") as file:
             yaml.dump(pattern, file, sort_keys=False)
 
 print("Done")

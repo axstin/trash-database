@@ -1,6 +1,0 @@
-name: Alt
-pattern: \[Alt\]|-Alt\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-02-seadex-muxers
-tags:
-- TRaSH
-tests: null

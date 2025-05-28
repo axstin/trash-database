@@ -1,0 +1,125 @@
+name: '[TRaSH] [Sonarr] FR Scene Groups'
+description: '**Imported from sonarr/french-scene**
+
+
+  Known French Scene groups.'
+tags:
+- TRaSH
+- FR Scene Groups
+- TRaSH Sonarr
+conditions:
+- name: '#'
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] #'
+- name: A
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] A-2'
+- name: B
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] B'
+- name: C
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] C'
+- name: D
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] D'
+- name: E
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] E'
+- name: F
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] F'
+- name: G
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] G'
+- name: H
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] H'
+- name: J
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] J'
+- name: K
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] K'
+- name: L
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] L'
+- name: M
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] M'
+- name: N
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] N-2'
+- name: O
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] O'
+- name: P
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] P-2'
+- name: R
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] R'
+- name: S
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] S-2'
+- name: T
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] T'
+- name: U
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] U-2'
+- name: V
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] V'
+- name: W
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] W'
+- name: Z
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Z'

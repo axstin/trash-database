@@ -1,0 +1,6 @@
+name: '[TRaSH] PL3X'
+pattern: ^(PL3X)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

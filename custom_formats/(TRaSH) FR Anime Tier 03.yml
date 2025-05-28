@@ -1,0 +1,83 @@
+name: '[TRaSH] FR Anime Tier 03'
+description: '**Imported from sonarr/french-anime-tier-03**
+
+
+  - WIP
+
+  - Groups with no or little activity that have at some point made an interesting
+  release which is either the only one available (in VOSTFR/MULTi) or still top of
+  its category.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups doing only anime that have retired (or no longer exist) and may not have
+  the best quality by today''s standards.'
+tags:
+- TRaSH
+- FR Anime Tier 03
+conditions:
+- name: BLV
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BLV'
+- name: D3T3R10R1TY
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] D3T3R10R1TY'
+- name: Galactic
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Galactic'
+- name: HANAMi
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] HANAMi'
+- name: kazuizui
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] kazuizui'
+- name: KHAYA
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KHAYA'
+- name: KushEnthusiast
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KushEnthusiast'
+- name: matheousse
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] matheousse'
+- name: Monkey-D.Lulu
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Monkey-D.Lulu'
+- name: NeoSG
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NeoSG'
+- name: RONiN
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RONiN'
+- name: TheFantastics
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TheFantastics'
+- name: TTN
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TTN'

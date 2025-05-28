@@ -1,0 +1,6 @@
+name: '[TRaSH] WhiteRev'
+pattern: -WhiteRev\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

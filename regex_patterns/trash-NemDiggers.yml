@@ -1,6 +1,0 @@
-name: NemDiggers
-pattern: \b(NemDiggers)\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

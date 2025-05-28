@@ -1,0 +1,6 @@
+name: '[TRaSH] IMAX Edition'
+pattern: \b(IMAX[ ._-]Edition)\b
+description: TRaSH pattern imported from radarr/special-edition
+tags:
+- TRaSH
+tests: null

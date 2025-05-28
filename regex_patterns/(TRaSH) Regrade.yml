@@ -1,0 +1,6 @@
+name: '[TRaSH] Regrade'
+pattern: \b((Upscale)?Re-?graded?)\b
+description: TRaSH pattern imported from radarr/upscaled
+tags:
+- TRaSH
+tests: null

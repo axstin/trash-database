@@ -1,0 +1,12 @@
+name: '[TRaSH] [Radarr] Dutch Groups'
+description: '**Imported from radarr/dutch-groups**'
+tags:
+- TRaSH
+- Dutch Groups
+- TRaSH Radarr
+conditions:
+- name: Dutch Groups
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dutch Groups'

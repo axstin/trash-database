@@ -1,0 +1,6 @@
+name: '[TRaSH] DSCP Rename'
+pattern: \[(DSCP)\b|\b(DSCP)\]
+description: TRaSH pattern imported from sonarr/dscp
+tags:
+- TRaSH
+tests: null

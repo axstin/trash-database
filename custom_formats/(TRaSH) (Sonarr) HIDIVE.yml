@@ -1,0 +1,31 @@
+name: '[TRaSH] [Sonarr] HIDIVE'
+description: '**Imported from sonarr/hidive**
+
+
+  [From Wikipedia, the free encyclopedia](https://www.wikiwand.com/en/HIDIVE){:target="\_blank"
+  rel="noopener noreferrer"}'
+tags:
+- TRaSH
+- HIDIVE
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: WEB
+  negate: false
+  required: false
+  type: source
+  source: television
+- name: HIDIVE
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HIDIVE'

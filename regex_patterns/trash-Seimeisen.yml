@@ -1,6 +1,0 @@
-name: Seimeisen
-pattern: \b(Seimeisen)\b
-description: TRaSH pattern imported from radarr/french-anime-fansub
-tags:
-- TRaSH
-tests: null

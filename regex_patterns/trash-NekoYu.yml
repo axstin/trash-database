@@ -1,6 +1,0 @@
-name: NekoYu'
-pattern: \b(NekoYu\'?)\b
-description: TRaSH pattern imported from radarr/french-anime-fansub
-tags:
-- TRaSH
-tests: null

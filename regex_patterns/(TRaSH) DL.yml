@@ -1,0 +1,6 @@
+name: '[TRaSH] DL'
+pattern: (?<!WEB[-_. ]?)\b(DL)\b
+description: TRaSH pattern imported from radarr/language-german
+tags:
+- TRaSH
+tests: null

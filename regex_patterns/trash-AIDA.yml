@@ -1,6 +1,0 @@
-name: AIDA
-pattern: ^(AIDA)$
-description: TRaSH pattern imported from radarr/german-lq
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] C4K'
+pattern: ^(C4K)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

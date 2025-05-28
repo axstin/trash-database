@@ -1,0 +1,65 @@
+name: '[TRaSH] [Sonarr] German Web Tier 02'
+description: '**Imported from sonarr/german-web-tier-02**
+
+
+  - WiP
+
+  - Groups that get their releases directly from the source.
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that have the best German audio track to an English release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Web Tier 02
+- TRaSH Sonarr
+conditions:
+- name: VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] VECTOR-2'
+- name: MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MULTiPLEX-2'
+- name: SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SiXTYNiNE-2'
+- name: Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Oergel-2'
+- name: 4SF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 4SF-2'
+- name: 4SF Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 4SF Aliases'
+- name: ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ABJ-2'
+- name: WebDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WebRip
+  negate: false
+  required: false
+  type: source
+  source: webrip

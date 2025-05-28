@@ -1,0 +1,6 @@
+name: '[TRaSH] T3KASHi'
+pattern: \b(T3KASHi)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-01
+tags:
+- TRaSH
+tests: null

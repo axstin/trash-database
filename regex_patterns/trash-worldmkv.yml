@@ -1,6 +1,0 @@
-name: worldmkv
-pattern: ^(worldmkv)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

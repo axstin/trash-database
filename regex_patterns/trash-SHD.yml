@@ -1,6 +1,0 @@
-name: SHD
-pattern: ^(SHD)$
-description: TRaSH pattern imported from radarr/lq
-tags:
-- TRaSH
-tests: null

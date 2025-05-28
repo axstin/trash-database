@@ -1,6 +1,0 @@
-name: FZHD-2
-pattern: ^(FZHD)$
-description: TRaSH pattern imported from radarr/lq
-tags:
-- TRaSH
-tests: null

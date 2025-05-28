@@ -1,0 +1,6 @@
+name: '[TRaSH] ZeroTwo Aliases'
+pattern: \b(BUTTERCUP|HARTZ02|XiSS|DOGPACK404|PRiNCESSDiANA|DiVA|WAREZCX|BiTCHNUGGET)\b
+description: TRaSH pattern imported from radarr/german-web-tier-01
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,241 @@
+name: '[TRaSH] [Radarr] Anime BD Tier 04 (SeaDex Muxers)'
+description: '**Imported from radarr/anime-bd-tier-04-seadex-muxers**
+
+
+  Groups that do the best releases as per SeaDex. They are more consistent and trump
+  others.'
+tags:
+- TRaSH
+- Anime BD Tier 04 (SeaDex Muxers)
+- TRaSH Radarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: 9volt
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] 9volt'
+- name: AOmundson
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] AOmundson'
+- name: Asakura
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Asakura'
+- name: ASO
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ASO'
+- name: Bolshevik
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Bolshevik'
+- name: Bulldog
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Bulldog'
+- name: Cait-Sidhe
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Cait-Sidhe'
+- name: Chihiro
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Chihiro'
+- name: Chimera
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Chimera'
+- name: CoalGirls
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CoalGirls'
+- name: Commie
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Commie'
+- name: D3
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] D3'
+- name: Davinci
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Davinci'
+- name: deanzel
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] deanzel'
+- name: Doki
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Doki'
+- name: Dragon-Releases
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Dragon-Releases'
+- name: Foxtrot
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Foxtrot'
+- name: GHS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] GHS'
+- name: HaiveMind
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] HaiveMind'
+- name: hchcsen
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] hchcsen'
+- name: Iznjie Biznjie
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Iznjie Biznjie'
+- name: Kaleido
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kaleido'
+- name: karios
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] karios'
+- name: kBaraka
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] kBaraka'
+- name: kmplx
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] kmplx'
+- name: Koitern
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Koitern'
+- name: Koten_Gars
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Koten_Gars'
+- name: Kulot
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kulot'
+- name: Lia
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Lia'
+- name: MCLR
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] MCLR'
+- name: mottoj
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] mottoj'
+- name: NH
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NH'
+- name: NTRM
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NTRM'
+- name: Orphan
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Orphan'
+- name: RMX
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RMX'
+- name: SallySubs
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SallySubs'
+- name: Scriptum
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Scriptum'
+- name: ShadyCrab
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ShadyCrab'
+- name: SNSbu
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SNSbu'
+- name: SOLA
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SOLA'
+- name: THORA
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] THORA'
+- name: Tsundere
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Tsundere'
+- name: UWU
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] UWU'
+- name: xPearse
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] xPearse'

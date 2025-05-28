@@ -1,0 +1,6 @@
+name: '[TRaSH] French Original Version'
+pattern: \b(VOF)\b
+description: TRaSH pattern imported from radarr/french-vof
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: SDR-2
-pattern: \bSDR(\b|\d)
-description: TRaSH pattern imported from radarr/pq
-tags:
-- TRaSH
-tests: null

@@ -1,6 +1,0 @@
-name: SALTO
-pattern: \b(SALTO)\b
-description: TRaSH pattern imported from sonarr/french-salto
-tags:
-- TRaSH
-tests: null

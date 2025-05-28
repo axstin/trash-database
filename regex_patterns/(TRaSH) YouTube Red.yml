@@ -1,0 +1,6 @@
+name: '[TRaSH] YouTube Red'
+pattern: \b(red|youtube red)\b[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from sonarr/red
+tags:
+- TRaSH
+tests: null

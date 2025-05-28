@@ -1,0 +1,6 @@
+name: '[TRaSH] NoobSubs'
+pattern: \b(N[eo][wo]b[ ._-]?Subs)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

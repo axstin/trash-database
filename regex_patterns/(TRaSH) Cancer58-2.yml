@@ -1,0 +1,6 @@
+name: '[TRaSH] Cancer58-2'
+pattern: ^(Cancer58)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

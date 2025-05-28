@@ -1,0 +1,6 @@
+name: '[TRaSH] YTS'
+pattern: ^(YTS(.(MX|LT|AG))?)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

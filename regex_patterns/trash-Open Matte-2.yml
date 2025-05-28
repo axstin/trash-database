@@ -1,6 +1,0 @@
-name: Open Matte-2
-pattern: \b(Open[ ._-]?Matte)\b
-description: TRaSH pattern imported from radarr/special-edition
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] GHOST'
+pattern: \[GHOST\]|-GHOST\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-08-mini-encodes
+tags:
+- TRaSH
+tests: null

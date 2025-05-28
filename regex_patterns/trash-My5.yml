@@ -1,6 +1,0 @@
-name: My5
-pattern: \b(MY5)\b
-description: TRaSH pattern imported from radarr/my5
-tags:
-- TRaSH
-tests: null

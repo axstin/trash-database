@@ -1,6 +1,0 @@
-name: AI Upscales-2
-pattern: (?<=\b\d{3,4}p\b)(?=.*\b(HEVC)\b)(?=.*\b(AI)\b)
-description: TRaSH pattern imported from sonarr/upscaled
-tags:
-- TRaSH
-tests: null

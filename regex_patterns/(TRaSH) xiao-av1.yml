@@ -1,0 +1,6 @@
+name: '[TRaSH] xiao-av1'
+pattern: \b(xiao-av1)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

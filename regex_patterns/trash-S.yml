@@ -1,6 +1,0 @@
-name: S
-pattern: ^(SAFETY|SASHiMi|SEiGHT|SESKAPiLE|SHEEEiT|SHiNiGAMi(UHD)?|SiGeRiS|SILVIODANTE|SLEEPINGFOREST|SODAPOP|S4LVE|SPINE|SPOiLER|STRINGERBELL|Sunday26th|SUNRiSE)$
-description: TRaSH pattern imported from radarr/french-scene
-tags:
-- TRaSH
-tests: null

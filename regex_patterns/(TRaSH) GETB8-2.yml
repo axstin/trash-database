@@ -1,0 +1,6 @@
+name: '[TRaSH] GETB8-2'
+pattern: ^(GETB8)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

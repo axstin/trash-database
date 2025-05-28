@@ -1,0 +1,6 @@
+name: '[TRaSH] MisFiTS'
+pattern: ^(MisFiTS)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

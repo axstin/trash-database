@@ -1,0 +1,6 @@
+name: '[TRaSH] TVP'
+pattern: ^(TVP)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: BYNDR-2
-pattern: ^(BYNDR)$
-description: TRaSH pattern imported from radarr/web-tier-03
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] nhanc3-2'
+pattern: ^(nhanc3)$
+description: TRaSH pattern imported from sonarr/lq
+tags:
+- TRaSH
+tests: null

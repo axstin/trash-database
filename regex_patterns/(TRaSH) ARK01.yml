@@ -1,0 +1,6 @@
+name: '[TRaSH] ARK01'
+pattern: ^(ARK01)$
+description: TRaSH pattern imported from radarr/french-web-tier-02
+tags:
+- TRaSH
+tests: null

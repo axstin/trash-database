@@ -1,0 +1,6 @@
+name: '[TRaSH] QUALiTY'
+pattern: ^(QUALiTY)$
+description: TRaSH pattern imported from radarr/french-uhd-bluray-tier-02
+tags:
+- TRaSH
+tests: null

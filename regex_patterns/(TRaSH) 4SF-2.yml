@@ -1,0 +1,6 @@
+name: '[TRaSH] 4SF-2'
+pattern: ^(4SF)$
+description: TRaSH pattern imported from sonarr/german-web-tier-02
+tags:
+- TRaSH
+tests: null

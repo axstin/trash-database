@@ -1,6 +1,0 @@
-name: POE-2
-pattern: ^(POE)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

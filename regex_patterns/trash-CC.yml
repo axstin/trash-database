@@ -1,6 +1,0 @@
-name: CC
-pattern: \b(CC)\b
-description: TRaSH pattern imported from radarr/criterion-collection
-tags:
-- TRaSH
-tests: null

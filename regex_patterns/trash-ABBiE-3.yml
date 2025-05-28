@@ -1,6 +1,0 @@
-name: ABBiE-3
-pattern: ^(ABBiE)$
-description: TRaSH pattern imported from sonarr/web-tier-01
-tags:
-- TRaSH
-tests: null

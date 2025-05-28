@@ -1,0 +1,14 @@
+name: '[TRaSH] VOF'
+description: '**Imported from sonarr/french-vof**
+
+
+  Original French Version.'
+tags:
+- TRaSH
+- VOF
+conditions:
+- name: French Original Version
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] French Original Version'

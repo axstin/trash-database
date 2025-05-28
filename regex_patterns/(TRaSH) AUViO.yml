@@ -1,0 +1,6 @@
+name: '[TRaSH] AUViO'
+pattern: \b(AUVIO)\b
+description: TRaSH pattern imported from sonarr/french-auvio
+tags:
+- TRaSH
+tests: null

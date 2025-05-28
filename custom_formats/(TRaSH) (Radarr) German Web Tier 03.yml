@@ -1,0 +1,44 @@
+name: '[TRaSH] [Radarr] German Web Tier 03'
+description: '**Imported from radarr/german-web-tier-03**
+
+
+  - WiP
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Web Tier 03
+- TRaSH Radarr
+conditions:
+- name: RobertDeNiro
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RobertDeNiro'
+- name: BALENCiAGA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BALENCiAGA'
+- name: HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDSource'
+- name: FX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FX'
+- name: WebDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WebRip
+  negate: false
+  required: false
+  type: source
+  source: webrip

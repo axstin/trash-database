@@ -1,0 +1,6 @@
+name: '[TRaSH] CTFOH-2'
+pattern: (CTFOH)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

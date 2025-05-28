@@ -1,6 +1,0 @@
-name: XLF
-pattern: ^(XLF)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

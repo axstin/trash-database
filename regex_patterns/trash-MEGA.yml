@@ -1,6 +1,0 @@
-name: MEGA
-pattern: (MEGA)$
-description: TRaSH pattern imported from radarr/german-lq
-tags:
-- TRaSH
-tests: null

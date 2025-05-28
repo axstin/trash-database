@@ -1,0 +1,30 @@
+name: '[TRaSH] [Sonarr] ALL4'
+description: '**Imported from sonarr/all4**
+
+
+  [From Wikipedia, the free encyclopedia](<https://en.wikipedia.org/wiki/Channel_4_(VoD_service)>){:target="\_blank"
+  rel="noopener noreferrer"}
+
+
+  ALL4 is a previous name for the UK''s Channel4 VOD service. Releases are usually
+  identified with either ''ALL4'' or ''4OD'', not ''Channel4''.'
+tags:
+- TRaSH
+- ALL4
+- TRaSH Sonarr
+conditions:
+- name: ALL4
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] ALL4'
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

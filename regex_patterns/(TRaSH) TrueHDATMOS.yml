@@ -1,0 +1,6 @@
+name: '[TRaSH] TrueHDATMOS'
+pattern: True[ .-]?HD|\bATMOS(\b|\d)
+description: TRaSH pattern imported from radarr/pcm
+tags:
+- TRaSH
+tests: null

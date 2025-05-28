@@ -1,0 +1,6 @@
+name: '[TRaSH] IMAX'
+pattern: \b((?<!NON[ ._-])IMAX)\b
+description: TRaSH pattern imported from radarr/imax
+tags:
+- TRaSH
+tests: null

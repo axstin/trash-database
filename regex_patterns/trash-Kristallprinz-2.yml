@@ -1,6 +1,0 @@
-name: Kristallprinz-2
-pattern: ^(Kristallprinz)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

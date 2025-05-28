@@ -1,0 +1,6 @@
+name: '[TRaSH] CREATiVE24-2'
+pattern: \b(CREATiVE24)\b
+description: TRaSH pattern imported from sonarr/lq-release-title
+tags:
+- TRaSH
+tests: null

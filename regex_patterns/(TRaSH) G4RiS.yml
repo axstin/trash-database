@@ -1,0 +1,6 @@
+name: '[TRaSH] G4RiS'
+pattern: ^(G4RiS)$
+description: TRaSH pattern imported from radarr/bad-dual-groups
+tags:
+- TRaSH
+tests: null

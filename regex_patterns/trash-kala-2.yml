@@ -1,6 +1,0 @@
-name: kala-2
-pattern: ^(kala)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

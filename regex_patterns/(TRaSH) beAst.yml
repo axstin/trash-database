@@ -1,0 +1,6 @@
+name: '[TRaSH] beAst'
+pattern: ^(beAst)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

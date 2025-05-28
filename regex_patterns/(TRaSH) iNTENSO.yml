@@ -1,0 +1,6 @@
+name: '[TRaSH] iNTENSO'
+pattern: ^(iNTENSO)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: TVS iTunesHD
-pattern: ([._-])iTunes(?:HD|SD)?\1.+?-TVS$
-description: TRaSH pattern imported from radarr/german-lq-release-title
-tags:
-- TRaSH
-tests: null

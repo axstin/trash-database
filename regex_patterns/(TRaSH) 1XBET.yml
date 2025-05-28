@@ -1,0 +1,6 @@
+name: '[TRaSH] 1XBET'
+pattern: \b(1XBET)\b
+description: TRaSH pattern imported from radarr/lq-release-title
+tags:
+- TRaSH
+tests: null

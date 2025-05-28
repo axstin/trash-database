@@ -1,6 +1,0 @@
-name: FX
-pattern: ^(FX)$
-description: TRaSH pattern imported from radarr/german-web-tier-03
-tags:
-- TRaSH
-tests: null

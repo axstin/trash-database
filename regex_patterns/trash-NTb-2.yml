@@ -1,6 +1,0 @@
-name: NTb-2
-pattern: ^(NTb)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,223 @@
+name: '[TRaSH] [Sonarr] German LQ'
+description: "**Imported from sonarr/german-lq**\n\nA collection of known German Low-Quality\
+  \ groups that are often banned from the top trackers due to their lack of quality.\n\
+  \n!!! note\n\n    - Ads/Watermarks = Groups that are known to put ads or watermarks\
+  \ in their releases.\n    - Bad/False releases = Groups that are known for lying\
+  \ about their quality, type, or the name of their releases.\n    - DeTAG/ReTAG =\
+  \ Detagging or stealing groups.\n    - Other reasons = Group is banned on top tier\
+  \ trackers or is generally known for poor quality/errors."
+tags:
+- TRaSH
+- German LQ
+- TRaSH Sonarr
+conditions:
+- name: PsO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PsO-2'
+- name: Cancer58
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Cancer58-2'
+- name: Tylor.D
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Tylor.D-2'
+- name: 1XBET
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 1XBET-3'
+- name: 2dead
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 2dead-2'
+- name: HELD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HELD-2'
+- name: kala
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] kala-2'
+- name: POE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] POE-2'
+- name: SHOWE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SHOWE-2'
+- name: SHOWEHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SHOWEHD-2'
+- name: ORCA88
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ORCA88-2'
+- name: LuRCH
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LuRCH-2'
+- name: N2D2
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] N2D2-2'
+- name: GETB8
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GETB8-2'
+- name: TFARC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TFARC-2'
+- name: Kristallprinz
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Kristallprinz-2'
+- name: LAW
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LAW-2'
+- name: CTFOH
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CTFOH'
+- name: Pendeti
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Pendeti-2'
+- name: OJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] OJ-2'
+- name: PS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PS-2'
+- name: FSX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FSX-2'
+- name: EMVY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EMVY-2'
+- name: ZaidaNulled
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ZaidaNulled-2'
+- name: MEGA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MEGA-2'
+- name: MBA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MBA-2'
+- name: FORMBA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FORMBA-2'
+- name: PaZ
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PaZ-2'
+- name: Whistler
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Whistler-2'
+- name: omikron
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] omikron-2'
+- name: WOTT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WOTT-2'
+- name: SunDry
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SunDry-2'
+- name: PL
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PL-2'
+- name: TVARCHiV
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TVARCHiV-2'
+- name: P73
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] P73-2'
+- name: LizardSquad
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LizardSquad-2'
+- name: AVTOMAT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AVTOMAT'
+- name: iSSEYMiYAKE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iSSEYMiYAKE'
+- name: TVP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TVP'
+- name: AIDA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AIDA'
+- name: UTOPiA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] UTOPiA'
+- name: FRAGGERS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FRAGGERS'

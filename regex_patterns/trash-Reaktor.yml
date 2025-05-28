@@ -1,6 +1,0 @@
-name: Reaktor
-pattern: \b(Reaktor)\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

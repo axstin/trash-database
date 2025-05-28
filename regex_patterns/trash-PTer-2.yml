@@ -1,6 +1,0 @@
-name: PTer-2
-pattern: ^(PTer)$
-description: TRaSH pattern imported from radarr/uhd-bluray-tier-03
-tags:
-- TRaSH
-tests: null

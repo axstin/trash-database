@@ -1,6 +1,0 @@
-name: Chamele0n
-pattern: -Chamele0n\b
-description: TRaSH pattern imported from radarr/obfuscated
-tags:
-- TRaSH
-tests: null

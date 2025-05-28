@@ -1,6 +1,0 @@
-name: GalaxyRG-2
-pattern: \b(GalaxyRG)\b
-description: TRaSH pattern imported from radarr/lq-release-title
-tags:
-- TRaSH
-tests: null

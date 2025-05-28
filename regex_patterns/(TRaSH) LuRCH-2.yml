@@ -1,0 +1,6 @@
+name: '[TRaSH] LuRCH-2'
+pattern: ^(LuRCH)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

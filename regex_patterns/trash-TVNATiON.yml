@@ -1,6 +1,0 @@
-name: TVNATiON
-pattern: ^(TVNATiON)$
-description: TRaSH pattern imported from sonarr/german-scene
-tags:
-- TRaSH
-tests: null

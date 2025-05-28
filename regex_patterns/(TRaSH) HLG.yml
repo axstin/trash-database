@@ -1,0 +1,6 @@
+name: '[TRaSH] HLG'
+pattern: \b(HLG)\b
+description: TRaSH pattern imported from radarr/pq
+tags:
+- TRaSH
+tests: null

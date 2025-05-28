@@ -1,0 +1,6 @@
+name: '[TRaSH] MULTiPLEX-2'
+pattern: ^(MULTiPLEX)$
+description: TRaSH pattern imported from sonarr/german-web-tier-02
+tags:
+- TRaSH
+tests: null

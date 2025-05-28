@@ -1,0 +1,6 @@
+name: '[TRaSH] MEGA-2'
+pattern: ^(MEGA)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

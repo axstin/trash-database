@@ -1,0 +1,6 @@
+name: '[TRaSH] 4Planet'
+pattern: -4Planet\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

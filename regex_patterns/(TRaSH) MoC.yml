@@ -1,0 +1,6 @@
+name: '[TRaSH] MoC'
+pattern: \b(MoC)\b
+description: TRaSH pattern imported from radarr/masters-of-cinema
+tags:
+- TRaSH
+tests: null

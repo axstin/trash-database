@@ -1,0 +1,6 @@
+name: '[TRaSH] playBD'
+pattern: ^(playBD)$
+description: TRaSH pattern imported from radarr/remux-tier-02
+tags:
+- TRaSH
+tests: null

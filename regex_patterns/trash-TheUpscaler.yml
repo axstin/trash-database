@@ -1,6 +1,0 @@
-name: TheUpscaler
-pattern: \b(The[ ._-]?Upscaler)\b
-description: TRaSH pattern imported from radarr/upscaled
-tags:
-- TRaSH
-tests: null

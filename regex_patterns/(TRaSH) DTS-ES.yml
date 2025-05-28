@@ -1,0 +1,6 @@
+name: '[TRaSH] DTS-ES'
+pattern: dts.?es
+description: TRaSH pattern imported from radarr/dts-hd-hra
+tags:
+- TRaSH
+tests: null

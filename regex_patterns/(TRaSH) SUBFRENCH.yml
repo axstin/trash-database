@@ -1,0 +1,6 @@
+name: '[TRaSH] SUBFRENCH'
+pattern: \b(SUBFR(A|ENCH)?)\b
+description: TRaSH pattern imported from radarr/french-vostfr
+tags:
+- TRaSH
+tests: null

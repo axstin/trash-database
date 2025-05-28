@@ -1,6 +1,0 @@
-name: Pendeti
-pattern: (Pendeti)$
-description: TRaSH pattern imported from radarr/german-lq
-tags:
-- TRaSH
-tests: null

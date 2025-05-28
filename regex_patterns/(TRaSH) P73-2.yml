@@ -1,0 +1,6 @@
+name: '[TRaSH] P73-2'
+pattern: ^(P73)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

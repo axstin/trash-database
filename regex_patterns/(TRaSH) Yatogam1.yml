@@ -1,0 +1,6 @@
+name: '[TRaSH] Yatogam1'
+pattern: ^(Yatogam1)$
+description: TRaSH pattern imported from radarr/bad-dual-groups
+tags:
+- TRaSH
+tests: null

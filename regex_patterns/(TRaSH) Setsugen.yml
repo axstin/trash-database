@@ -1,0 +1,6 @@
+name: '[TRaSH] Setsugen'
+pattern: \b(Setsugen)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-01-muxers
+tags:
+- TRaSH
+tests: null

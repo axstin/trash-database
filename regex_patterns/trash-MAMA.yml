@@ -1,6 +1,0 @@
-name: MAMA
-pattern: ^(MAMA)$
-description: TRaSH pattern imported from radarr/german-remux-tier-01
-tags:
-- TRaSH
-tests: null

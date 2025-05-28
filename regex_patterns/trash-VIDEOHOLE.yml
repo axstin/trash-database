@@ -1,6 +1,0 @@
-name: VIDEOHOLE
-pattern: ^(VIDEOHOLE)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

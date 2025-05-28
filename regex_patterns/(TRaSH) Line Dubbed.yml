@@ -1,0 +1,6 @@
+name: '[TRaSH] Line Dubbed'
+pattern: \b(LD|AC3LD|Line[ .-]?Dubbed)\b
+description: TRaSH pattern imported from radarr/line-mic-dubbed
+tags:
+- TRaSH
+tests: null

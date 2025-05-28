@@ -1,0 +1,6 @@
+name: '[TRaSH] GERMAN-2'
+pattern: \b(GERMAN)$
+description: TRaSH pattern imported from sonarr/scene
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,56 @@
+name: '[TRaSH] [Radarr] ATMOS (undefined)'
+description: "**Imported from radarr/atmos-undefined**\n\nThis custom format covers\
+  \ cases where _ONLY_ \"Atmos\" is specified in the release title, without noting\
+  \ DD+ (Lossy) or TrueHD (Lossless).\n\n!!! note\n\n    Apply the same score as Lossy\
+  \ (DD+) Atmos. On import, it will be updated to reflect either lossy or lossless\
+  \ based on the media's info using ffprobe."
+tags:
+- TRaSH
+- ATMOS (undefined)
+- TRaSH Radarr
+conditions:
+- name: ATMOS
+  negate: false
+  required: true
+  type: release_title
+  pattern: Atmos
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Basic Dolby Digital'
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dolby Digital Plus'
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: PCM
+- name: Not RlsGrp (Atmos Only)
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] RlsGrp (Atmos Only)'
+- name: Not TrueHD
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] TrueHD'

@@ -1,0 +1,44 @@
+name: '[TRaSH] Dubs Only'
+description: '**Imported from sonarr/dubs-only**
+
+
+  This Custom Format covers releases that only have Dubs.'
+tags:
+- TRaSH
+- Dubs Only
+conditions:
+- name: Dubbed
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Dubbed'
+- name: Golumpa
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Golumpa'
+- name: KaiDubs (Not Dual Audio)
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KaiDubs (Not Dual Audio)'
+- name: KamiFS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KamiFS'
+- name: KS (Not Dual Audio)
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KS (Not Dual Audio)'
+- name: torenter69
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] torenter69'
+- name: Yameii
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Yameii'

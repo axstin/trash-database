@@ -1,0 +1,6 @@
+name: '[TRaSH] WATCHABLE'
+pattern: ^(WATCHABLE)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

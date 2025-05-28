@@ -1,6 +1,0 @@
-name: iNC0GNiTO
-pattern: -iNC0GNiTO\b
-description: TRaSH pattern imported from radarr/obfuscated
-tags:
-- TRaSH
-tests: null

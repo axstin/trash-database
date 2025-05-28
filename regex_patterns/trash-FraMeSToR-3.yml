@@ -1,6 +1,0 @@
-name: FraMeSToR-3
-pattern: \b(FraMeSToR)\b
-description: TRaSH pattern imported from radarr/dv-disk
-tags:
-- TRaSH
-tests: null

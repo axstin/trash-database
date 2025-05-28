@@ -1,6 +1,0 @@
-name: RED Rename
-pattern: \[(RED)\b|\b(RED)\]
-description: TRaSH pattern imported from sonarr/red
-tags:
-- TRaSH
-tests: null

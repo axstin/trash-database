@@ -1,0 +1,6 @@
+name: '[TRaSH] MAX Rename'
+pattern: \[(MAX)\b|\b(MAX)\]
+description: TRaSH pattern imported from radarr/max
+tags:
+- TRaSH
+tests: null

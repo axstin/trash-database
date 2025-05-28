@@ -1,0 +1,6 @@
+name: '[TRaSH] PS'
+pattern: (PS)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

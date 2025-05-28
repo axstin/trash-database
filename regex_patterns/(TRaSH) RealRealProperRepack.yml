@@ -1,0 +1,6 @@
+name: '[TRaSH] RealRealProperRepack'
+pattern: \b(REAL\.REAL\.(PROPER|REPACK))\b
+description: TRaSH pattern imported from radarr/repack3
+tags:
+- TRaSH
+tests: null

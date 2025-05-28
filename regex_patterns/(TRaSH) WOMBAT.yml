@@ -1,0 +1,6 @@
+name: '[TRaSH] WOMBAT'
+pattern: ^(WOMBAT)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

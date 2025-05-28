@@ -1,0 +1,14 @@
+name: '[TRaSH] VFI'
+description: '**Imported from sonarr/french-vfi**
+
+
+  International French Version.'
+tags:
+- TRaSH
+- VFI
+conditions:
+- name: French International
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] French International'

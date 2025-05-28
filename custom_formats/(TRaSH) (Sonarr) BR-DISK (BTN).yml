@@ -1,0 +1,12 @@
+name: '[TRaSH] [Sonarr] BR-DISK (BTN)'
+description: '**Imported from sonarr/br-disk-btn**'
+tags:
+- TRaSH
+- BR-DISK (BTN)
+- TRaSH Sonarr
+conditions:
+- name: BR-DISK
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] BR-DISK-2'

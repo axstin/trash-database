@@ -1,6 +1,0 @@
-name: TVARCHiV-2
-pattern: ^(TVARCHiV)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

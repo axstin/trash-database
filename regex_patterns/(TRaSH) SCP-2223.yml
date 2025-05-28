@@ -1,0 +1,6 @@
+name: '[TRaSH] SCP-2223'
+pattern: \b(SCP-2223)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

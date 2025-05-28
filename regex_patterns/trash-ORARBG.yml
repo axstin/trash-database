@@ -1,6 +1,0 @@
-name: ORARBG
-pattern: \b(ORARBG)\b
-description: TRaSH pattern imported from radarr/retags
-tags:
-- TRaSH
-tests: null

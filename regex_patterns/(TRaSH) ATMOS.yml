@@ -1,0 +1,6 @@
+name: '[TRaSH] ATMOS'
+pattern: \b(ATMOS|CtrlHD|W4NK3R|DON)(\b|\d)
+description: TRaSH pattern imported from radarr/truehd-atmos
+tags:
+- TRaSH
+tests: null

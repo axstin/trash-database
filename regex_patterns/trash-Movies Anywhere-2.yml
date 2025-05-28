@@ -1,6 +1,0 @@
-name: Movies Anywhere-2
-pattern: (?<!dts[ .-]?hd[ .-]?)\bma\b(?=.*\bweb[ ._-]?(dl|rip)\b)
-description: TRaSH pattern imported from radarr/ma
-tags:
-- TRaSH
-tests: null

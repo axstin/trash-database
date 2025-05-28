@@ -1,6 +1,0 @@
-name: PS-2
-pattern: ^(PS)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

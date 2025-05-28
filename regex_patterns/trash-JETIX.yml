@@ -1,6 +1,0 @@
-name: JETIX
-pattern: ^(JETIX)$
-description: TRaSH pattern imported from sonarr/web-tier-02
-tags:
-- TRaSH
-tests: null

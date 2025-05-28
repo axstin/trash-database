@@ -1,0 +1,6 @@
+name: '[TRaSH] Theatrical'
+pattern: Theatrical
+description: TRaSH pattern imported from radarr/theatrical-cut
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,43 @@
+name: '[TRaSH] [Sonarr] UHD Streaming Cut'
+description: '**Imported from sonarr/uhd-streaming-cut**
+
+
+  Some streaming services have UHD releases that are generally worse than their HD
+  counterparts. The UHD Streaming Cut custom format decreases those streaming services''
+  scores appropriately for UHD releases. Use this in conjunction with the regular
+  streaming service custom formats.'
+tags:
+- TRaSH
+- UHD Streaming Cut
+- TRaSH Sonarr
+conditions:
+- name: Amazon
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Amazon-2'
+- name: HBO Max
+  negate: false
+  required: false
+  type: release_title
+  pattern: HBO Max
+- name: Stan
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Stan'
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p

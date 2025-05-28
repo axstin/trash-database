@@ -1,0 +1,6 @@
+name: '[TRaSH] JellyfinPlex'
+pattern: ^(JellyfinPlex)$
+description: TRaSH pattern imported from radarr/german-microsized
+tags:
+- TRaSH
+tests: null

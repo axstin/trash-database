@@ -1,6 +1,0 @@
-name: ABBIE-2
-pattern: ^(ABBIE)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

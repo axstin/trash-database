@@ -1,6 +1,0 @@
-name: aXXo
-pattern: ^(aXXo)$
-description: TRaSH pattern imported from radarr/lq
-tags:
-- TRaSH
-tests: null

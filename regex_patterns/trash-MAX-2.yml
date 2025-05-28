@@ -1,6 +1,0 @@
-name: MAX-2
-pattern: ^(MAX)$
-description: TRaSH pattern imported from radarr/french-remux-tier-01
-tags:
-- TRaSH
-tests: null

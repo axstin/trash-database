@@ -1,6 +1,0 @@
-name: INFLATE/DEFLATE-2
-pattern: \b(INFLATE|DEFLATE[)\]]?)$
-description: TRaSH pattern imported from sonarr/scene
-tags:
-- TRaSH
-tests: null

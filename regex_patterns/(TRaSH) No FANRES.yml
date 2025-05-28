@@ -1,0 +1,6 @@
+name: '[TRaSH] No FANRES'
+pattern: \b(FANRES)\b
+description: TRaSH pattern imported from radarr/dv-disk
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: ExREN
-pattern: \b(ExREN)\b
-description: TRaSH pattern imported from radarr/anime-lq-groups
-tags:
-- TRaSH
-tests: null

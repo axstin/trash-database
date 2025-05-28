@@ -1,0 +1,64 @@
+name: '[TRaSH] [Sonarr] Remux Tier 02'
+description: '**Imported from sonarr/remux-tier-02**
+
+
+  Groups that:
+
+
+  - Haven''t released much. (yet)
+
+  - Produce remuxes from multiple sources (discs) and combine them to produce the
+  best end result.
+
+  - Follow the [Contributing General Guidelines](https://github.com/TRaSH-Guides/Guides/blob/master/CONTRIBUTING.md#general-guidelines){:target="_blank"
+  rel="noopener noreferrer"}.'
+tags:
+- TRaSH
+- Remux Tier 02
+- TRaSH Sonarr
+conditions:
+- name: Remux
+  negate: false
+  required: true
+  type: source
+  source: blurayraw
+- name: decibeL
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] decibeL'
+- name: EPSiLON
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EPSiLON'
+- name: HiFi
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HiFi'
+- name: KRaLiMaRKo
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KRaLiMaRKo'
+- name: playBD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] playBD'
+- name: PTer
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PTer'
+- name: SiCFoI
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SiCFoI'
+- name: TRiToN
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TRiToN'

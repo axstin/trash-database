@@ -1,0 +1,6 @@
+name: '[TRaSH] Quibi'
+pattern: \b(qibi|quibi)\b
+description: TRaSH pattern imported from sonarr/qibi
+tags:
+- TRaSH
+tests: null

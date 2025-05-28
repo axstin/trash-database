@@ -1,6 +1,0 @@
-name: SR-71
-pattern: \b(SR-71)\b
-description: TRaSH pattern imported from radarr/french-anime-tier-01
-tags:
-- TRaSH
-tests: null

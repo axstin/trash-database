@@ -1,6 +1,0 @@
-name: omikron-2
-pattern: ^(omikron)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

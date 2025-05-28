@@ -1,0 +1,6 @@
+name: '[TRaSH] Exiled-Destiny'
+pattern: \b(Exiled-Destiny|E-D)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

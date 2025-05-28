@@ -1,0 +1,6 @@
+name: '[TRaSH] PaZ-2'
+pattern: ^(PaZ)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

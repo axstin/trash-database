@@ -1,0 +1,6 @@
+name: '[TRaSH] W4K'
+pattern: ^(W4K)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

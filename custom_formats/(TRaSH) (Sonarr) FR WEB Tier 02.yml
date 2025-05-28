@@ -1,0 +1,72 @@
+name: '[TRaSH] [Sonarr] FR WEB Tier 02'
+description: '**Imported from sonarr/french-web-tier-02**
+
+
+  - WiP
+
+  - Groups that source and add the French audio track from the source to an English
+  release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- FR WEB Tier 02
+- TRaSH Sonarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: COLL3CTiF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] COLL3CTiF'
+- name: FiND
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FiND'
+- name: FrIeNdS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FrIeNdS'
+- name: HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HeavyWeight'
+- name: NoNe
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NoNe'
+- name: pERsO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] pERsO'
+- name: POTO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] POTO'
+- name: RiPiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RiPiT'
+- name: TAT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TAT'

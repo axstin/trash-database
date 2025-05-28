@@ -1,6 +1,0 @@
-name: D02KU
-pattern: ^(D02KU)$
-description: TRaSH pattern imported from radarr/german-web-tier-01
-tags:
-- TRaSH
-tests: null

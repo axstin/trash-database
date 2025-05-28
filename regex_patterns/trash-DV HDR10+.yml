@@ -1,6 +1,0 @@
-name: DV HDR10+
-pattern: ^(?=.*\b(DV|DoVi|Dolby[ .]?V(ision)?)\b)(?=.*\b((HDR10(?=(P(lus)?)\b|\+))))
-description: TRaSH pattern imported from radarr/dv-hdr10plus
-tags:
-- TRaSH
-tests: null

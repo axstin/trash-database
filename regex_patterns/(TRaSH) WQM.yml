@@ -1,0 +1,6 @@
+name: '[TRaSH] WQM'
+pattern: ^(WQM)$
+description: TRaSH pattern imported from sonarr/french-web-tier-03
+tags:
+- TRaSH
+tests: null

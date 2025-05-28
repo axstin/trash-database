@@ -1,0 +1,6 @@
+name: '[TRaSH] CHX'
+pattern: ^(CHX)$
+description: TRaSH pattern imported from sonarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: FSX-2
-pattern: ^(FSX)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

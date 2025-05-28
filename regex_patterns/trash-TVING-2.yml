@@ -1,6 +1,0 @@
-name: TVING-2
-pattern: \b(tving)\b[ ._-]web[ ._-]?(dl|rip)?\b
-description: TRaSH pattern imported from radarr/tving
-tags:
-- TRaSH
-tests: null

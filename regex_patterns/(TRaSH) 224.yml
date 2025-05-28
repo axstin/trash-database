@@ -1,0 +1,6 @@
+name: '[TRaSH] 224'
+pattern: \[224\]|-224\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] PaTroL'
+pattern: ^(PaTroL)$
+description: TRaSH pattern imported from sonarr/german-microsized
+tags:
+- TRaSH
+tests: null

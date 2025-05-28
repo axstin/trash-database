@@ -1,0 +1,6 @@
+name: '[TRaSH] DTS X'
+pattern: '\b(dts[-_.: ]?x7?)\b(?![-_. ]?(26[456]))'
+description: TRaSH pattern imported from radarr/truehd-atmos
+tags:
+- TRaSH
+tests: null

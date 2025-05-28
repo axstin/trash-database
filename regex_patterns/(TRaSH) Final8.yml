@@ -1,0 +1,6 @@
+name: '[TRaSH] Final8'
+pattern: \b(Final8)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] CRUD'
+pattern: ^(CRUD)$
+description: TRaSH pattern imported from radarr/web-tier-01
+tags:
+- TRaSH
+tests: null

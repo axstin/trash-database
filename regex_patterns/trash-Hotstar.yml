@@ -1,6 +1,0 @@
-name: Hotstar
-pattern: \b(HTSR|DSNPHS|HS)\b
-description: TRaSH pattern imported from radarr/htsr
-tags:
-- TRaSH
-tests: null

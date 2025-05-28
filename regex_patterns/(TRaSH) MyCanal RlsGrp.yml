@@ -1,0 +1,6 @@
+name: '[TRaSH] MyCanal RlsGrp'
+pattern: \b(MyCanal)\b
+description: TRaSH pattern imported from sonarr/french-mycanal
+tags:
+- TRaSH
+tests: null

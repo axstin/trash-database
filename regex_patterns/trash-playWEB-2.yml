@@ -1,6 +1,0 @@
-name: playWEB-2
-pattern: ^(playWEB)$
-description: TRaSH pattern imported from radarr/web-tier-02
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] TMSF'
+pattern: ^(TMSF)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

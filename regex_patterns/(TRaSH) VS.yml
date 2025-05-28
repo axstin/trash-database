@@ -1,0 +1,6 @@
+name: '[TRaSH] VS'
+pattern: \b(V-S)\b
+description: TRaSH pattern imported from radarr/vinegar-syndrome
+tags:
+- TRaSH
+tests: null

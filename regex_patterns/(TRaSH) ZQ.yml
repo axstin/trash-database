@@ -1,0 +1,6 @@
+name: '[TRaSH] ZQ'
+pattern: ^(ZQ)$
+description: TRaSH pattern imported from radarr/remux-tier-01
+tags:
+- TRaSH
+tests: null

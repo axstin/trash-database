@@ -1,0 +1,6 @@
+name: '[TRaSH] SHiN-gx'
+pattern: \b(SHiN-gx)\b
+description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
+tags:
+- TRaSH
+tests: null

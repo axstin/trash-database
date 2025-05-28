@@ -1,0 +1,51 @@
+name: '[TRaSH] HDR'
+description: '**Imported from sonarr/hdr**
+
+
+  This Custom Format is a sort of "catch-all" for the `HDR` scene naming scheme where
+  we don''t know, based on name alone, which HDR formats are included - it could be
+  `HDR10`, `HDR10+` or even `PQ`.'
+tags:
+- TRaSH
+- HDR
+conditions:
+- name: HDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: HDR
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV'
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: HDR10
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HDR10+'
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] HLG-2'
+- name: Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] PQ'
+- name: Not RlsGrp (Missing HDR)
+  negate: true
+  required: true
+  type: release_group
+  pattern: '[TRaSH] RlsGrp (Missing HDR)'
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] SDR'

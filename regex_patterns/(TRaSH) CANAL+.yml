@@ -1,0 +1,6 @@
+name: '[TRaSH] CANAL+'
+pattern: \b(C(?:anal)?[ .-]?(Plus|\+))[ .]
+description: TRaSH pattern imported from sonarr/french-mycanal
+tags:
+- TRaSH
+tests: null

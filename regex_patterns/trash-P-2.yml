@@ -1,6 +1,0 @@
-name: P-2
-pattern: ^(PANZeR|PATHECROUTE|Penrose|PHoQUE|PiNKPANTERS|PKPTRS|PRiDEHD|PROPJOE|PURE|PUREWASTEOFBW)$
-description: TRaSH pattern imported from sonarr/french-scene
-tags:
-- TRaSH
-tests: null

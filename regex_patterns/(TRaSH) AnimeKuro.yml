@@ -1,0 +1,6 @@
+name: '[TRaSH] AnimeKuro'
+pattern: \b(AnimeKuro)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] B-Global'
+pattern: \b(B[ .-]?Global)\b
+description: TRaSH pattern imported from sonarr/bglobal
+tags:
+- TRaSH
+tests: null

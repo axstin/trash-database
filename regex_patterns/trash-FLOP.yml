@@ -1,6 +1,0 @@
-name: FLOP
-pattern: ^(FLOP)$
-description: TRaSH pattern imported from radarr/french-uhd-bluray-tier-01
-tags:
-- TRaSH
-tests: null

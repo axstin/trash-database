@@ -1,0 +1,6 @@
+name: '[TRaSH] SPHD'
+pattern: ^(SPHD)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-03
+tags:
+- TRaSH
+tests: null

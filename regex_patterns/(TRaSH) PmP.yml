@@ -1,0 +1,6 @@
+name: '[TRaSH] PmP'
+pattern: ^(PmP)$
+description: TRaSH pattern imported from radarr/remux-tier-01
+tags:
+- TRaSH
+tests: null

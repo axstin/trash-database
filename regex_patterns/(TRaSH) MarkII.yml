@@ -1,0 +1,6 @@
+name: '[TRaSH] MarkII'
+pattern: ^(MarkII)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

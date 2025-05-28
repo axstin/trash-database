@@ -1,0 +1,27 @@
+name: '[TRaSH] [Radarr] IMAX'
+description: '**Imported from radarr/imax**
+
+
+  [From In Depth Cine](https://www.indepthcine.com/videos/imax){:target="_blank" rel="noopener
+  noreferrer"}
+
+
+  IMAX films are shot in tall aspect ratios, typically 1.9:1 or sometimes 1.43:1.
+  Most IMAX film releases also have scenes shot at wider aspect ratios and, as a result,
+  the aspect ratio will change throughout. Because they are shot on large format cameras,
+  there is often less film grain present. This results in a clearer picture.'
+tags:
+- TRaSH
+- IMAX
+- TRaSH Radarr
+conditions:
+- name: IMAX
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] IMAX'
+- name: 'NOT: IMAX Enhanced'
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] NOT IMAX Enhanced'

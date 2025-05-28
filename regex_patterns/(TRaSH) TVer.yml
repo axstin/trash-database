@@ -1,0 +1,6 @@
+name: '[TRaSH] TVer'
+pattern: \b(tver)\b
+description: TRaSH pattern imported from radarr/tver
+tags:
+- TRaSH
+tests: null

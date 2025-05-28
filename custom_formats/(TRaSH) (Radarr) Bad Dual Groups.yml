@@ -1,0 +1,165 @@
+name: '[TRaSH] [Radarr] Bad Dual Groups'
+description: '**Imported from radarr/bad-dual-groups**
+
+
+  These release groups do not use the original language of the media as the first
+  audio track. Since ffprobe relies on the first audio track to determine the primary
+  language of the release, incorrect ordering can lead to parsing issues. This may
+  result in failed imports, misidentified files, or even download loops. To ensure
+  proper handling, the original language should always be the first audio track in
+  the release.'
+tags:
+- TRaSH
+- Bad Dual Groups
+- TRaSH Radarr
+conditions:
+- name: alfaHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] alfaHD'
+- name: BAT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BAT'
+- name: BlackBit
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BlackBit'
+- name: BNd
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BNd'
+- name: C.A.A
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] C.A.A'
+- name: Cory
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Cory'
+- name: EXTREME
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EXTREME'
+- name: FF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FF'
+- name: FOXX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FOXX'
+- name: G4RiS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] G4RiS'
+- name: GUEIRA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GUEIRA'
+- name: LCD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LCD'
+- name: N3G4N
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] N3G4N'
+- name: ONLYMOViE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ONLYMOViE'
+- name: PD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PD'
+- name: PTHome
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PTHome'
+- name: RiPER
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RiPER'
+- name: RK
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RK'
+- name: SiGLA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SiGLA'
+- name: Tars
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Tars'
+- name: tokar86a
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] tokar86a'
+- name: TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TvR'
+- name: vnlls
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] vnlls'
+- name: WTV
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WTV'
+- name: Yatogam1
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Yatogam1'
+- name: YusukeFLA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] YusukeFLA'
+- name: ZigZag
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ZigZag'
+- name: ZNM
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ZNM'
+- name: BiOMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BiOMA'
+- name: sh4down
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] sh4down'

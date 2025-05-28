@@ -1,0 +1,6 @@
+name: '[TRaSH] TrueHD-2'
+pattern: True[ .-]?HD|W4NK3R|HQMUX
+description: TRaSH pattern imported from radarr/truehd-atmos
+tags:
+- TRaSH
+tests: null

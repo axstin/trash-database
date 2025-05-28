@@ -1,0 +1,6 @@
+name: '[TRaSH] QOQ'
+pattern: ^(QOQ)$
+description: TRaSH pattern imported from radarr/hd-bluray-tier-02
+tags:
+- TRaSH
+tests: null

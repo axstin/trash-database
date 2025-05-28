@@ -1,0 +1,6 @@
+name: '[TRaSH] v2'
+pattern: (\b|\d)(v2)\b
+description: TRaSH pattern imported from radarr/v2
+tags:
+- TRaSH
+tests: null

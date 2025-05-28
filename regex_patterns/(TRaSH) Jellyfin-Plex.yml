@@ -1,0 +1,6 @@
+name: '[TRaSH] Jellyfin-Plex'
+pattern: Jellyfin-Plex$
+description: TRaSH pattern imported from radarr/german-lq-release-title
+tags:
+- TRaSH
+tests: null

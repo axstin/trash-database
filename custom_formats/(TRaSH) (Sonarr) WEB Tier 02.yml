@@ -1,0 +1,240 @@
+name: '[TRaSH] [Sonarr] WEB Tier 02'
+description: '**Imported from sonarr/web-tier-02**
+
+
+  Groups that:
+
+
+  - If TV Shows => Sign up for the gentleman list on a certain private tracker.
+
+  - If TV Sows => Are not on the list but have a few releases on their name.
+
+  - Have only done a few releases
+
+  - Follow the [Contributing General Guidelines](https://github.com/TRaSH-Guides/Guides/blob/master/CONTRIBUTING.md#general-guidelines){:target="_blank"
+  rel="noopener noreferrer"}.'
+tags:
+- TRaSH
+- WEB Tier 02
+- TRaSH Sonarr
+conditions:
+- name: 3cTWeB
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 3cTWeB'
+- name: BLUTONiUM
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BLUTONiUM'
+- name: BTW
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BTW'
+- name: Chotab
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Chotab'
+- name: Cinefeel
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Cinefeel'
+- name: CiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CiT'
+- name: CMRG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CMRG'
+- name: Coo7
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Coo7'
+- name: dB
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] dB'
+- name: DEEP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DEEP'
+- name: END
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] END'
+- name: ETHiCS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ETHiCS'
+- name: FC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FC'
+- name: Flights
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Flights'
+- name: GNOME
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GNOME'
+- name: iJP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iJP'
+- name: iKA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iKA'
+- name: iT00NZ
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iT00NZ'
+- name: JETIX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] JETIX'
+- name: KHN
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KHN'
+- name: KiMCHI
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KiMCHI'
+- name: LAZY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LAZY'
+- name: MiU
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MiU'
+- name: MZABI
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MZABI'
+- name: NPMS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NPMS'
+- name: NYH
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NYH'
+- name: orbitron
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] orbitron'
+- name: PHOENiX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PHOENiX'
+- name: playWEB
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] playWEB'
+- name: PSiG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PSiG'
+- name: ROCCaT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ROCCaT'
+- name: RTFM
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RTFM'
+- name: SA89
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SA89'
+- name: SbR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SbR'
+- name: SDCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SDCC'
+- name: SIGMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SIGMA-2'
+- name: SMURF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SMURF'
+- name: SPiRiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SPiRiT'
+- name: TEPES
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TEPES'
+- name: TVSmash
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TVSmash'
+- name: WELP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WELP'
+- name: XEBEC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] XEBEC'
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

@@ -1,6 +1,0 @@
-name: TrueHD-2
-pattern: True[ .-]?HD
-description: TRaSH pattern imported from radarr/truehd
-tags:
-- TRaSH
-tests: null

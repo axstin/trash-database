@@ -1,0 +1,6 @@
+name: '[TRaSH] Foxtrot'
+pattern: \[Foxtrot\]|-Foxtrot\b
+description: TRaSH pattern imported from radarr/anime-web-tier-02-top-fansubs
+tags:
+- TRaSH
+tests: null

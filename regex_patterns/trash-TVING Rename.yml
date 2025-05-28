@@ -1,6 +1,0 @@
-name: TVING Rename
-pattern: \[(TVING)\b|\b(TVING)\]
-description: TRaSH pattern imported from radarr/tving
-tags:
-- TRaSH
-tests: null

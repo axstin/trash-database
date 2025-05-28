@@ -1,0 +1,6 @@
+name: '[TRaSH] Peacock TV'
+pattern: \b(pcok|peacock)\b
+description: TRaSH pattern imported from radarr/pcok
+tags:
+- TRaSH
+tests: null

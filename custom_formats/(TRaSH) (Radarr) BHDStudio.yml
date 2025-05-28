@@ -1,0 +1,12 @@
+name: '[TRaSH] [Radarr] BHDStudio'
+description: '**Imported from radarr/bhdstudio**'
+tags:
+- TRaSH
+- BHDStudio
+- TRaSH Radarr
+conditions:
+- name: BHDStudio
+  negate: false
+  required: true
+  type: release_group
+  pattern: '[TRaSH] BHDStudio'

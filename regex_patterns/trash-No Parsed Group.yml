@@ -1,6 +1,0 @@
-name: No Parsed Group
-pattern: .
-description: TRaSH pattern imported from radarr/no-rlsgroup
-tags:
-- TRaSH
-tests: null

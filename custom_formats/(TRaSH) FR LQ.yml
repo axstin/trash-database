@@ -1,0 +1,31 @@
+name: '[TRaSH] FR LQ'
+description: "**Imported from sonarr/french-lq**\n\nA collection of known French Low-Quality\
+  \ groups that are often banned from the top trackers due to their lack of quality.\n\
+  \n!!! note\n\n    - Ads/Watermarks = Groups that are known to put ads or watermarks\
+  \ in their releases.\n    - Bad/False releases = Groups that are known for lying\
+  \ about their quality, type, or the name of their releases.\n    - DeTAG/ReTAG =\
+  \ Detagging or stealing groups.\n    - Other reasons = Banned Release Groups."
+tags:
+- TRaSH
+- FR LQ
+conditions:
+- name: Ads/Watermarks
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AdsWatermarks'
+- name: Bad/False releases
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BadFalse releases'
+- name: DeTAG/ReTAG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DeTAGReTAG'
+- name: Other reasons
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Other reasons'

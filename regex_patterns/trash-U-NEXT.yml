@@ -1,6 +1,0 @@
-name: U-NEXT
-pattern: \b(u-next)\b
-description: TRaSH pattern imported from radarr/u-next
-tags:
-- TRaSH
-tests: null

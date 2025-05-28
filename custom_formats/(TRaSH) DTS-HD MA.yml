@@ -1,0 +1,65 @@
+name: '[TRaSH] DTS-HD MA'
+description: '**Imported from sonarr/dts-hd-ma**
+
+
+  [From Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/DTS-HD_Master_Audio){:target="\_blank"
+  rel="noopener noreferrer"}
+
+
+  DTS-HD Master Audio is a multi-channel lossless audio codec developed by DTS that
+  extends the lossy DTS Coherent Acoustics codec (DTS CA; usually referred to as simply
+  "DTS"). Rather than being an entirely new coding mechanism, DTS-HD MA encodes an
+  audio master in lossy DTS first, then stores a concurrent stream of supplementary
+  data representing whatever the DTS encoder discarded. This gives DTS-HD MA a lossy
+  "core" able to be played back by devices that cannot decode the more complex lossless
+  audio. DTS-HD MA''s primary application is audio storage and playback for Blu-ray
+  Disc media.'
+tags:
+- TRaSH
+- DTS-HD MA
+conditions:
+- name: DTS-HD MA
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS-HD MA
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] TrueHDATMOS'
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Dolby Digital Plus'
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Basic Dolby Digital'
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DTS X'
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: PCM
+- name: Not DTS-HD HRA/ES
+  negate: true
+  required: true
+  type: release_title
+  pattern: DTS-HD HRA ES

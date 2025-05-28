@@ -1,0 +1,6 @@
+name: '[TRaSH] FKKTV'
+pattern: ^(FKKTV)$
+description: TRaSH pattern imported from sonarr/german-scene
+tags:
+- TRaSH
+tests: null

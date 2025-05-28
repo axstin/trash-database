@@ -1,0 +1,6 @@
+name: '[TRaSH] VP9'
+pattern: \bVP9\b
+description: TRaSH pattern imported from radarr/vp9
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: Dolby Digital Plus-2
-pattern: \bDD[P+](?!A)|\b(e[-_. ]?ac-?3)\b
-description: TRaSH pattern imported from radarr/ddplus
-tags:
-- TRaSH
-tests: null

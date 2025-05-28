@@ -1,0 +1,6 @@
+name: '[TRaSH] EMVY-2'
+pattern: ^(EMVY)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

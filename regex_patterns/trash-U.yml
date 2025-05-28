@@ -1,6 +1,0 @@
-name: U
-pattern: ^(UKDHD|UKDTV|ULSHD|Ulysse|USUNSKiLLED|URY)$
-description: TRaSH pattern imported from radarr/french-scene
-tags:
-- TRaSH
-tests: null

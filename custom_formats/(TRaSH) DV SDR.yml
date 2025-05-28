@@ -1,0 +1,24 @@
+name: '[TRaSH] DV SDR'
+description: '**Imported from sonarr/dv-sdr**
+
+
+  This is a very rare HDR Format.'
+tags:
+- TRaSH
+- DV SDR
+conditions:
+- name: DV SDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV SDR'
+- name: Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV HDR10'
+- name: Not DV HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] DV HLG'

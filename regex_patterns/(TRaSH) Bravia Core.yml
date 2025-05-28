@@ -1,0 +1,6 @@
+name: '[TRaSH] Bravia Core'
+pattern: \b(BCORE)\b
+description: TRaSH pattern imported from radarr/bcore
+tags:
+- TRaSH
+tests: null

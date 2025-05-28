@@ -1,0 +1,6 @@
+name: '[TRaSH] TEKNO3D'
+pattern: ^(TEKNO3D)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

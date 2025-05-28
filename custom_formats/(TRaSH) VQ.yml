@@ -1,0 +1,14 @@
+name: '[TRaSH] VQ'
+description: '**Imported from sonarr/french-vq**
+
+
+  Quebec Version (strong Quebec accent, ex: The Simpsons movie).'
+tags:
+- TRaSH
+- VQ
+conditions:
+- name: "Version Qu\xE9b\xE9coise"
+  negate: false
+  required: true
+  type: release_title
+  pattern: "[TRaSH] Version Qu\xE9b\xE9coise"

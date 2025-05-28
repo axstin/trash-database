@@ -1,6 +1,0 @@
-name: DV SDR
-pattern: \b(DV[ .]SDR)\b
-description: TRaSH pattern imported from radarr/dv
-tags:
-- TRaSH
-tests: null

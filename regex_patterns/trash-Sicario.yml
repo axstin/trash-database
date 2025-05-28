@@ -1,6 +1,0 @@
-name: Sicario
-pattern: ^(Sicario)$
-description: TRaSH pattern imported from radarr/french-remux-tier-01
-tags:
-- TRaSH
-tests: null

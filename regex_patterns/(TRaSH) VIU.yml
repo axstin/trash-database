@@ -1,0 +1,6 @@
+name: '[TRaSH] VIU'
+pattern: \b(viu)\b[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from radarr/viu
+tags:
+- TRaSH
+tests: null

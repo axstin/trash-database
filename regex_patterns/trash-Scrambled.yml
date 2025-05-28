@@ -1,6 +1,0 @@
-name: Scrambled
-pattern: (?<=\b[12]\d{3}\b).*(Scrambled)\b
-description: TRaSH pattern imported from radarr/obfuscated
-tags:
-- TRaSH
-tests: null

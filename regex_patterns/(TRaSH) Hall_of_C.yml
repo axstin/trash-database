@@ -1,0 +1,6 @@
+name: '[TRaSH] Hall_of_C'
+pattern: \b(Hall_of_C)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

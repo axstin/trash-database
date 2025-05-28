@@ -1,6 +1,0 @@
-name: Cait-Sidhe
-pattern: \b(Cait-Sidhe)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-04-seadex-muxers
-tags:
-- TRaSH
-tests: null

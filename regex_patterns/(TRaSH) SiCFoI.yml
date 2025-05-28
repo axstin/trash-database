@@ -1,0 +1,6 @@
+name: '[TRaSH] SiCFoI'
+pattern: ^(SiCFoI)$
+description: TRaSH pattern imported from radarr/remux-tier-02
+tags:
+- TRaSH
+tests: null

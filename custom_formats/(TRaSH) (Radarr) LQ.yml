@@ -1,0 +1,479 @@
+name: '[TRaSH] [Radarr] LQ'
+description: '**Imported from radarr/lq**
+
+
+  - A collection of known low-quality groups (often banned from the top trackers due
+  to their lack of quality), banned or dishonest release groups, or rips/encodes from
+  the scene and quick-to-release P2P groups that, while adequate, are typically not
+  regarded as high quality.
+
+  - Release groups that disrupt the Starr apps automation because their poor naming
+  could potentially create download loops, even if their overall quality is excellent.
+
+
+  --8<-- "includes/cf-descriptions/apply-10000.md"'
+tags:
+- TRaSH
+- LQ
+- TRaSH Radarr
+conditions:
+- name: 24xHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 24xHD'
+- name: 41RGB
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 41RGB'
+- name: 4K4U
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 4K4U'
+- name: AOC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AOC'
+- name: AROMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AROMA'
+- name: aXXo
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] aXXo'
+- name: AZAZE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AZAZE'
+- name: BARC0DE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BARC0DE'
+- name: BAUCKLEY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BAUCKLEY'
+- name: BdC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BdC'
+- name: beAst
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] beAst'
+- name: BTM
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BTM'
+- name: C1NEM4
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] C1NEM4'
+- name: C4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] C4K'
+- name: CDDHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CDDHD'
+- name: CHAOS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CHAOS'
+- name: CHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CHD'
+- name: CiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CiNE'
+- name: COLLECTiVE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] COLLECTiVE'
+- name: CREATiVE24
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CREATiVE24'
+- name: CrEwSaDe
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CrEwSaDe'
+- name: CTFOH
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CTFOH'
+- name: d3g
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] d3g'
+- name: DDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DDR'
+- name: DNL
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DNL'
+- name: EPiC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EPiC'
+- name: EuReKA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EuReKA'
+- name: FaNGDiNG0
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FaNGDiNG0'
+- name: Feranki1980
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Feranki1980'
+- name: FGT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FGT'
+- name: FMD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FMD'
+- name: FRDS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FRDS'
+- name: FZHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FZHD'
+- name: GalaxyRG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GalaxyRG'
+- name: GHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GHD'
+- name: GPTHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] GPTHD'
+- name: HDS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDS'
+- name: HDT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDT'
+- name: HDTime
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDTime'
+- name: HDWinG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDWinG'
+- name: iNTENSO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iNTENSO'
+- name: iPlanet
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iPlanet'
+- name: iVy
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iVy'
+- name: jennaortega
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] jennaortega'
+- name: JFF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] JFF'
+- name: KC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KC'
+- name: KiNGDOM
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KiNGDOM'
+- name: KIRA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] KIRA'
+- name: L0SERNIGHT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] L0SERNIGHT'
+- name: LAMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LAMA'
+- name: Leffe
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Leffe'
+- name: Liber8
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Liber8'
+- name: LiGaS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LiGaS'
+- name: LUCY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] LUCY'
+- name: MarkII
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MarkII'
+- name: MeGusta
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MeGusta'
+- name: mHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] mHD'
+- name: mSD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] mSD'
+- name: MTeam
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MTeam'
+- name: MySiLU
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MySiLU'
+- name: NhaNc3
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NhaNc3'
+- name: nHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] nHD'
+- name: nikt0
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] nikt0'
+- name: NoGroup
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] NoGroup'
+- name: nSD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] nSD'
+- name: OFT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] OFT'
+- name: Pahe
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Pahe'
+- name: PATOMiEL
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PATOMiEL'
+- name: PRODJi
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PRODJi'
+- name: PSA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PSA'
+- name: PTNK
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PTNK'
+- name: RARBG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RARBG'
+- name: RDN
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RDN'
+- name: RiffTrax
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RiffTrax'
+- name: RU4HD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RU4HD'
+- name: SANTi
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SANTi'
+- name: Scene
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Scene'
+- name: SHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SHD'
+- name: ShieldBearer
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ShieldBearer'
+- name: STUTTERSHIT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] STUTTERSHIT'
+- name: SUNSCREEN
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SUNSCREEN'
+- name: TBS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TBS'
+- name: TEKNO3D
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TEKNO3D'
+- name: Tigole
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Tigole'
+- name: TIKO
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TIKO'
+- name: VISIONPLUSHDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] VISIONPLUSHDR'
+- name: WAF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WAF'
+- name: WiKi
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WiKi'
+- name: x0r
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] x0r'
+- name: YIFY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] YIFY'
+- name: YTS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] YTS'
+- name: Zeus
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Zeus'

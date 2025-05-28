@@ -1,0 +1,6 @@
+name: '[TRaSH] LeetHD'
+pattern: ^(LeetHD)$
+description: TRaSH pattern imported from radarr/german-bluray-tier-03
+tags:
+- TRaSH
+tests: null

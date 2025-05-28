@@ -1,0 +1,6 @@
+name: '[TRaSH] Aoi-Project'
+pattern: \b(Aoi[ .-]?Project)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-02
+tags:
+- TRaSH
+tests: null

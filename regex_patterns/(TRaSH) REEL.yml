@@ -1,0 +1,6 @@
+name: '[TRaSH] REEL'
+pattern: ^(REEL)$
+description: TRaSH pattern imported from radarr/german-lq
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: UTT
-pattern: ^(UTT)$
-description: TRaSH pattern imported from radarr/french-hd-bluray-tier-02
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] SLiGNOME'
+pattern: ^(SLiGNOME)$
+description: TRaSH pattern imported from radarr/web-tier-03
+tags:
+- TRaSH
+tests: null

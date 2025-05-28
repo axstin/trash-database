@@ -1,0 +1,24 @@
+name: '[TRaSH] [Radarr] Pathe'
+description: "**Imported from radarr/pathe**\n\n[From Wikipedia, the free encyclopedia](https://nl.wikipedia.org/wiki/Path%C3%A9_Thuis){:target=\"\
+  \\_blank\" rel=\"noopener noreferrer\"}\n\nPath\xE9 Thuis is a Dutch streaming service\
+  \ for renting and purchasing films."
+tags:
+- TRaSH
+- Pathe
+- TRaSH Radarr
+conditions:
+- name: "Path\xE9"
+  negate: false
+  required: true
+  type: release_title
+  pattern: "[TRaSH] Path\xE9"
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip

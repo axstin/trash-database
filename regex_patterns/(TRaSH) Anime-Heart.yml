@@ -1,0 +1,6 @@
+name: '[TRaSH] Anime-Heart'
+pattern: \b(Anime[ .-]?Heart)\b
+description: TRaSH pattern imported from radarr/french-anime-fansub
+tags:
+- TRaSH
+tests: null

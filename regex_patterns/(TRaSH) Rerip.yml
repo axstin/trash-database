@@ -1,0 +1,6 @@
+name: '[TRaSH] Rerip'
+pattern: \b(Rerip)\b
+description: TRaSH pattern imported from radarr/repack-proper
+tags:
+- TRaSH
+tests: null

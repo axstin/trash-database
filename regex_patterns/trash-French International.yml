@@ -1,6 +1,0 @@
-name: French International
-pattern: \b(VFI)\b
-description: TRaSH pattern imported from radarr/french-vfi
-tags:
-- TRaSH
-tests: null

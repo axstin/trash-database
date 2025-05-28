@@ -1,0 +1,6 @@
+name: '[TRaSH] U-2'
+pattern: ^(UKDHD|UKDTV|ULSHD|Ulysse|USUNSKiLLED|URY|USURY)$
+description: TRaSH pattern imported from sonarr/french-scene
+tags:
+- TRaSH
+tests: null

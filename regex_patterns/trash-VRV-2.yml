@@ -1,6 +1,0 @@
-name: VRV-2
-pattern: \b(VRV)\b
-description: TRaSH pattern imported from sonarr/vrv
-tags:
-- TRaSH
-tests: null

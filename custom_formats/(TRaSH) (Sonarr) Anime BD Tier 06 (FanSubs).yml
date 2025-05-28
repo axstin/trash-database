@@ -1,0 +1,210 @@
+name: '[TRaSH] [Sonarr] Anime BD Tier 06 (FanSubs)'
+description: '**Imported from sonarr/anime-bd-tier-06-fansubs**
+
+
+  FanSub groups that are consistent.'
+tags:
+- TRaSH
+- Anime BD Tier 06 (FanSubs)
+- TRaSH Sonarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: Bluray Remux
+  negate: false
+  required: false
+  type: source
+  source: blurayraw
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: Afro
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Afro'
+- name: Akai
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Akai'
+- name: Almighty
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Almighty'
+- name: ANE
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ANE'
+- name: Asenshi
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Asenshi'
+- name: BlurayDesuYo
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BlurayDesuYo'
+- name: Bunny-Apocalypse
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Bunny-Apocalypse'
+- name: CH
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CH'
+- name: EJF
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] EJF'
+- name: Exiled-Destiny
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Exiled-Destiny'
+- name: FFF
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] FFF'
+- name: Final8
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Final8'
+- name: GS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] GS'
+- name: Harunatsu
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Harunatsu'
+- name: Impatience
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Impatience'
+- name: Inka-Subs
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Inka-Subs'
+- name: Judgement
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Judgement'
+- name: Kantai
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Kantai'
+- name: LCE
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] LCE'
+- name: Licca
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Licca'
+- name: Nii-sama
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Nii-sama'
+- name: niizk
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] niizk'
+- name: Nishi-Taku
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Nishi-Taku'
+- name: OnDeed
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] OnDeed'
+- name: orz
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] orz'
+- name: PAS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] PAS'
+- name: peachflavored
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] peachflavored'
+- name: Saizen
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Saizen'
+- name: SCP-2223
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SCP-2223'
+- name: SHiN-gx
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SHiN-gx'
+- name: SmugCat
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SmugCat'
+- name: Soldado
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Soldado'
+- name: Sushi
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Sushi'
+- name: Vivid
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Vivid'
+- name: Watashi
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Watashi'
+- name: Yabai
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Yabai'
+- name: Zurako
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Zurako'

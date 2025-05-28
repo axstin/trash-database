@@ -1,0 +1,6 @@
+name: '[TRaSH] postbot'
+pattern: -postbot\b
+description: TRaSH pattern imported from radarr/obfuscated
+tags:
+- TRaSH
+tests: null

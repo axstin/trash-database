@@ -1,0 +1,6 @@
+name: '[TRaSH] VECTOR-2'
+pattern: ^(VECTOR)$
+description: TRaSH pattern imported from radarr/generated-dynamic-hdr
+tags:
+- TRaSH
+tests: null

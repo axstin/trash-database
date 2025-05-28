@@ -1,0 +1,6 @@
+name: '[TRaSH] km'
+pattern: \[km\]|-km\b
+description: TRaSH pattern imported from radarr/anime-raws
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] 1XBET-3'
+pattern: ^(1XBET)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] FraMeSToR'
+pattern: ^(FraMeSToR)$
+description: TRaSH pattern imported from radarr/remux-tier-01
+tags:
+- TRaSH
+tests: null

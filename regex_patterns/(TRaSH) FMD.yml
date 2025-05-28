@@ -1,0 +1,6 @@
+name: '[TRaSH] FMD'
+pattern: ^(FMD)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] 6.1 Surround'
+pattern: '[^0-9]6[ .][0-1]'
+description: TRaSH pattern imported from radarr/dts-hd-hra
+tags:
+- TRaSH
+tests: null

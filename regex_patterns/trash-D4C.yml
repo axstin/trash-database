@@ -1,6 +1,0 @@
-name: D4C
-pattern: \b(D4C)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-05-remuxes
-tags:
-- TRaSH
-tests: null

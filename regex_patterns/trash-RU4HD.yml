@@ -1,6 +1,0 @@
-name: RU4HD
-pattern: ^(RU4HD)$
-description: TRaSH pattern imported from radarr/lq
-tags:
-- TRaSH
-tests: null

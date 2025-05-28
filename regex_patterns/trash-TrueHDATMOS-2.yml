@@ -1,6 +1,0 @@
-name: TrueHD/ATMOS-2
-pattern: \b(True[ .-]?HD|ATMOS|DDPA)(\b|\d)
-description: TRaSH pattern imported from radarr/ddplus
-tags:
-- TRaSH
-tests: null

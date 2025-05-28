@@ -1,0 +1,6 @@
+name: '[TRaSH] NoMinus Color'
+pattern: (?<=\b[12]\d{3}\b).*\b((No|Minus)[ ._-]?Colou?r)\b(?!$)
+description: TRaSH pattern imported from radarr/black-and-white-editions
+tags:
+- TRaSH
+tests: null

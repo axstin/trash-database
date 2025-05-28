@@ -1,0 +1,6 @@
+name: '[TRaSH] Funimation'
+pattern: \b(FUNi(mation)?)\b
+description: TRaSH pattern imported from sonarr/funi
+tags:
+- TRaSH
+tests: null

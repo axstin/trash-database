@@ -1,0 +1,6 @@
+name: '[TRaSH] GTF'
+pattern: ^(GTF)$
+description: TRaSH pattern imported from radarr/german-microsized
+tags:
+- TRaSH
+tests: null

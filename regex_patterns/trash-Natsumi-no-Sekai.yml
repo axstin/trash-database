@@ -1,6 +1,0 @@
-name: Natsumi-no-Sekai
-pattern: \b(Natsumi[ .-]?no[ .-]?Sekai)\b
-description: TRaSH pattern imported from radarr/french-anime-fansub
-tags:
-- TRaSH
-tests: null

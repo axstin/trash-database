@@ -1,6 +1,0 @@
-name: KiNGS-2
-pattern: ^(KiNGS)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

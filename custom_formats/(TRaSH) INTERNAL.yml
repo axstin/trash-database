@@ -1,0 +1,17 @@
+name: '[TRaSH] INTERNAL'
+description: '**Imported from sonarr/internal**
+
+
+  - Those who prefer scene releases may want to boost internals, as they generally
+  have higher settings that may not conform to the ruleset.
+
+  - In some rare cases, P2P use is also INTERNAL.'
+tags:
+- TRaSH
+- INTERNAL
+conditions:
+- name: INTERNAL
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] INTERNAL'

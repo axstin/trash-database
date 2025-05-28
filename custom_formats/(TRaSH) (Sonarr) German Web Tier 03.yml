@@ -1,0 +1,49 @@
+name: '[TRaSH] [Sonarr] German Web Tier 03'
+description: '**Imported from sonarr/german-web-tier-03**
+
+
+  - WiP
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Web Tier 03
+- TRaSH Sonarr
+conditions:
+- name: RobertDeNiro
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RobertDeNiro-2'
+- name: BALENCiAGA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BALENCiAGA-2'
+- name: HQC
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HQC'
+- name: HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDSource'
+- name: iNCEPTION
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iNCEPTION'
+- name: WebDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WebRip
+  negate: false
+  required: false
+  type: source
+  source: webrip

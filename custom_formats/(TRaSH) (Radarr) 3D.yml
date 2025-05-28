@@ -1,0 +1,29 @@
+name: '[TRaSH] [Radarr] 3D'
+description: '**Imported from radarr/3d**
+
+
+  If you prefer or not prefer 3D.
+
+
+  You can use Custom Format or use Restrictions (`Settings` => `Indexers` => `Restrictions`)
+  what ever you prefer.'
+tags:
+- TRaSH
+- 3D
+- TRaSH Radarr
+conditions:
+- name: 3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] 3D'
+- name: BluRay3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BluRay3D'
+- name: BD3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] BD3D'

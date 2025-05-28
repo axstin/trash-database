@@ -1,0 +1,14 @@
+name: '[TRaSH] VOQ'
+description: '**Imported from sonarr/french-voq**
+
+
+  Quebec Original Version.'
+tags:
+- TRaSH
+- VOQ
+conditions:
+- name: Quebec Original Version
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Quebec Original Version'

@@ -1,6 +1,0 @@
-name: VRV
-pattern: \b(vrv)\b
-description: TRaSH pattern imported from radarr/vrv
-tags:
-- TRaSH
-tests: null

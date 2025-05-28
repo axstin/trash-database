@@ -1,6 +1,0 @@
-name: TEPES-2
-pattern: ^(TEPES)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

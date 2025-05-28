@@ -1,0 +1,6 @@
+name: '[TRaSH] jennaortega-2'
+pattern: (?<!-)\b(jennaortega(UHD)?)\b
+description: TRaSH pattern imported from radarr/lq-release-title
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: "Path\xE9"
-pattern: \b(Pathe)\b
-description: TRaSH pattern imported from radarr/pathe
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] RlsGrp (Missing HDR)'
+pattern: \b(FraMeSToR|HQMUX|SiCFoI)\b
+description: TRaSH pattern imported from radarr/hdr
+tags:
+- TRaSH
+tests: null

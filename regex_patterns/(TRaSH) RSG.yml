@@ -1,0 +1,6 @@
+name: '[TRaSH] RSG'
+pattern: ^(RSG)$
+description: TRaSH pattern imported from radarr/german-scene
+tags:
+- TRaSH
+tests: null

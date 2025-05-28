@@ -1,6 +1,0 @@
-name: FORMBA-2
-pattern: ^(FORMBA)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,20 @@
+name: '[TRaSH] VFF'
+description: '**Imported from sonarr/french-vff**
+
+
+  Full French version (dubbing done in France) and French version (normally equivalent
+  to VFQ).'
+tags:
+- TRaSH
+- VFF
+conditions:
+- name: TRUEFRENCH
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] TRUEFRENCH'
+- name: Not VF2
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] VF2'

@@ -1,0 +1,6 @@
+name: '[TRaSH] KiyoshiStar'
+pattern: \b(KS|KiyoshiStar)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-04-official-subs
+tags:
+- TRaSH
+tests: null

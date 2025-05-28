@@ -1,0 +1,6 @@
+name: '[TRaSH] Amazon'
+pattern: \b(amzn|amazon(hd)?)\b
+description: TRaSH pattern imported from radarr/amzn
+tags:
+- TRaSH
+tests: null

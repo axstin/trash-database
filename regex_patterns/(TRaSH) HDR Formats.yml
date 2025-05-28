@@ -1,0 +1,6 @@
+name: '[TRaSH] HDR Formats'
+pattern: \bHDR(\b|\d)|\b(dv|dovi|dolby[ .]?v(ision)?)\b|\b(FraMeSToR|HQMUX|SICFoI)\b|\b(PQ)\b|\bHLG(\b|\d)
+description: TRaSH pattern imported from radarr/sdr
+tags:
+- TRaSH
+tests: null

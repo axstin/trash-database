@@ -1,0 +1,6 @@
+name: '[TRaSH] Repack v2'
+pattern: \b(repack2)\b
+description: TRaSH pattern imported from sonarr/repack-v2
+tags:
+- TRaSH
+tests: null

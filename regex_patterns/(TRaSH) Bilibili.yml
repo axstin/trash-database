@@ -1,0 +1,6 @@
+name: '[TRaSH] Bilibili'
+pattern: \b(Bili(bili)?)\b
+description: TRaSH pattern imported from sonarr/bilibili
+tags:
+- TRaSH
+tests: null

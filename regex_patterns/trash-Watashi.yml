@@ -1,6 +1,0 @@
-name: Watashi
-pattern: \[Watashi\]|-Watashi\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-06-fansubs
-tags:
-- TRaSH
-tests: null

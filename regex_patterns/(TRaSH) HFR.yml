@@ -1,0 +1,6 @@
+name: '[TRaSH] HFR'
+pattern: \b(HFR)\b
+description: TRaSH pattern imported from radarr/hfr
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] DV HLG'
+pattern: \b(DV[ .]HLG)\b
+description: TRaSH pattern imported from radarr/dv
+tags:
+- TRaSH
+tests: null

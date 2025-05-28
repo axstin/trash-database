@@ -1,0 +1,6 @@
+name: '[TRaSH] Anime Land'
+pattern: \b(Anime[ .-]?Land)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

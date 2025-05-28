@@ -1,0 +1,6 @@
+name: '[TRaSH] New-raws'
+pattern: New[ ._-]?(raws)
+description: TRaSH pattern imported from radarr/anime-raws
+tags:
+- TRaSH
+tests: null

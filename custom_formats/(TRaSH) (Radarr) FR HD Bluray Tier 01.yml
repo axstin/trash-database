@@ -1,0 +1,63 @@
+name: '[TRaSH] [Radarr] FR HD Bluray Tier 01'
+description: '**Imported from radarr/french-hd-bluray-tier-01**
+
+
+  - WiP
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that have a minimum count of great releases (best encode in its class 1080p
+  and lower).
+
+  - Groups that add the best French audio track to an English release from Tier 01
+  or 02.'
+tags:
+- TRaSH
+- FR HD Bluray Tier 01
+- TRaSH Radarr
+conditions:
+- name: BLURAY
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux
+- name: Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: BDHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] BDHD'
+- name: FoX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FoX'
+- name: FRATERNiTY
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FRATERNiTY'
+- name: FrIeNdS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] FrIeNdS'
+- name: MAX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MAX'
+- name: Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Psaro'

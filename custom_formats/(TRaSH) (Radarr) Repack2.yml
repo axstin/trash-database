@@ -1,0 +1,22 @@
+name: '[TRaSH] [Radarr] Repack2'
+description: '**Imported from radarr/repack2**'
+tags:
+- TRaSH
+- Repack2
+- TRaSH Radarr
+conditions:
+- name: Repack2
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Repack2'
+- name: Proper2
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Proper2'
+- name: RealProperRepack
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RealProperRepack'

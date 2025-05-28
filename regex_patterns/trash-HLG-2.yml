@@ -1,6 +1,0 @@
-name: HLG-2
-pattern: \bHLG(\b|\d)
-description: TRaSH pattern imported from radarr/hdr
-tags:
-- TRaSH
-tests: null

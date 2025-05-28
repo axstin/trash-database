@@ -1,6 +1,0 @@
-name: ABJ-2
-pattern: ^(ABJ)$
-description: TRaSH pattern imported from sonarr/german-web-tier-02
-tags:
-- TRaSH
-tests: null

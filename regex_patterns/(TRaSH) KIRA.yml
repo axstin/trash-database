@@ -1,0 +1,6 @@
+name: '[TRaSH] KIRA'
+pattern: ^(KIRA)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] Discovery+'
+pattern: \b((dscp|dcp|disc)\b|dscv\+?)[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from sonarr/dscp
+tags:
+- TRaSH
+tests: null

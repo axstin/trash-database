@@ -1,6 +1,0 @@
-name: Raizel
-pattern: \b(Raizel)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-05-remuxes
-tags:
-- TRaSH
-tests: null

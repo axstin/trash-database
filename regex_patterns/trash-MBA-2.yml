@@ -1,6 +1,0 @@
-name: MBA-2
-pattern: ^(MBA)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

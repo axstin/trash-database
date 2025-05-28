@@ -1,0 +1,6 @@
+name: "[TRaSH] Radio T\xE9l\xE9vision Belge Francophone"
+pattern: \b(RTBF)\b
+description: TRaSH pattern imported from sonarr/french-auvio
+tags:
+- TRaSH
+tests: null

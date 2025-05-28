@@ -1,6 +1,0 @@
-name: Netflix-2
-pattern: \b(nf|netflix(u?hd)?)\b
-description: TRaSH pattern imported from radarr/nf
-tags:
-- TRaSH
-tests: null

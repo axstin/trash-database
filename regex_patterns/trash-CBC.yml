@@ -1,6 +1,0 @@
-name: CBC
-pattern: \b(CBC)\b
-description: TRaSH pattern imported from radarr/cbc
-tags:
-- TRaSH
-tests: null

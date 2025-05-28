@@ -1,0 +1,6 @@
+name: '[TRaSH] 0x539'
+pattern: \b(0x539)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-02-top-fansubs
+tags:
+- TRaSH
+tests: null

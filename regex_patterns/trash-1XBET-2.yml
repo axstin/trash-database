@@ -1,6 +1,0 @@
-name: 1XBET-2
-pattern: (1XBET)$
-description: TRaSH pattern imported from radarr/german-lq
-tags:
-- TRaSH
-tests: null

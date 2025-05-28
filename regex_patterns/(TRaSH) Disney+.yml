@@ -1,0 +1,6 @@
+name: '[TRaSH] Disney+'
+pattern: \b(dsnp|dsny|disney|Disney\+)\b
+description: TRaSH pattern imported from radarr/dsnp
+tags:
+- TRaSH
+tests: null

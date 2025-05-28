@@ -1,6 +1,0 @@
-name: LazyRemux
-pattern: \b(LazyRemux)\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-03-seadex-muxers
-tags:
-- TRaSH
-tests: null

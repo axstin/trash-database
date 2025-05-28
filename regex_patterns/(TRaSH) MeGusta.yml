@@ -1,0 +1,6 @@
+name: '[TRaSH] MeGusta'
+pattern: ^(MeGusta)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

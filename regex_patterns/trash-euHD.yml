@@ -1,6 +1,0 @@
-name: euHD
-pattern: ^(euHD)$
-description: TRaSH pattern imported from sonarr/german-scene
-tags:
-- TRaSH
-tests: null

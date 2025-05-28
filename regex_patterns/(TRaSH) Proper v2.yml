@@ -1,0 +1,6 @@
+name: '[TRaSH] Proper v2'
+pattern: \b(proper2)\b
+description: TRaSH pattern imported from sonarr/repack-v2
+tags:
+- TRaSH
+tests: null

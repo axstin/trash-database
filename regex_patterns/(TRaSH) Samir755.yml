@@ -1,0 +1,6 @@
+name: '[TRaSH] Samir755'
+pattern: \b(Samir755)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

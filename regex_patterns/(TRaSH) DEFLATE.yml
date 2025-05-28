@@ -1,0 +1,6 @@
+name: '[TRaSH] DEFLATE'
+pattern: ^(DEFLATE)$
+description: TRaSH pattern imported from sonarr/web-scene
+tags:
+- TRaSH
+tests: null

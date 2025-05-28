@@ -1,0 +1,6 @@
+name: '[TRaSH] Peacock TV-2'
+pattern: \b(pcok|Peacock TV)\b
+description: TRaSH pattern imported from sonarr/uhd-streaming-boost
+tags:
+- TRaSH
+tests: null

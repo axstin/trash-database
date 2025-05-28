@@ -1,6 +1,0 @@
-name: HONE-2
-pattern: ^(HONE)$
-description: TRaSH pattern imported from radarr/web-tier-01
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,175 @@
+name: '[TRaSH] [Radarr] German Scene'
+description: '**Imported from radarr/german-scene**
+
+
+  Known German Scene groups (which are not defined as LQ).'
+tags:
+- TRaSH
+- German Scene
+- TRaSH Radarr
+conditions:
+- name: DETAiLS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DETAiLS'
+- name: WAYNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WAYNE'
+- name: WOMBAT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WOMBAT'
+- name: SAUERKRAUT
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SAUERKRAUT'
+- name: WvF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WvF'
+- name: 4KCONNECTiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] 4KCONNECTiON'
+- name: STARS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] STARS'
+- name: AWARDS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] AWARDS'
+- name: DMPD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] DMPD'
+- name: EXCiTED
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] EXCiTED'
+- name: iNTENTiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] iNTENTiON'
+- name: JaJunge
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] JaJunge'
+- name: MGE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MGE'
+- name: MisFiTS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MisFiTS'
+- name: RUBBiSH
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RUBBiSH'
+- name: RWP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RWP'
+- name: TMSF
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TMSF'
+- name: TV4A
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] TV4A'
+- name: HAXE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HAXE'
+- name: muhHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] muhHD'
+- name: RiLE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RiLE'
+- name: W4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] W4K'
+- name: ENDSTATiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ENDSTATiON'
+- name: HDARCHiV
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] HDARCHiV'
+- name: PL3X
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] PL3X'
+- name: WATCHABLE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] WATCHABLE'
+- name: OHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] OHD'
+- name: ENCOUNTERS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ENCOUNTERS'
+- name: RSG
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] RSG'
+- name: OCA
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] OCA'
+- name: UNDERTAKERS
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] UNDERTAKERS'
+- name: CDP
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] CDP'
+- name: SAViOURHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SAViOURHD'

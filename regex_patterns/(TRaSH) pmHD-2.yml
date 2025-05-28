@@ -1,0 +1,6 @@
+name: '[TRaSH] pmHD-2'
+pattern: ^(pmHD)$
+description: TRaSH pattern imported from sonarr/german-remux-tier-01
+tags:
+- TRaSH
+tests: null

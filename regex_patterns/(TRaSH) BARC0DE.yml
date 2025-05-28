@@ -1,0 +1,6 @@
+name: '[TRaSH] BARC0DE'
+pattern: ^(BARC0DE)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

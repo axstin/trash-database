@@ -1,6 +1,0 @@
-name: QfG-2
-pattern: (QfG)$
-description: TRaSH pattern imported from radarr/german-remux-tier-01
-tags:
-- TRaSH
-tests: null

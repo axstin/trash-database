@@ -1,0 +1,91 @@
+name: '[TRaSH] [Radarr] Anime Web Tier 01 (Muxers)'
+description: '**Imported from radarr/anime-web-tier-01-muxers**
+
+
+  Groups that do the best releases as per SeaDex. They are more consistent and trump
+  others.'
+tags:
+- TRaSH
+- Anime Web Tier 01 (Muxers)
+- TRaSH Radarr
+conditions:
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: web_dl
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
+- name: Arg0
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Arg0'
+- name: Arid
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Arid'
+- name: Baws
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Baws'
+- name: LostYears
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] LostYears'
+- name: LYS1TH3A
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] LYS1TH3A'
+- name: McBalls
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] McBalls'
+- name: sam
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] sam'
+- name: SCY
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SCY'
+- name: Setsugen
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Setsugen'
+- name: smol
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] smol'
+- name: SoM
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SoM'
+- name: Vodes
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Vodes'
+- name: Z4ST1N
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Z4ST1N'
+- name: ZeroBuild
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ZeroBuild'

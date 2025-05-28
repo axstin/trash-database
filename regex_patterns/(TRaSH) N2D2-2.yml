@@ -1,0 +1,6 @@
+name: '[TRaSH] N2D2-2'
+pattern: ^(N2D2)$
+description: TRaSH pattern imported from sonarr/german-lq
+tags:
+- TRaSH
+tests: null

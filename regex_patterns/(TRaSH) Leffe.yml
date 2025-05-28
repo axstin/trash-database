@@ -1,0 +1,6 @@
+name: '[TRaSH] Leffe'
+pattern: ^(Leffe)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

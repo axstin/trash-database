@@ -1,0 +1,26 @@
+name: '[TRaSH] 7.1 Surround'
+description: '**Imported from sonarr/71-surround**'
+tags:
+- TRaSH
+- 7.1 Surround
+conditions:
+- name: 7.1 Surround
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] 7.1 Surround'
+- name: 5.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] 5.1 Surround'
+- name: 6.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] 6.1 Surround-2'
+- name: Not Low Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Low Channel Count'

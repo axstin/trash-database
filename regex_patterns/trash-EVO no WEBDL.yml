@@ -1,6 +1,0 @@
-name: EVO (no WEBDL)
-pattern: (?<=\b[12]\d{3}\b.*?)(?<!\b(web[ ._-]?(dl|rip)?).*?)\b(EVO)\b
-description: TRaSH pattern imported from radarr/lq-release-title
-tags:
-- TRaSH
-tests: null

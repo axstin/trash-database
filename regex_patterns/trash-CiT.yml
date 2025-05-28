@@ -1,6 +1,0 @@
-name: CiT
-pattern: ^(CiT)$
-description: TRaSH pattern imported from sonarr/web-tier-02
-tags:
-- TRaSH
-tests: null

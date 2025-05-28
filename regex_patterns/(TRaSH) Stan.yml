@@ -1,0 +1,6 @@
+name: '[TRaSH] Stan'
+pattern: \b(stan)\b[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from radarr/stan
+tags:
+- TRaSH
+tests: null

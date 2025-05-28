@@ -1,6 +1,0 @@
-name: EDGE
-pattern: \[EDGE\]|-EDGE\b
-description: TRaSH pattern imported from radarr/anime-bd-tier-08-mini-encodes
-tags:
-- TRaSH
-tests: null

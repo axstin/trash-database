@@ -1,6 +1,0 @@
-name: GETB8
-pattern: (GETB8)$
-description: TRaSH pattern imported from radarr/german-lq
-tags:
-- TRaSH
-tests: null

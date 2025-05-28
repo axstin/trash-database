@@ -1,0 +1,6 @@
+name: '[TRaSH] VULCAN-2'
+pattern: \b(VULCAN)\b
+description: TRaSH pattern imported from sonarr/anime-bd-tier-05-remuxes
+tags:
+- TRaSH
+tests: null

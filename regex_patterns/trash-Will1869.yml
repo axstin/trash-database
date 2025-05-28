@@ -1,6 +1,0 @@
-name: Will1869
-pattern: \b(Will1869)\b
-description: TRaSH pattern imported from radarr/lq-release-title
-tags:
-- TRaSH
-tests: null

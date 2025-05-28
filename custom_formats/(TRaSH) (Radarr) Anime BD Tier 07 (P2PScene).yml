@@ -1,0 +1,110 @@
+name: '[TRaSH] [Radarr] Anime BD Tier 07 (P2PScene)'
+description: '**Imported from radarr/anime-bd-tier-07-p2pscene**
+
+
+  Known P2P and Scene Anime groups.'
+tags:
+- TRaSH
+- Anime BD Tier 07 (P2P/Scene)
+- TRaSH Radarr
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: bluray
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: dvd
+- name: A-L
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] A-L'
+- name: ANiHLS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] ANiHLS'
+- name: CBM
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] CBM'
+- name: DHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] DHD'
+- name: DragsterPS
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] DragsterPS'
+- name: HAiKU
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] HAiKU'
+- name: Hark0N
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Hark0N'
+- name: iAHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] iAHD'
+- name: inid4c
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] inid4c'
+- name: KiyoshiStar
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] KiyoshiStar'
+- name: MCR
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] MCR'
+- name: NPC
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] NPC'
+- name: RedBlade
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RedBlade'
+- name: RH
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] RH'
+- name: SEV
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] SEV'
+- name: STRiFE
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] STRiFE'
+- name: TENEIGHTY
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] TENEIGHTY'
+- name: WaLMaRT
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] WaLMaRT'

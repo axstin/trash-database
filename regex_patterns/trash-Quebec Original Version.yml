@@ -1,6 +1,0 @@
-name: Quebec Original Version
-pattern: \b(VOQ)\b
-description: TRaSH pattern imported from radarr/french-voq
-tags:
-- TRaSH
-tests: null

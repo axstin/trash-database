@@ -1,6 +1,0 @@
-name: Apple TV+-2
-pattern: \b(atvp|aptv|Apple TV\+)\b
-description: TRaSH pattern imported from radarr/atvp
-tags:
-- TRaSH
-tests: null

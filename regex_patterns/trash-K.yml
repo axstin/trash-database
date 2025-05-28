@@ -1,6 +1,0 @@
-name: K
-pattern: ^(KAZETV)$
-description: TRaSH pattern imported from radarr/french-scene
-tags:
-- TRaSH
-tests: null

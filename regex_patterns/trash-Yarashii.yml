@@ -1,6 +1,0 @@
-name: Yarashii
-pattern: \b(Yarashii)\b
-description: TRaSH pattern imported from radarr/french-anime-fansub
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] IssouCorp'
+pattern: \b(IssouCorp)\b
+description: TRaSH pattern imported from radarr/french-anime-tier-02
+tags:
+- TRaSH
+tests: null

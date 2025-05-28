@@ -1,6 +1,0 @@
-name: ZaidaNulled-2
-pattern: ^(ZaidaNulled)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

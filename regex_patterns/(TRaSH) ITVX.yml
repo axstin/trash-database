@@ -1,0 +1,6 @@
+name: '[TRaSH] ITVX'
+pattern: \b(ITVX?)\b[ ._-]web[ ._-]?(dl|rip)?\b
+description: TRaSH pattern imported from radarr/itvx
+tags:
+- TRaSH
+tests: null

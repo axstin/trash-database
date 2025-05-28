@@ -1,0 +1,6 @@
+name: '[TRaSH] HQMUX'
+pattern: ^(HQMUX)$
+description: TRaSH pattern imported from radarr/uhd-bluray-tier-02
+tags:
+- TRaSH
+tests: null

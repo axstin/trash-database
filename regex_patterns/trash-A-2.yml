@@ -1,6 +1,0 @@
-name: A-2
-pattern: ^(AiR3D|AiRDOCS|AiRFORCE|AiRLiNE|AiRTV|AMB3R|ANMWR|AVON|AYMO|AZR)$
-description: TRaSH pattern imported from sonarr/french-scene
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] RlsGrp (Atmos Only)'
+pattern: \b(W4NK3R|HQMUX)\b
+description: TRaSH pattern imported from radarr/atmos-undefined
+tags:
+- TRaSH
+tests: null

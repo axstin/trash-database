@@ -1,6 +1,0 @@
-name: RlsGrp (TrueHD only)
-pattern: \b(CtrlHD|W4NK3R|DON)\b
-description: TRaSH pattern imported from radarr/truehd
-tags:
-- TRaSH
-tests: null

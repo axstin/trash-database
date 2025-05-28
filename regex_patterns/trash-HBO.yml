@@ -1,6 +1,0 @@
-name: HBO
-pattern: \b(hbo)(?![ ._-]max)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
-description: TRaSH pattern imported from radarr/hbo
-tags:
-- TRaSH
-tests: null

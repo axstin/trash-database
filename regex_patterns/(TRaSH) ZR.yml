@@ -1,0 +1,6 @@
+name: '[TRaSH] ZR'
+pattern: \b(ZR)\b
+description: TRaSH pattern imported from radarr/anime-web-tier-03-official-subs
+tags:
+- TRaSH
+tests: null

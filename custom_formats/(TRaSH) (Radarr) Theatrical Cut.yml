@@ -1,0 +1,15 @@
+name: '[TRaSH] [Radarr] Theatrical Cut'
+description: '**Imported from radarr/theatrical-cut**
+
+
+  The Theatrical Cut is the film''s version shown in the cinemas.'
+tags:
+- TRaSH
+- Theatrical Cut
+- TRaSH Radarr
+conditions:
+- name: Theatrical
+  negate: false
+  required: true
+  type: release_title
+  pattern: '[TRaSH] Theatrical'

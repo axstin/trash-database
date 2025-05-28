@@ -1,0 +1,60 @@
+name: '[TRaSH] [Radarr] German Bluray Tier 02'
+description: '**Imported from radarr/german-bluray-tier-02**
+
+
+  - WiP
+
+  - Groups that get their releases directly from the source.
+
+  - Groups that create encodes from a remux without micro-sizing them.
+
+  - Groups that have the best German audio track to an English release.
+
+  - Groups that haven''t released much or are not well recognized. (yet)
+
+  - Groups that retired and don''t have the best quality by today''s standards.'
+tags:
+- TRaSH
+- German Bluray Tier 02
+- TRaSH Radarr
+conditions:
+- name: VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] VECTOR'
+- name: MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] MULTiPLEX'
+- name: SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] SiXTYNiNE'
+- name: Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] Oergel'
+- name: ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] ABJ'
+- name: paranoid06
+  negate: false
+  required: false
+  type: release_group
+  pattern: '[TRaSH] paranoid06'
+- name: Bluray
+  negate: false
+  required: true
+  type: source
+  source: bluray
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: remux

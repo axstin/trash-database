@@ -1,6 +1,0 @@
-name: EVO-2
-pattern: ^(EVO)$
-description: TRaSH pattern imported from sonarr/lq
-tags:
-- TRaSH
-tests: null

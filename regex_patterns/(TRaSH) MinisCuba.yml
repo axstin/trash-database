@@ -1,0 +1,6 @@
+name: '[TRaSH] MinisCuba'
+pattern: \b(MinisCuba)\b
+description: TRaSH pattern imported from radarr/anime-lq-groups
+tags:
+- TRaSH
+tests: null

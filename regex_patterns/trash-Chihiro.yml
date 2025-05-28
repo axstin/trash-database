@@ -1,6 +1,0 @@
-name: Chihiro
-pattern: \[Chihiro\]|-Chihiro\b
-description: TRaSH pattern imported from radarr/anime-web-tier-06-fansubs
-tags:
-- TRaSH
-tests: null

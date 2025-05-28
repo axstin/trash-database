@@ -1,6 +1,0 @@
-name: LAW-2
-pattern: ^(LAW)$
-description: TRaSH pattern imported from sonarr/german-lq
-tags:
-- TRaSH
-tests: null

@@ -1,0 +1,6 @@
+name: '[TRaSH] MTeam'
+pattern: ^(MTeam|MT)$
+description: TRaSH pattern imported from radarr/lq
+tags:
+- TRaSH
+tests: null

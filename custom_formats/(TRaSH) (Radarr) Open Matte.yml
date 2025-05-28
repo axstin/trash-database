@@ -1,0 +1,18 @@
+name: '[TRaSH] [Radarr] Open Matte'
+description: '**Imported from radarr/open-matte**
+
+
+  Open matte is a filming technique that involves matting out the top and bottom of
+  the film frame in the movie projector (known as a soft matte) for the widescreen
+  theatrical release and then scanning the film without a matte (at an Academy ratio)
+  for a full-screen home video release.'
+tags:
+- TRaSH
+- Open Matte
+- TRaSH Radarr
+conditions:
+- name: Open Matte
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TRaSH] Open Matte'

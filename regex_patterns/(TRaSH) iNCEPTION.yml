@@ -1,0 +1,6 @@
+name: '[TRaSH] iNCEPTION'
+pattern: ^(iNCEPTION)$
+description: TRaSH pattern imported from radarr/german-remux-tier-02
+tags:
+- TRaSH
+tests: null
