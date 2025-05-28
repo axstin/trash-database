@@ -3,6 +3,7 @@ description: '**Imported from sonarr/20-stereo**'
 tags:
 - TRaSH
 - 2.0 Stereo
+tests: []
 conditions:
 - name: Stereo
   negate: false

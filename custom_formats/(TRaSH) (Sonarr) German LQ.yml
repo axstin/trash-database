@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - German LQ
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: PsO
   negate: false

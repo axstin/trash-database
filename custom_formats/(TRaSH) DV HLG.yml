@@ -13,6 +13,7 @@ description: '**Imported from sonarr/dv-hlg**
 tags:
 - TRaSH
 - DV HLG
+tests: []
 conditions:
 - name: DV HLG
   negate: false

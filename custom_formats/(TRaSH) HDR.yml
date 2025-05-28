@@ -8,6 +8,7 @@ description: '**Imported from sonarr/hdr**
 tags:
 - TRaSH
 - HDR
+tests: []
 conditions:
 - name: HDR
   negate: false

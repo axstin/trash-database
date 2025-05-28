@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - PQ
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: PQ
   negate: false

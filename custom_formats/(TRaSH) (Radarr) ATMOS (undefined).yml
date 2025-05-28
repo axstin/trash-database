@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - ATMOS (undefined)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: ATMOS
   negate: false

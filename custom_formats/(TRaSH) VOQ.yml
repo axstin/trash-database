@@ -6,6 +6,7 @@ description: '**Imported from sonarr/french-voq**
 tags:
 - TRaSH
 - VOQ
+tests: []
 conditions:
 - name: Quebec Original Version
   negate: false

@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - CC
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Comedy Central
   negate: false

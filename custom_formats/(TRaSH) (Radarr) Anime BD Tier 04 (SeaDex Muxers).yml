@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Anime BD Tier 04 (SeaDex Muxers)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Bluray
   negate: false

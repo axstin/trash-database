@@ -22,6 +22,7 @@ tags:
 - TRaSH
 - DCU
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: DC Universe
   negate: false

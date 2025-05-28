@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Black and White Editions
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Blackout/B&W/Black&Chrome
   negate: false

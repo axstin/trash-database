@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - Bad Dual Groups
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: alfaHD
   negate: false

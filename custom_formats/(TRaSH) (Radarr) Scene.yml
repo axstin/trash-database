@@ -9,6 +9,7 @@ tags:
 - TRaSH
 - Scene
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Scene Groups + Naming
   negate: false

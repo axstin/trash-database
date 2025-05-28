@@ -3,6 +3,7 @@ description: '**Imported from sonarr/max**'
 tags:
 - TRaSH
 - MAX
+tests: []
 conditions:
 - name: Max
   negate: false

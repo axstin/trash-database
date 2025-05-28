@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - Open Matte
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Open Matte
   negate: false

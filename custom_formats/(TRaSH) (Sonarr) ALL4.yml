@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - ALL4
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: ALL4
   negate: false

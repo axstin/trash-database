@@ -13,6 +13,7 @@ tags:
 - TRaSH
 - Retags
 - TRaSH Radarr
+tests: []
 conditions:
 - name: '[rartv]'
   negate: false

@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - BHDStudio
 - TRaSH Radarr
+tests: []
 conditions:
 - name: BHDStudio
   negate: false

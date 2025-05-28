@@ -15,6 +15,7 @@ description: '**Imported from sonarr/amzn**
 tags:
 - TRaSH
 - AMZN
+tests: []
 conditions:
 - name: Amazon
   negate: false

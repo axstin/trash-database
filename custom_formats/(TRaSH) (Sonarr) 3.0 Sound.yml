@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - 3.0 Sound
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 3.0ch
   negate: false

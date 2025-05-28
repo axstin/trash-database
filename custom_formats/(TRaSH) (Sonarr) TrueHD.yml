@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - TrueHD
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: TrueHD
   negate: false

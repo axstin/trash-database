@@ -6,6 +6,7 @@ description: '**Imported from sonarr/french-anime-fansub**
 tags:
 - TRaSH
 - FR Anime FanSub
+tests: []
 conditions:
 - name: Anime-Heart
   negate: false

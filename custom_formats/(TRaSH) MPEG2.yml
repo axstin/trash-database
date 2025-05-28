@@ -3,6 +3,7 @@ description: '**Imported from sonarr/mpeg2**'
 tags:
 - TRaSH
 - MPEG2
+tests: []
 conditions:
 - name: MPEG2
   negate: false

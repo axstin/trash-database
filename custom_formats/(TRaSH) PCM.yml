@@ -6,6 +6,7 @@ description: '**Imported from sonarr/pcm**
 tags:
 - TRaSH
 - PCM
+tests: []
 conditions:
 - name: PCM
   negate: false

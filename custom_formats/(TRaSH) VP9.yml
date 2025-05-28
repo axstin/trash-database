@@ -12,6 +12,7 @@ description: '**Imported from sonarr/vp9**
 tags:
 - TRaSH
 - VP9
+tests: []
 conditions:
 - name: VP9
   negate: false

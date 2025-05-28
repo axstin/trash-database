@@ -17,6 +17,7 @@ description: '**Imported from sonarr/dts-hd-ma**
 tags:
 - TRaSH
 - DTS-HD MA
+tests: []
 conditions:
 - name: DTS-HD MA
   negate: false

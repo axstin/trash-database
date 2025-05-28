@@ -6,6 +6,7 @@ description: '**Imported from sonarr/anime-raws**
 tags:
 - TRaSH
 - Anime Raws
+tests: []
 conditions:
 - name: AsukaRaws
   negate: false

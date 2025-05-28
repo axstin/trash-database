@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - FraMeSToR
 - TRaSH Radarr
+tests: []
 conditions:
 - name: FraMeSToR
   negate: false

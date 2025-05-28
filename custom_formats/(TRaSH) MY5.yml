@@ -11,6 +11,7 @@ description: '**Imported from sonarr/my5**
 tags:
 - TRaSH
 - MY5
+tests: []
 conditions:
 - name: My5
   negate: false

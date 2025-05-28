@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - German Remux Tier 02
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: MULTiPLEX
   negate: false

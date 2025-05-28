@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - Hybrid
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Hybrid
   negate: false

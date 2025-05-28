@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - ATMOS (undefined)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: ATMOS
   negate: false

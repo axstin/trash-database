@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - 4K Remaster
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Remaster
   negate: false

@@ -18,6 +18,7 @@ tags:
 - TRaSH
 - MA
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Movies Anywhere
   negate: false

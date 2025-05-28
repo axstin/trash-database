@@ -20,6 +20,7 @@ tags:
 - TRaSH
 - UHD Bluray Tier 03
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Not REMUX
   negate: true

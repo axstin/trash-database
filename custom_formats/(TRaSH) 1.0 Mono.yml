@@ -3,6 +3,7 @@ description: '**Imported from sonarr/10-mono**'
 tags:
 - TRaSH
 - 1.0 Mono
+tests: []
 conditions:
 - name: Mono
   negate: false

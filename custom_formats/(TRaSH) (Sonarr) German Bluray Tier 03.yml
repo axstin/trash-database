@@ -11,6 +11,7 @@ tags:
 - TRaSH
 - German Bluray Tier 03
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: RobertDeNiro
   negate: false

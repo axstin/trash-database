@@ -10,6 +10,7 @@ description: '**Imported from sonarr/french-anime-tier-01**
 tags:
 - TRaSH
 - FR Anime Tier 01
+tests: []
 conditions:
 - name: Darki
   negate: false

@@ -11,6 +11,7 @@ description: "**Imported from sonarr/dts-x**\n\n[DTS:X is an object-based audio 
 tags:
 - TRaSH
 - DTS X
+tests: []
 conditions:
 - name: DTS X
   negate: false

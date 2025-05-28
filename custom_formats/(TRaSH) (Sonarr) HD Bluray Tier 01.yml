@@ -18,6 +18,7 @@ tags:
 - TRaSH
 - HD Bluray Tier 01
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: BLURAY
   negate: false

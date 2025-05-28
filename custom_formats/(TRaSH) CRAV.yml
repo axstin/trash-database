@@ -18,6 +18,7 @@ description: '**Imported from sonarr/crav**
 tags:
 - TRaSH
 - CRAV
+tests: []
 conditions:
 - name: Crave
   negate: false

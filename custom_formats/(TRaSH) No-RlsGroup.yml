@@ -8,6 +8,7 @@ description: "**Imported from sonarr/no-rlsgroup**\n\nSome indexers stripped out
 tags:
 - TRaSH
 - No-RlsGroup
+tests: []
 conditions:
 - name: No Parsed Group
   negate: true

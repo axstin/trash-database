@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - German Bluray Tier 01
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: ZeroTwo
   negate: false

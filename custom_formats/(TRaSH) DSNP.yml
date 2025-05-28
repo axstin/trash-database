@@ -16,6 +16,7 @@ description: '**Imported from sonarr/dsnp**
 tags:
 - TRaSH
 - DSNP
+tests: []
 conditions:
 - name: Disney+
   negate: false

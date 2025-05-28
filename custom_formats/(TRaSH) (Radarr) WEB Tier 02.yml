@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - WEB Tier 02
 - TRaSH Radarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

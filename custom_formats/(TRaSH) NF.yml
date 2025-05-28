@@ -12,6 +12,7 @@ description: '**Imported from sonarr/nf**
 tags:
 - TRaSH
 - NF
+tests: []
 conditions:
 - name: Netflix
   negate: false

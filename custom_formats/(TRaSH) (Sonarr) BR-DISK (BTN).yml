@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - BR-DISK (BTN)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: BR-DISK
   negate: false

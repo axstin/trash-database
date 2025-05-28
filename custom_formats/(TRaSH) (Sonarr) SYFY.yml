@@ -13,6 +13,7 @@ tags:
 - TRaSH
 - SYFY
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

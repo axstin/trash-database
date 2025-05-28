@@ -8,6 +8,7 @@ description: '**Imported from sonarr/fansub**
 tags:
 - TRaSH
 - FanSUB
+tests: []
 conditions:
 - name: FanSUB
   negate: false

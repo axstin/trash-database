@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - German Bluray Tier 02
 - TRaSH Radarr
+tests: []
 conditions:
 - name: VECTOR
   negate: false

@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - MyCANAL
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

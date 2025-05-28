@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - WEB Tier 01
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: ABBiE
   negate: false

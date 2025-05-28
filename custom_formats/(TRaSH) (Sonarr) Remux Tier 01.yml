@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - Remux Tier 01
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Remux
   negate: false

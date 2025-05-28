@@ -14,6 +14,7 @@ description: "**Imported from sonarr/cbc**\n\n[From Wikipedia, the free encyclop
 tags:
 - TRaSH
 - CBC
+tests: []
 conditions:
 - name: CBC
   negate: false

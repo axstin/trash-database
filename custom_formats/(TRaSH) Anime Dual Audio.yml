@@ -6,6 +6,7 @@ description: '**Imported from sonarr/anime-dual-audio**
 tags:
 - TRaSH
 - Anime Dual Audio
+tests: []
 conditions:
 - name: Dual Audio
   negate: false

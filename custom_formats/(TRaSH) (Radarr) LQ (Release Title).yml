@@ -11,6 +11,7 @@ tags:
 - TRaSH
 - LQ (Release Title)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: 1XBET
   negate: false

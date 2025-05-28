@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - Repack v3
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Repack v3
   negate: false

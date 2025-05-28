@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - Anime Web Tier 05 (FanSubs)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

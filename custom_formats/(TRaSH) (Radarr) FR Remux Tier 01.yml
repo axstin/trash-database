@@ -13,6 +13,7 @@ tags:
 - TRaSH
 - FR Remux Tier 01
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Remux
   negate: false

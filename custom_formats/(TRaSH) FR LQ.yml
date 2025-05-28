@@ -8,6 +8,7 @@ description: "**Imported from sonarr/french-lq**\n\nA collection of known French
 tags:
 - TRaSH
 - FR LQ
+tests: []
 conditions:
 - name: Ads/Watermarks
   negate: false

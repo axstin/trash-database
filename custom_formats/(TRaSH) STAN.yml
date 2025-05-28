@@ -15,6 +15,7 @@ description: '**Imported from sonarr/stan**
 tags:
 - TRaSH
 - STAN
+tests: []
 conditions:
 - name: Stan
   negate: false

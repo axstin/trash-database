@@ -8,6 +8,7 @@ description: "**Imported from sonarr/language-german-dl-undefined**\n\nThis Cust
 tags:
 - TRaSH
 - German DL (undefined)
+tests: []
 conditions:
 - name: NOT Original Language
   negate: true

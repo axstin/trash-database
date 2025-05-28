@@ -6,6 +6,7 @@ description: '**Imported from sonarr/v0**
 tags:
 - TRaSH
 - v0
+tests: []
 conditions:
 - name: v0
   negate: false

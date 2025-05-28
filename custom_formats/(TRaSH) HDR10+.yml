@@ -10,6 +10,7 @@ description: '**Imported from sonarr/hdr10plus**
 tags:
 - TRaSH
 - HDR10+
+tests: []
 conditions:
 - name: HDR10+
   negate: false

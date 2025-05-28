@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - PQ
 - TRaSH Radarr
+tests: []
 conditions:
 - name: PQ
   negate: false

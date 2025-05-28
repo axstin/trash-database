@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - Dutch Groups
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Dutch Groups
   negate: false

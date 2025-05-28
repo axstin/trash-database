@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - CR
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

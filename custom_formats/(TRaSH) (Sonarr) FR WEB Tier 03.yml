@@ -11,6 +11,7 @@ tags:
 - TRaSH
 - FR WEB Tier 03
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

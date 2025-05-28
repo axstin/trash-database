@@ -386,6 +386,7 @@ def convert_format(cf: CustomFormat, patterns):
     result["name"] = sanitize_name(cf["name"])
     result["description"] = cf.description
     result["tags"] = [ "TRaSH", cf["name"] ]
+    result["tests"] = []
 
     conditions = []
     for spec in cf["specifications"]:

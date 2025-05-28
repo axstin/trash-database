@@ -24,6 +24,7 @@ description: '**Imported from sonarr/dv-hdr10**
 tags:
 - TRaSH
 - DV HDR10
+tests: []
 conditions:
 - name: DV HDR10
   negate: false

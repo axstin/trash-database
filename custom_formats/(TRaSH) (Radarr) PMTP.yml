@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - PMTP
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Paramount+
   negate: false

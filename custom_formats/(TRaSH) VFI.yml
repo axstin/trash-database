@@ -6,6 +6,7 @@ description: '**Imported from sonarr/french-vfi**
 tags:
 - TRaSH
 - VFI
+tests: []
 conditions:
 - name: French International
   negate: false

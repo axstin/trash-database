@@ -6,6 +6,7 @@ description: '**Imported from sonarr/anime-lq-groups**
 tags:
 - TRaSH
 - Anime LQ Groups
+tests: []
 conditions:
 - name: $tore-Chill
   negate: false

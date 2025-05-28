@@ -18,6 +18,7 @@ tags:
 - TRaSH
 - PCOK
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Peacock TV
   negate: false

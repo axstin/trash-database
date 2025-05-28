@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - FUNi
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

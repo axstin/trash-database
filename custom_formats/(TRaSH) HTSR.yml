@@ -16,6 +16,7 @@ description: '**Imported from sonarr/htsr**
 tags:
 - TRaSH
 - HTSR
+tests: []
 conditions:
 - name: Hotstar
   negate: false

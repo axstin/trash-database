@@ -6,6 +6,7 @@ description: '**Imported from sonarr/dubs-only**
 tags:
 - TRaSH
 - Dubs Only
+tests: []
 conditions:
 - name: Dubbed
   negate: false

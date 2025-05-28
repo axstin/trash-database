@@ -6,6 +6,7 @@ description: '**Imported from sonarr/language-original-plus-french**
 tags:
 - TRaSH
 - 'Language: Original + French'
+tests: []
 conditions:
 - name: Original Language
   negate: false

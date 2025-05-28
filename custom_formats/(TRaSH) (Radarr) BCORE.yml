@@ -21,6 +21,7 @@ tags:
 - TRaSH
 - BCORE
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Bravia Core
   negate: false

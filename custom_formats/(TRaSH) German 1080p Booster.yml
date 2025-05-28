@@ -8,6 +8,7 @@ description: '**Imported from sonarr/german-1080p-booster**
 tags:
 - TRaSH
 - German 1080p Booster
+tests: []
 conditions:
 - name: German
   negate: false

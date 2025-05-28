@@ -11,6 +11,7 @@ tags:
 - TRaSH
 - Criterion Collection
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Bluray
   negate: false

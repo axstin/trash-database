@@ -19,6 +19,7 @@ tags:
 - TRaSH
 - WEB Tier 03
 - TRaSH Radarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

@@ -7,6 +7,7 @@ description: '**Imported from sonarr/german-lq-release-title**
 tags:
 - TRaSH
 - German LQ (release title)
+tests: []
 conditions:
 - name: TVS iTunesHD
   negate: false

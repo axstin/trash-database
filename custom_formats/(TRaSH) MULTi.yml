@@ -3,6 +3,7 @@ description: '**Imported from sonarr/multi**'
 tags:
 - TRaSH
 - MULTi
+tests: []
 conditions:
 - name: Multi
   negate: false

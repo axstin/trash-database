@@ -8,6 +8,7 @@ description: '**Imported from sonarr/german-2160p-booster**
 tags:
 - TRaSH
 - German 2160p Booster
+tests: []
 conditions:
 - name: German
   negate: false

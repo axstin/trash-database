@@ -12,6 +12,7 @@ description: '**Imported from sonarr/atvp**
 tags:
 - TRaSH
 - ATVP
+tests: []
 conditions:
 - name: Apple TV+
   negate: false

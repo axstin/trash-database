@@ -10,6 +10,7 @@ description: '**Imported from sonarr/french-vostfr**
 tags:
 - TRaSH
 - VOSTFR
+tests: []
 conditions:
 - name: VOSTFR
   negate: false

@@ -18,6 +18,7 @@ tags:
 - TRaSH
 - SHO
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: SHOWTIME
   negate: false

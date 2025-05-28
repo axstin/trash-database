@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - NLZ
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: NLZiet
   negate: false

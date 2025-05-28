@@ -7,6 +7,7 @@ description: '**Imported from sonarr/language-not-french**
 tags:
 - TRaSH
 - 'Language: Not French'
+tests: []
 conditions:
 - name: Not French Language
   negate: true

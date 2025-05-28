@@ -9,6 +9,7 @@ tags:
 - TRaSH
 - Scene
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Scene Groups + Naming
   negate: false

@@ -8,6 +8,7 @@ description: "**Imported from sonarr/x265-hd**\n\nThis blocks all 720/1080p (HD)
 tags:
 - TRaSH
 - x265 (HD)
+tests: []
 conditions:
 - name: x265/HEVC
   negate: false

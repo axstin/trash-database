@@ -10,6 +10,7 @@ description: '**Imported from sonarr/dd**
 tags:
 - TRaSH
 - DD
+tests: []
 conditions:
 - name: Basic Dolby Digital
   negate: false

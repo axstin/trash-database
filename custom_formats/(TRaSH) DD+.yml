@@ -13,6 +13,7 @@ description: '**Imported from sonarr/ddplus**
 tags:
 - TRaSH
 - DD+
+tests: []
 conditions:
 - name: Dolby Digital Plus
   negate: false

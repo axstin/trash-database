@@ -14,6 +14,7 @@ description: '**Imported from sonarr/it**
 tags:
 - TRaSH
 - iT
+tests: []
 conditions:
 - name: iTunes
   negate: false

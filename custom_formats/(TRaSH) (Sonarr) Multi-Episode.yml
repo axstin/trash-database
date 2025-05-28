@@ -14,6 +14,7 @@ tags:
 - TRaSH
 - Multi-Episode
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Multi-Episode
   negate: false

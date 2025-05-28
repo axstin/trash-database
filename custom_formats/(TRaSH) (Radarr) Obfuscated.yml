@@ -23,6 +23,7 @@ tags:
 - TRaSH
 - Obfuscated
 - TRaSH Radarr
+tests: []
 conditions:
 - name: 4P
   negate: false

@@ -6,6 +6,7 @@ description: '**Imported from sonarr/dv-sdr**
 tags:
 - TRaSH
 - DV SDR
+tests: []
 conditions:
 - name: DV SDR
   negate: false

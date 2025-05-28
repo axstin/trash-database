@@ -9,6 +9,7 @@ description: '**Imported from sonarr/internal**
 tags:
 - TRaSH
 - INTERNAL
+tests: []
 conditions:
 - name: INTERNAL
   negate: false

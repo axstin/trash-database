@@ -12,6 +12,7 @@ description: '**Imported from sonarr/itvx**
 tags:
 - TRaSH
 - ITVX
+tests: []
 conditions:
 - name: ITVX
   negate: false

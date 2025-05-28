@@ -27,6 +27,7 @@ description: '**Imported from sonarr/vc-1**
 tags:
 - TRaSH
 - VC-1
+tests: []
 conditions:
 - name: VC-1
   negate: false

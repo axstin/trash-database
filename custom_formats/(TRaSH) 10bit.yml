@@ -6,6 +6,7 @@ description: '**Imported from sonarr/10bit**
 tags:
 - TRaSH
 - 10bit
+tests: []
 conditions:
 - name: 10bit
   negate: false

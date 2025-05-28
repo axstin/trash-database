@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - UHD Streaming Cut
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Amazon
   negate: false

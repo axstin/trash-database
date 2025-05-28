@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - Upscaled
 - TRaSH Radarr
+tests: []
 conditions:
 - name: AI Upscales
   negate: false

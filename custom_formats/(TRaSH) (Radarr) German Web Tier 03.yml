@@ -11,6 +11,7 @@ tags:
 - TRaSH
 - German Web Tier 03
 - TRaSH Radarr
+tests: []
 conditions:
 - name: RobertDeNiro
   negate: false

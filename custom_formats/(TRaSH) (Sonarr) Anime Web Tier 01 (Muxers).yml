@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Anime Web Tier 01 (Muxers)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

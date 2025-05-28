@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - B-Global
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

@@ -12,6 +12,7 @@ description: "**Imported from sonarr/br-disk**\n\nThis is a custom format to hel
 tags:
 - TRaSH
 - BR-DISK
+tests: []
 conditions:
 - name: BR-DISK
   negate: false

@@ -9,6 +9,7 @@ description: '**Imported from sonarr/tver**
 tags:
 - TRaSH
 - TVer
+tests: []
 conditions:
 - name: TVer
   negate: false

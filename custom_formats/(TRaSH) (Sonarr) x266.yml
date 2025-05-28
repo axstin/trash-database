@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - x266
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: x|h266
   negate: false

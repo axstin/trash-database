@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Anime BD Tier 01 (Top SeaDex Muxers)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Bluray
   negate: false

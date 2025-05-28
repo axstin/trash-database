@@ -6,6 +6,7 @@ description: '**Imported from sonarr/uncensored**
 tags:
 - TRaSH
 - Uncensored
+tests: []
 conditions:
 - name: Uncensored
   negate: false

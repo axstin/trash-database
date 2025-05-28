@@ -9,6 +9,7 @@ description: '**Imported from sonarr/flac**
 tags:
 - TRaSH
 - FLAC
+tests: []
 conditions:
 - name: FLAC
   negate: false

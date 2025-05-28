@@ -16,6 +16,7 @@ description: '**Imported from sonarr/dv**
 tags:
 - TRaSH
 - DV
+tests: []
 conditions:
 - name: DV
   negate: false

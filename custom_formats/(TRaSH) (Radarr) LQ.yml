@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - LQ
 - TRaSH Radarr
+tests: []
 conditions:
 - name: 24xHD
   negate: false

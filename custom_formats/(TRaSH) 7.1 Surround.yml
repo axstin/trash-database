@@ -3,6 +3,7 @@ description: '**Imported from sonarr/71-surround**'
 tags:
 - TRaSH
 - 7.1 Surround
+tests: []
 conditions:
 - name: 7.1 Surround
   negate: false

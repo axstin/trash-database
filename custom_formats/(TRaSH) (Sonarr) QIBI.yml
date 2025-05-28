@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - QIBI
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Quibi
   negate: false

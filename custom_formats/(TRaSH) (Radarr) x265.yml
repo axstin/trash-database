@@ -24,6 +24,7 @@ tags:
 - TRaSH
 - x265
 - TRaSH Radarr
+tests: []
 conditions:
 - name: x|h265
   negate: false

@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - VRV
 - TRaSH Radarr
+tests: []
 conditions:
 - name: VRV
   negate: false

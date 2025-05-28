@@ -13,6 +13,7 @@ tags:
 - TRaSH
 - TrueHD ATMOS
 - TRaSH Radarr
+tests: []
 conditions:
 - name: TrueHD
   negate: false

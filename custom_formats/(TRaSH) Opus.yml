@@ -16,6 +16,7 @@ description: '**Imported from sonarr/opus**
 tags:
 - TRaSH
 - Opus
+tests: []
 conditions:
 - name: Opus
   negate: false

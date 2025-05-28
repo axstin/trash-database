@@ -23,6 +23,7 @@ tags:
 - TRaSH
 - Obfuscated
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 4P
   negate: false

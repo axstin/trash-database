@@ -9,6 +9,7 @@ tags:
 - TRaSH
 - Generated Dynamic HDR
 - TRaSH Radarr
+tests: []
 conditions:
 - name: BiTOR
   negate: false

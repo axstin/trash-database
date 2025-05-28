@@ -6,6 +6,7 @@ description: "**Imported from sonarr/hulu**\n\n[From Wikipedia, the free encyclo
 tags:
 - TRaSH
 - HULU
+tests: []
 conditions:
 - name: Hulu
   negate: false

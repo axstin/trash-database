@@ -16,6 +16,7 @@ description: '**Imported from sonarr/hbo**
 tags:
 - TRaSH
 - HBO
+tests: []
 conditions:
 - name: HBO
   negate: false

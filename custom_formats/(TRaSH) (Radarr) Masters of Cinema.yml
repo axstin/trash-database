@@ -10,6 +10,7 @@ tags:
 - TRaSH
 - Masters of Cinema
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Masters of Cinema
   negate: false

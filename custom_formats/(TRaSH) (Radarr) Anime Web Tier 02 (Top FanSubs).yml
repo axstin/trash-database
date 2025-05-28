@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Anime Web Tier 02 (Top FanSubs)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

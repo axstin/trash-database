@@ -10,6 +10,7 @@ description: '**Imported from sonarr/aubc**
 tags:
 - TRaSH
 - AUBC
+tests: []
 conditions:
 - name: AUBC
   negate: false

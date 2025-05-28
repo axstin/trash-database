@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - hallowed
 - TRaSH Radarr
+tests: []
 conditions:
 - name: hallowed
   negate: false

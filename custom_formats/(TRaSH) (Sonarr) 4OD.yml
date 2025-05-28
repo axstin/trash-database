@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - 4OD
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 4OD
   negate: false

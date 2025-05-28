@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - 6.1 Surround
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 6.1 Surround
   negate: false

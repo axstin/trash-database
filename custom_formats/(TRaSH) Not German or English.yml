@@ -6,6 +6,7 @@ description: '**Imported from sonarr/language-not-german-or-english**
 tags:
 - TRaSH
 - Not German or English
+tests: []
 conditions:
 - name: Not English Language
   negate: true

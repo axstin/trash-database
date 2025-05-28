@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - Repack2
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Repack2
   negate: false

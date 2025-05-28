@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - Anime Web Tier 03 (Official Subs)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: WEBDL
   negate: false

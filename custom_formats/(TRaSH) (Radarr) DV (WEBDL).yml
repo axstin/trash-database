@@ -28,6 +28,7 @@ tags:
 - TRaSH
 - DV (WEBDL)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Dolby Vision
   negate: false

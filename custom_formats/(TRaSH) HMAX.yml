@@ -16,6 +16,7 @@ description: '**Imported from sonarr/hmax**
 tags:
 - TRaSH
 - HMAX
+tests: []
 conditions:
 - name: HBO Max
   negate: false

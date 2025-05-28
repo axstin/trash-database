@@ -11,6 +11,7 @@ description: '**Imported from sonarr/aac**
 tags:
 - TRaSH
 - AAC
+tests: []
 conditions:
 - name: AAC
   negate: false

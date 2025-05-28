@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - Line/Mic Dubbed
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Line Dubbed
   negate: false

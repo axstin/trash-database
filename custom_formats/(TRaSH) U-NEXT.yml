@@ -9,6 +9,7 @@ description: '**Imported from sonarr/u-next**
 tags:
 - TRaSH
 - U-NEXT
+tests: []
 conditions:
 - name: U-NEXT
   negate: false

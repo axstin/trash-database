@@ -7,6 +7,7 @@ description: "**Imported from sonarr/freeleech**\n\nSometimes, torrent sites set
 tags:
 - TRaSH
 - FreeLeech
+tests: []
 conditions:
 - name: FreeLeech
   negate: false

@@ -13,6 +13,7 @@ description: '**Imported from sonarr/language-german-dl**
 tags:
 - TRaSH
 - German DL
+tests: []
 conditions:
 - name: German
   negate: false

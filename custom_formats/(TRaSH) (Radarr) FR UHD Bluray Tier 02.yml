@@ -19,6 +19,7 @@ tags:
 - TRaSH
 - FR UHD Bluray Tier 02
 - TRaSH Radarr
+tests: []
 conditions:
 - name: DUSTiN
   negate: false

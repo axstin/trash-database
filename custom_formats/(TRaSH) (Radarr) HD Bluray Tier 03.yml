@@ -15,6 +15,7 @@ tags:
 - TRaSH
 - HD Bluray Tier 03
 - TRaSH Radarr
+tests: []
 conditions:
 - name: BLURAY
   negate: false

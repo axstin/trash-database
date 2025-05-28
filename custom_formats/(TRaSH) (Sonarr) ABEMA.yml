@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - ABEMA
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: ABEMA
   negate: false

@@ -12,6 +12,7 @@ tags:
 - TRaSH
 - Single Episode
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: Single Episode
   negate: false

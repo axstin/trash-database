@@ -7,6 +7,7 @@ description: "**Imported from sonarr/tving**\n\n[From Wikipedia, the free encycl
 tags:
 - TRaSH
 - TVING
+tests: []
 conditions:
 - name: TVING
   negate: false

@@ -13,6 +13,7 @@ description: '**Imported from sonarr/hdr-undefined**
 tags:
 - TRaSH
 - HDR (undefined)
+tests: []
 conditions:
 - name: RlsGrp (Missing HDR)
   negate: false

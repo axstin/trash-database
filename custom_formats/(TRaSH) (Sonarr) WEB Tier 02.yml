@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - WEB Tier 02
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 3cTWeB
   negate: false

@@ -9,6 +9,7 @@ description: '**Imported from sonarr/fod**
 tags:
 - TRaSH
 - FOD
+tests: []
 conditions:
 - name: FOD
   negate: false

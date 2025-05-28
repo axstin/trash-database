@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - Sing-Along Versions
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Sing-Along
   negate: false

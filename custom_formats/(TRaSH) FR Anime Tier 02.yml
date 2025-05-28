@@ -11,6 +11,7 @@ description: '**Imported from sonarr/french-anime-tier-02**
 tags:
 - TRaSH
 - FR Anime Tier 02
+tests: []
 conditions:
 - name: Aoi-Project
   negate: false

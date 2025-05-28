@@ -15,6 +15,7 @@ tags:
 - TRaSH
 - FR HD Bluray Tier 01
 - TRaSH Radarr
+tests: []
 conditions:
 - name: BLURAY
   negate: false

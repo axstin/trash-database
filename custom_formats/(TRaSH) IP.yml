@@ -11,6 +11,7 @@ description: '**Imported from sonarr/ip**
 tags:
 - TRaSH
 - IP
+tests: []
 conditions:
 - name: BBC iPlayer
   negate: false

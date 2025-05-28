@@ -14,6 +14,7 @@ tags:
 - TRaSH
 - Special Edition
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Special Edition
   negate: false

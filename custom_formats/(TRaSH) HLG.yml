@@ -12,6 +12,7 @@ description: '**Imported from sonarr/hlg**
 tags:
 - TRaSH
 - HLG
+tests: []
 conditions:
 - name: HLG
   negate: false

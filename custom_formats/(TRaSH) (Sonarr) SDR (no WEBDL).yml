@@ -13,6 +13,7 @@ tags:
 - TRaSH
 - SDR (no WEBDL)
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: 2160p
   negate: false

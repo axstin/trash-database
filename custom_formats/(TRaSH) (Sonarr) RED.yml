@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - RED
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: YouTube Red
   negate: false

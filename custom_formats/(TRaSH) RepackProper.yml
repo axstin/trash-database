@@ -3,6 +3,7 @@ description: '**Imported from sonarr/repack-proper**'
 tags:
 - TRaSH
 - Repack/Proper
+tests: []
 conditions:
 - name: Repack
   negate: false

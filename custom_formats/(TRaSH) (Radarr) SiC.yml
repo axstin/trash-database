@@ -4,6 +4,7 @@ tags:
 - TRaSH
 - SiC
 - TRaSH Radarr
+tests: []
 conditions:
 - name: SiC
   negate: false

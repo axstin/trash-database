@@ -6,6 +6,7 @@ description: '**Imported from sonarr/french-vfb**
 tags:
 - TRaSH
 - VFB
+tests: []
 conditions:
 - name: Belgian French
   negate: false

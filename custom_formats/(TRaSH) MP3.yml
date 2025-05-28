@@ -7,6 +7,7 @@ description: '**Imported from sonarr/mp3**
 tags:
 - TRaSH
 - MP3
+tests: []
 conditions:
 - name: MP3
   negate: false

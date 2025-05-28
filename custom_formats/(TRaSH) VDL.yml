@@ -11,6 +11,7 @@ description: '**Imported from sonarr/vdl**
 tags:
 - TRaSH
 - VDL
+tests: []
 conditions:
 - name: Videoland
   negate: false

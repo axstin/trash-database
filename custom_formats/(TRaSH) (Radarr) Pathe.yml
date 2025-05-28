@@ -6,6 +6,7 @@ tags:
 - TRaSH
 - Pathe
 - TRaSH Radarr
+tests: []
 conditions:
 - name: "Path\xE9"
   negate: false

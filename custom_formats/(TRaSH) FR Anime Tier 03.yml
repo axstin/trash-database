@@ -15,6 +15,7 @@ description: '**Imported from sonarr/french-anime-tier-03**
 tags:
 - TRaSH
 - FR Anime Tier 03
+tests: []
 conditions:
 - name: BLV
   negate: false

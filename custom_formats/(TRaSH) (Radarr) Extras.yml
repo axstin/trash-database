@@ -8,6 +8,7 @@ tags:
 - TRaSH
 - Extras
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Extras
   negate: false

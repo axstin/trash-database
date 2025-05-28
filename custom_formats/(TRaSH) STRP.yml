@@ -10,6 +10,7 @@ description: "**Imported from sonarr/strp**\n\n[From Wikipedia, the free encyclo
 tags:
 - TRaSH
 - STRP
+tests: []
 conditions:
 - name: Star+
   negate: false

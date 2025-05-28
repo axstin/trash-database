@@ -9,6 +9,7 @@ tags:
 - TRaSH
 - Vinegar Syndrome
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Vinegar Syndrome
   negate: false

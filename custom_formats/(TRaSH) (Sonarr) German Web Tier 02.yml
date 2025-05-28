@@ -17,6 +17,7 @@ tags:
 - TRaSH
 - German Web Tier 02
 - TRaSH Sonarr
+tests: []
 conditions:
 - name: VECTOR
   negate: false

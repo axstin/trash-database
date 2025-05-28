@@ -7,6 +7,7 @@ tags:
 - TRaSH
 - Anime BD Tier 08 (Mini Encodes)
 - TRaSH Radarr
+tests: []
 conditions:
 - name: Bluray
   negate: false

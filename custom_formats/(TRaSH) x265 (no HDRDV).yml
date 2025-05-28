@@ -10,6 +10,7 @@ description: "**Imported from sonarr/x265-no-hdrdv**\n\nThis blocks most 720/108
 tags:
 - TRaSH
 - x265 (no HDR/DV)
+tests: []
 conditions:
 - name: x265/HEVC
   negate: false

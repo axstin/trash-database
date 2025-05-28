@@ -6,6 +6,7 @@ description: '**Imported from sonarr/french-vq**
 tags:
 - TRaSH
 - VQ
+tests: []
 conditions:
 - name: "Version Qu\xE9b\xE9coise"
   negate: false

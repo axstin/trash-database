@@ -16,6 +16,7 @@ tags:
 - TRaSH
 - German Web Tier 01
 - TRaSH Radarr
+tests: []
 conditions:
 - name: ZeroTwo
   negate: false
