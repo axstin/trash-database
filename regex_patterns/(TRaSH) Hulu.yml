@@ -1,0 +1,6 @@
+name: '[TRaSH] Hulu'
+pattern: \b(hulu)\b
+description: TRaSH pattern imported from radarr/hulu
+tags:
+- TRaSH
+tests: null

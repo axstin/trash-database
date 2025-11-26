@@ -21,12 +21,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] Paramount+'
+  pattern: '[TRaSH] Paramount+-2'
 - name: Hulu
   negate: false
   required: false
   type: release_title
-  pattern: Hulu
+  pattern: '[TRaSH] Hulu'
 - name: WEBDL
   negate: false
   required: false

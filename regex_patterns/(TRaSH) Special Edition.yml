@@ -1,0 +1,6 @@
+name: '[TRaSH] Special Edition'
+pattern: (?<!^|{)\b(extended|uncut|directors|special|unrated|uncensored|cut|version|edition)(\b|\d)
+description: TRaSH pattern imported from radarr/special-edition
+tags:
+- TRaSH
+tests: null

@@ -1,6 +1,0 @@
-name: '[TRaSH] iT Rename'
-pattern: \[(iT)\b|\b(iT)\]
-description: TRaSH pattern imported from radarr/it
-tags:
-- TRaSH
-tests: null

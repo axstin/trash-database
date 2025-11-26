@@ -21,12 +21,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: HBO Max
+  pattern: '[TRaSH] HBO Max'
 - name: Stan
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] Stan'
+  pattern: Stan
 - name: WEBDL
   negate: false
   required: false

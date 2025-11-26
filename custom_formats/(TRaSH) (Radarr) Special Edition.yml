@@ -20,7 +20,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Special Edition
+  pattern: '[TRaSH] Special Edition'
 - name: Not IMAX Edition
   negate: true
   required: true

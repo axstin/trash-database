@@ -1,6 +1,0 @@
-name: '[TRaSH] CRiT'
-pattern: \b(CRiT)\b
-description: TRaSH pattern imported from radarr/crit
-tags:
-- TRaSH
-tests: null

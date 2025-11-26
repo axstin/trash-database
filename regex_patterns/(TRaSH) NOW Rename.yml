@@ -1,6 +1,0 @@
-name: '[TRaSH] NOW Rename'
-pattern: \[(NOW)\b|\b(NOW)\]
-description: TRaSH pattern imported from radarr/now
-tags:
-- TRaSH
-tests: null

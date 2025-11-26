@@ -14,4 +14,4 @@ conditions:
   negate: true
   required: false
   type: release_group
-  pattern: '[TRaSH] No Parsed Group'
+  pattern: Release Group (Missing)

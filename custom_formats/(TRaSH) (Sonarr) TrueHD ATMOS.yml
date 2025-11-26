@@ -24,7 +24,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Atmos
+  pattern: Atmos (Missing)
 - name: Not Basic Dolby Digital
   negate: true
   required: true

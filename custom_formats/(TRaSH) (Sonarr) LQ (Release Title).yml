@@ -17,7 +17,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] BEN THE MEN'
+  pattern: BEN THE MEN
 - name: BiTOR (2160p)
   negate: false
   required: false

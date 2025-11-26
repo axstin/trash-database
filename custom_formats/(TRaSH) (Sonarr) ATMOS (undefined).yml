@@ -14,7 +14,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Atmos
+  pattern: Atmos (Missing)
 - name: Not AAC
   negate: true
   required: true

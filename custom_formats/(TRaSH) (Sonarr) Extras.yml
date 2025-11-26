@@ -14,4 +14,4 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] Extras-2'
+  pattern: TV Extras

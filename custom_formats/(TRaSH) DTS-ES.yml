@@ -13,7 +13,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] DTS-ES-2'
+  pattern: DTS-ES
 - name: Not TrueHD/ATMOS
   negate: true
   required: true
@@ -28,7 +28,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: '[TRaSH] Basic DTS'
+  pattern: DTS Basic
 - name: 'Not Basic Dolby Digital '
   negate: true
   required: true

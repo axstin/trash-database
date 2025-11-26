@@ -1,6 +1,0 @@
-name: '[TRaSH] DTS-HD HRA'
-pattern: dts[-. ]?(hd[. ]?)?(hra?|hi\b)
-description: TRaSH pattern imported from radarr/dts-hd-hra
-tags:
-- TRaSH
-tests: null

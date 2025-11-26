@@ -1,6 +1,6 @@
 name: '[TRaSH] Paramount+'
-pattern: \b(pmtp|Paramount\+)\b
-description: TRaSH pattern imported from sonarr/uhd-streaming-boost
+pattern: \b(pmtp|Paramount Plus)\b
+description: TRaSH pattern imported from radarr/pmtp
 tags:
 - TRaSH
 tests: null

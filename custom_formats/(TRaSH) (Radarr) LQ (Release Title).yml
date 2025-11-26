@@ -22,7 +22,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] BEN THE MEN'
+  pattern: BEN THE MEN
 - name: EVO (no WEBDL)
   negate: false
   required: false

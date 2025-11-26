@@ -16,7 +16,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] xh265'
+  pattern: HEVC
 - name: Not HDR/DV
   negate: true
   required: true

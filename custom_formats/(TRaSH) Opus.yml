@@ -22,7 +22,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] Opus'
+  pattern: Opus
 - name: Not OPUS Release Group
   negate: true
   required: true

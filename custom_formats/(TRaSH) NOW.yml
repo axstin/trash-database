@@ -17,12 +17,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] NOW'
+  pattern: Now
 - name: NOW Rename
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] NOW Rename'
+  pattern: Now Rename
 - name: WEBDL
   negate: false
   required: false

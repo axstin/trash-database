@@ -21,12 +21,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] Stan'
+  pattern: Stan
 - name: Stan Rename
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] Stan Rename'
+  pattern: Stan Rename
 - name: WEBDL
   negate: false
   required: false

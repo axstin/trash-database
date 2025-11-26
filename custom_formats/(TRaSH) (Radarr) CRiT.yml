@@ -14,7 +14,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] CRiT'
+  pattern: Criterion Channel
 - name: WEBDL
   negate: false
   required: false

@@ -1,0 +1,345 @@
+Removing trash yml format files...
+Removing trash yml regex files...
+notice: found duplicate custom format '1080p Compact TV Bluray Tier 5' in ../custom_formats (existing: 1080p Efficient TV Bluray Tier 5), ignoring
+notice: found duplicate custom format '1080p Efficient TV Bluray Tier 6' in ../custom_formats (existing: 1080p Compact TV Bluray Tier 6), ignoring
+notice: found duplicate custom format '1080p Efficient TV Bluray Tier 7' in ../custom_formats (existing: 1080p Compact TV Bluray Tier 7), ignoring
+notice: found duplicate custom format '1080p Compact TV Bluray Tier 4' in ../custom_formats (existing: 1080p Efficient TV Bluray Tier 4), ignoring
+notice: found duplicate custom format '1080p Compact TV Bluray Tier 3' in ../custom_formats (existing: 1080p Efficient TV Bluray Tier 3), ignoring
+notice: found duplicate custom format '1080p Efficient Movie Bluray Tier 5' in ../custom_formats (existing: 1080p Compact Movie Bluray Tier 4), ignoring
+notice: found duplicate custom format '1080p Compact Movie Bluray Tier 1' in ../custom_formats (existing: 1080p Compact TV Bluray Tier 1), ignoring
+notice: found duplicate custom format '1080p Efficient Movie Bluray Tier 1' in ../custom_formats (existing: 1080p Efficient TV Bluray Tier 1), ignoring
+notice: found duplicate custom format '1080p Efficient Movie Bluray Tier 3' in ../custom_formats (existing: 1080p Compact Movie Bluray Tier 2), ignoring
+notice: found duplicate custom format '1080p Compact Movie Bluray Tier 3' in ../custom_formats (existing: 1080p Efficient Movie Bluray Tier 4), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 2' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 2), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 3' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 3), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 1' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 1), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 4' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 4), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 5' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 5), ignoring
+notice: found duplicate custom format '1080p Compact TV WEB Tier 6' in ../custom_formats (existing: 1080p Efficient TV WEB Tier 6), ignoring
+notice: found duplicate custom format '1080p Efficient Movie WEB Tier 4' in ../custom_formats (existing: 1080p Compact Movie WEB Tier 4), ignoring
+notice: found duplicate custom format '1080p Efficient Movie WEB Tier 3' in ../custom_formats (existing: 1080p Compact Movie WEB Tier 3), ignoring
+notice: found duplicate custom format '1080p Compact Movie WEB Tier 1' in ../custom_formats (existing: 1080p Efficient Movie WEB Tier 1), ignoring
+notice: found pattern with matching values but different names (import name: [TRaSH] xh265, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] x265HEVC, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] x265HEVC, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] xh264, existing name: AVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] ATMOS, existing name: Atmos (Missing))
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found duplicate name '[TRaSH] TrueHD' while creating pattern, using '[TRaSH] TrueHD-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] Stan, existing name: Stan)
+notice: found pattern with matching values but different names (import name: [TRaSH] Stan Rename, existing name: Stan Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] Sing-Along, existing name: Sing Along)
+warning: failed to find description for wiki/docs/json/radarr/cf/sic.json
+notice: found duplicate name '[TRaSH] SiC' while creating pattern, using '[TRaSH] SiC-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/repack3.json
+warning: failed to find description for wiki/docs/json/radarr/cf/repack2.json
+warning: failed to find description for wiki/docs/json/radarr/cf/repack-proper.json
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found duplicate name '[TRaSH] SDR' while creating pattern, using '[TRaSH] SDR-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] Opus, existing name: Opus)
+notice: found pattern with matching values but different names (import name: [TRaSH] NOW, existing name: Now)
+notice: found pattern with matching values but different names (import name: [TRaSH] NOW Rename, existing name: Now Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] No Parsed Group, existing name: Release Group (Missing))
+warning: failed to find description for wiki/docs/json/radarr/cf/multi.json
+warning: failed to find description for wiki/docs/json/radarr/cf/mpeg2.json
+warning: failed to find description for wiki/docs/json/radarr/cf/max.json
+notice: found pattern with matching values but different names (import name: [TRaSH] Max, existing name: Max)
+notice: found pattern with matching values but different names (import name: [TRaSH] MAX Rename, existing name: Max Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] BEN THE MEN, existing name: BEN THE MEN)
+notice: found duplicate name '[TRaSH] Feranki1980' while creating pattern, using '[TRaSH] Feranki1980-2'
+notice: found duplicate name '[TRaSH] GalaxyRG' while creating pattern, using '[TRaSH] GalaxyRG-2'
+notice: found duplicate name '[TRaSH] jennaortega' while creating pattern, using '[TRaSH] jennaortega-2'
+notice: found duplicate name '[TRaSH] TEKNO3D' while creating pattern, using '[TRaSH] TEKNO3D-2'
+notice: found duplicate name '[TRaSH] MULTi' while creating pattern, using '[TRaSH] MULTi-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] iTunes, existing name: iTunes)
+notice: found pattern with matching values but different names (import name: [TRaSH] iT Rename, existing name: iTunes Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] IMAX Enhanced, existing name: [TRaSH] NOT IMAX Enhanced)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found duplicate custom format 'HDR10+ Boost' in radarr (existing: HDR10+), ignoring
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR, existing name: HDR)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found duplicate name '[TRaSH] sbR' while creating pattern, using '[TRaSH] sbR-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/hallowed.json
+notice: found duplicate name '[TRaSH] TvR' while creating pattern, using '[TRaSH] TvR-2'
+notice: found duplicate name '[TRaSH] NIMA4K' while creating pattern, using '[TRaSH] NIMA4K-2'
+notice: found duplicate name '[TRaSH] QfG' while creating pattern, using '[TRaSH] QfG-2'
+notice: found duplicate name '[TRaSH] 1XBET' while creating pattern, using '[TRaSH] 1XBET-2'
+notice: found duplicate name '[TRaSH] CTFOH' while creating pattern, using '[TRaSH] CTFOH-2'
+notice: found duplicate name '[TRaSH] RobertDeNiro' while creating pattern, using '[TRaSH] RobertDeNiro-2'
+notice: found duplicate name '[TRaSH] VECTOR' while creating pattern, using '[TRaSH] VECTOR-2'
+notice: found duplicate name '[TRaSH] VF2' while creating pattern, using '[TRaSH] VF2-2'
+notice: found duplicate name '[TRaSH] NoNE' while creating pattern, using '[TRaSH] NoNE-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/framestor.json
+warning: failed to find description for wiki/docs/json/radarr/cf/flux.json
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found duplicate custom format 'DV HDR10+ Boost' in radarr (existing: DV HDR10+), ignoring
+notice: found duplicate name '[TRaSH] DV HDR10' while creating pattern, using '[TRaSH] DV HDR10-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] DV HDR10Plus, existing name: [TRaSH] DV HDR10+)
+notice: found duplicate name '[TRaSH] FraMeSToR' while creating pattern, using '[TRaSH] FraMeSToR-2'
+notice: found duplicate name '[TRaSH] Hybrid Release Group' while creating pattern, using '[TRaSH] Hybrid Release Group-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/dutch-groups.json
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD, existing name: DTS-HD MA)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRAES, existing name: DTS-HD HRA ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD MA, existing name: DTS-HD MA)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRAES, existing name: DTS-HD HRA ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRA, existing name: DTS-HD HRA)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-ES, existing name: DTS-ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found duplicate name '[TRaSH] Dolby Digital Plus' while creating pattern, using '[TRaSH] Dolby Digital Plus-2'
+notice: found duplicate name '[TRaSH] TrueHDATMOS' while creating pattern, using '[TRaSH] TrueHDATMOS-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found duplicate name '[TRaSH] ATMOS' while creating pattern, using '[TRaSH] ATMOS-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] CRiT, existing name: Criterion Channel)
+warning: failed to find description for wiki/docs/json/radarr/cf/bhdstudio.json
+notice: found pattern with matching values but different names (import name: [TRaSH] ATMOS, existing name: Atmos (Missing))
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found duplicate name '[TRaSH] ZigZag' while creating pattern, using '[TRaSH] ZigZag-2'
+notice: found duplicate name '[TRaSH] DB' while creating pattern, using '[TRaSH] DB-2'
+notice: found duplicate name '[TRaSH] ZR' while creating pattern, using '[TRaSH] ZR-2'
+notice: found duplicate name '[TRaSH] Chotab' while creating pattern, using '[TRaSH] Chotab-2'
+notice: found duplicate name '[TRaSH] D-Z0N3' while creating pattern, using '[TRaSH] D-Z0N3-2'
+notice: found duplicate name '[TRaSH] Dae' while creating pattern, using '[TRaSH] Dae-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+warning: failed to find description for wiki/docs/json/radarr/cf/71-surround.json
+notice: found duplicate name '[TRaSH] 6.1 Surround' while creating pattern, using '[TRaSH] 6.1 Surround-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/61-surround.json
+notice: found duplicate name '[TRaSH] Low Channel Count' while creating pattern, using '[TRaSH] Low Channel Count-2'
+warning: failed to find description for wiki/docs/json/radarr/cf/51-surround.json
+warning: failed to find description for wiki/docs/json/radarr/cf/40-sound.json
+warning: failed to find description for wiki/docs/json/radarr/cf/30-sound.json
+warning: failed to find description for wiki/docs/json/radarr/cf/20-stereo.json
+warning: failed to find description for wiki/docs/json/radarr/cf/10-mono.json
+notice: found pattern with matching values but different names (import name: [TRaSH] xh265, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] x265HEVC, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] x265HEVC, existing name: HEVC)
+notice: found pattern with matching values but different names (import name: [TRaSH] xh264, existing name: AVC)
+notice: found duplicate name '[TRaSH] SIGMA' while creating pattern, using '[TRaSH] SIGMA-2'
+notice: found duplicate name '[TRaSH] ABBiE' while creating pattern, using '[TRaSH] ABBiE-2'
+notice: found duplicate name '[TRaSH] VRV' while creating pattern, using '[TRaSH] VRV-2'
+notice: found duplicate name '[TRaSH] AI Upscales' while creating pattern, using '[TRaSH] AI Upscales-2'
+notice: found duplicate name '[TRaSH] Upscaled' while creating pattern, using '[TRaSH] Upscaled-2'
+notice: found duplicate name '[TRaSH] Amazon' while creating pattern, using '[TRaSH] Amazon-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] Stan, existing name: Stan)
+notice: found duplicate name '[TRaSH] Peacock TV' while creating pattern, using '[TRaSH] Peacock TV-2'
+notice: found duplicate name '[TRaSH] Paramount+' while creating pattern, using '[TRaSH] Paramount+-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] ATMOS, existing name: Atmos (Missing))
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] ATMOS, existing name: Atmos (Missing))
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] Stan, existing name: Stan)
+notice: found pattern with matching values but different names (import name: [TRaSH] Stan Rename, existing name: Stan Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] SHOWTIME, existing name: Showtime)
+notice: found pattern with matching values but different names (import name: [TRaSH] SHO Rename, existing name: Showtime Rename)
+notice: found duplicate name '[TRaSH] INFLATEDEFLATE' while creating pattern, using '[TRaSH] INFLATEDEFLATE-2'
+notice: found duplicate name '[TRaSH] GERMAN' while creating pattern, using '[TRaSH] GERMAN-2'
+warning: failed to find description for wiki/docs/json/sonarr/cf/repack-v3.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/repack-v2.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/repack-proper.json
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] Opus, existing name: Opus)
+notice: found duplicate name '[TRaSH] Scrambled' while creating pattern, using '[TRaSH] Scrambled-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] NOW, existing name: Now)
+notice: found pattern with matching values but different names (import name: [TRaSH] NOW Rename, existing name: Now Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] No Parsed Group, existing name: Release Group (Missing))
+warning: failed to find description for wiki/docs/json/sonarr/cf/multi.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/mpeg2.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/max.json
+notice: found pattern with matching values but different names (import name: [TRaSH] Max, existing name: Max)
+notice: found pattern with matching values but different names (import name: [TRaSH] MAX Rename, existing name: Max Rename)
+notice: found duplicate name '[TRaSH] nhanc3' while creating pattern, using '[TRaSH] nhanc3-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] BEN THE MEN, existing name: BEN THE MEN)
+notice: found duplicate name '[TRaSH] CREATiVE24' while creating pattern, using '[TRaSH] CREATiVE24-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] iTunes, existing name: iTunes)
+notice: found pattern with matching values but different names (import name: [TRaSH] iT Rename, existing name: iTunes Rename)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found duplicate custom format 'HDR10+ Boost' in sonarr (existing: HDR10+), ignoring
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR, existing name: HDR)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HDR10, existing name: HDR10)
+notice: found pattern with matching values but different names (import name: [TRaSH] HLG, existing name: HLG)
+notice: found duplicate name '[TRaSH] BALENCiAGA' while creating pattern, using '[TRaSH] BALENCiAGA-2'
+notice: found duplicate name '[TRaSH] MULTiPLEX' while creating pattern, using '[TRaSH] MULTiPLEX-2'
+notice: found duplicate name '[TRaSH] SiXTYNiNE' while creating pattern, using '[TRaSH] SiXTYNiNE-2'
+notice: found duplicate name '[TRaSH] Oergel' while creating pattern, using '[TRaSH] Oergel-2'
+notice: found duplicate name '[TRaSH] 4SF' while creating pattern, using '[TRaSH] 4SF-2'
+notice: found duplicate name '[TRaSH] ABJ' while creating pattern, using '[TRaSH] ABJ-2'
+notice: found duplicate name '[TRaSH] ZeroTwo Aliases' while creating pattern, using '[TRaSH] ZeroTwo Aliases-2'
+notice: found duplicate name '[TRaSH] pmHD' while creating pattern, using '[TRaSH] pmHD-2'
+notice: found duplicate name '[TRaSH] PsO' while creating pattern, using '[TRaSH] PsO-2'
+notice: found duplicate name '[TRaSH] Cancer58' while creating pattern, using '[TRaSH] Cancer58-2'
+notice: found duplicate name '[TRaSH] Tylor.D' while creating pattern, using '[TRaSH] Tylor.D-2'
+notice: found duplicate name '[TRaSH] 1XBET' while creating pattern, using '[TRaSH] 1XBET-3'
+notice: found duplicate name '[TRaSH] 2dead' while creating pattern, using '[TRaSH] 2dead-2'
+notice: found duplicate name '[TRaSH] HELD' while creating pattern, using '[TRaSH] HELD-2'
+notice: found duplicate name '[TRaSH] kala' while creating pattern, using '[TRaSH] kala-2'
+notice: found duplicate name '[TRaSH] POE' while creating pattern, using '[TRaSH] POE-2'
+notice: found duplicate name '[TRaSH] SHOWE' while creating pattern, using '[TRaSH] SHOWE-2'
+notice: found duplicate name '[TRaSH] SHOWEHD' while creating pattern, using '[TRaSH] SHOWEHD-2'
+notice: found duplicate name '[TRaSH] ORCA88' while creating pattern, using '[TRaSH] ORCA88-2'
+notice: found duplicate name '[TRaSH] LuRCH' while creating pattern, using '[TRaSH] LuRCH-2'
+notice: found duplicate name '[TRaSH] N2D2' while creating pattern, using '[TRaSH] N2D2-2'
+notice: found duplicate name '[TRaSH] GETB8' while creating pattern, using '[TRaSH] GETB8-2'
+notice: found duplicate name '[TRaSH] TFARC' while creating pattern, using '[TRaSH] TFARC-2'
+notice: found duplicate name '[TRaSH] Kristallprinz' while creating pattern, using '[TRaSH] Kristallprinz-2'
+notice: found duplicate name '[TRaSH] LAW' while creating pattern, using '[TRaSH] LAW-2'
+notice: found duplicate name '[TRaSH] Pendeti' while creating pattern, using '[TRaSH] Pendeti-2'
+notice: found duplicate name '[TRaSH] OJ' while creating pattern, using '[TRaSH] OJ-2'
+notice: found duplicate name '[TRaSH] PS' while creating pattern, using '[TRaSH] PS-2'
+notice: found duplicate name '[TRaSH] FSX' while creating pattern, using '[TRaSH] FSX-2'
+notice: found duplicate name '[TRaSH] EMVY' while creating pattern, using '[TRaSH] EMVY-2'
+notice: found duplicate name '[TRaSH] ZaidaNulled' while creating pattern, using '[TRaSH] ZaidaNulled-2'
+notice: found duplicate name '[TRaSH] MEGA' while creating pattern, using '[TRaSH] MEGA-2'
+notice: found duplicate name '[TRaSH] MBA' while creating pattern, using '[TRaSH] MBA-2'
+notice: found duplicate name '[TRaSH] FORMBA' while creating pattern, using '[TRaSH] FORMBA-2'
+notice: found duplicate name '[TRaSH] PaZ' while creating pattern, using '[TRaSH] PaZ-2'
+notice: found duplicate name '[TRaSH] Whistler' while creating pattern, using '[TRaSH] Whistler-2'
+notice: found duplicate name '[TRaSH] omikron' while creating pattern, using '[TRaSH] omikron-2'
+notice: found duplicate name '[TRaSH] WOTT' while creating pattern, using '[TRaSH] WOTT-2'
+notice: found duplicate name '[TRaSH] SunDry' while creating pattern, using '[TRaSH] SunDry-2'
+notice: found duplicate name '[TRaSH] PL' while creating pattern, using '[TRaSH] PL-2'
+notice: found duplicate name '[TRaSH] TVARCHiV' while creating pattern, using '[TRaSH] TVARCHiV-2'
+notice: found duplicate name '[TRaSH] P73' while creating pattern, using '[TRaSH] P73-2'
+notice: found duplicate name '[TRaSH] LizardSquad' while creating pattern, using '[TRaSH] LizardSquad-2'
+notice: found duplicate name '[TRaSH] A' while creating pattern, using '[TRaSH] A-2'
+notice: found duplicate name '[TRaSH] N' while creating pattern, using '[TRaSH] N-2'
+notice: found duplicate name '[TRaSH] P' while creating pattern, using '[TRaSH] P-2'
+notice: found duplicate name '[TRaSH] S' while creating pattern, using '[TRaSH] S-2'
+notice: found duplicate name '[TRaSH] U' while creating pattern, using '[TRaSH] U-2'
+warning: failed to find description for wiki/docs/json/sonarr/cf/flux.json
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] Extras, existing name: TV Extras)
+notice: found pattern with matching values but different names (import name: [TRaSH] Dolby Vision, existing name: [TRaSH] DV)
+notice: found duplicate custom format 'DV HDR10+ Boost' in sonarr (existing: DV HDR10+), ignoring
+notice: found pattern with matching values but different names (import name: [TRaSH] DV HDR10Plus, existing name: [TRaSH] DV HDR10+)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD, existing name: DTS-HD MA)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRAES, existing name: DTS-HD HRA ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD MA, existing name: DTS-HD MA)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRAES, existing name: DTS-HD HRA ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-HD HRA, existing name: DTS-HD HRA)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS-ES, existing name: DTS-ES)
+notice: found pattern with matching values but different names (import name: [TRaSH] Basic DTS, existing name: DTS Basic)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+warning: failed to find description for wiki/docs/json/sonarr/cf/br-disk-btn.json
+notice: found duplicate name '[TRaSH] BR-DISK' while creating pattern, using '[TRaSH] BR-DISK-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] ATMOS, existing name: Atmos (Missing))
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found duplicate name '[TRaSH] VULCAN' while creating pattern, using '[TRaSH] VULCAN-2'
+notice: found pattern with matching values but different names (import name: [TRaSH] AAC, existing name: AAC)
+notice: found pattern with matching values but different names (import name: [TRaSH] DTS, existing name: DTS)
+notice: found pattern with matching values but different names (import name: [TRaSH] PCM, existing name: PCM)
+notice: found pattern with matching values but different names (import name: [TRaSH] FLAC, existing name: FLAC)
+warning: failed to find description for wiki/docs/json/sonarr/cf/71-surround.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/61-surround.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/51-surround.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/40-sound.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/30-sound.json
+notice: found duplicate name '[TRaSH] Mono' while creating pattern, using '[TRaSH] Mono-2'
+warning: failed to find description for wiki/docs/json/sonarr/cf/20-stereo.json
+warning: failed to find description for wiki/docs/json/sonarr/cf/10-mono.json
+Total CFs: 298
+Shared CFs (size=111):
+Radarr CFs (size=95):
+Sonarr CFs (size=92):
+Writing TRaSH custom formats...
+Writing TRaSH regex files...
+Done

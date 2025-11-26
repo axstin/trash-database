@@ -55,7 +55,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: SDR
+  pattern: '[TRaSH] SDR'
 - name: Not WEBDL
   negate: true
   required: true

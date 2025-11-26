@@ -44,7 +44,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: '[TRaSH] HLG'
+  pattern: HLG
 - name: Not PQ
   negate: true
   required: true
@@ -54,4 +54,4 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: '[TRaSH] SDR'
+  pattern: '[TRaSH] SDR-2'

@@ -1,0 +1,17 @@
+name: '[TRaSH] 720p'
+description: '**Imported from sonarr/720p**
+
+
+  This Custom Format can boost 720p releases. It is only useful if you use [Merge
+  Qualities](/Radarr/Tips/Merge-quality/){:target="\_blank" rel="noopener noreferrer"}
+  in your Quality Profile.'
+tags:
+- TRaSH
+- 720p
+tests: []
+conditions:
+- name: 720p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 720p

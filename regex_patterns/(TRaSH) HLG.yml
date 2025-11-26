@@ -1,6 +1,6 @@
 name: '[TRaSH] HLG'
-pattern: \b(HLG)\b
-description: TRaSH pattern imported from radarr/pq
+pattern: \bHLG(\b|\d)
+description: TRaSH pattern imported from radarr/hdr
 tags:
 - TRaSH
 tests: null

@@ -20,7 +20,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: '[TRaSH] xh264'
+  pattern: AVC
 - name: Not Remux
   negate: true
   required: true

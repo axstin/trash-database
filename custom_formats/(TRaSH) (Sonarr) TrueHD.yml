@@ -23,7 +23,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Atmos
+  pattern: Atmos (Missing)
 - name: Not Dolby Digital Plus
   negate: true
   required: true

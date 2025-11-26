@@ -22,7 +22,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: HBO Max
+  pattern: '[TRaSH] HBO Max'
 - name: HMAX Rename
   negate: false
   required: false

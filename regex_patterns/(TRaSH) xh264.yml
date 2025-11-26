@@ -1,6 +1,0 @@
-name: '[TRaSH] xh264'
-pattern: '[xh][ ._-]?264|\bAVC(\b|\d)'
-description: TRaSH pattern imported from radarr/x264
-tags:
-- TRaSH
-tests: null

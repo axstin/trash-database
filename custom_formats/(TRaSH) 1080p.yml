@@ -1,0 +1,17 @@
+name: '[TRaSH] 1080p'
+description: '**Imported from sonarr/1080p**
+
+
+  This Custom Format can boost 1080p releases. It is only useful if you use [Merge
+  Qualities](/Radarr/Tips/Merge-quality/){:target="\_blank" rel="noopener noreferrer"}
+  in your Quality Profile.'
+tags:
+- TRaSH
+- 1080p
+tests: []
+conditions:
+- name: 1080p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 1080p

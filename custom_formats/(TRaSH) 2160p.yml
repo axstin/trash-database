@@ -1,0 +1,17 @@
+name: '[TRaSH] 2160p'
+description: '**Imported from sonarr/2160p**
+
+
+  This Custom Format can boost 2160p releases. It is only useful if you use [Merge
+  Qualities](/Radarr/Tips/Merge-quality/){:target="\_blank" rel="noopener noreferrer"}
+  in your Quality Profile.'
+tags:
+- TRaSH
+- 2160p
+tests: []
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p

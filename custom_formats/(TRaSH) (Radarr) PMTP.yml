@@ -22,7 +22,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Paramount+
+  pattern: '[TRaSH] Paramount+'
 - name: WEBDL
   negate: false
   required: false

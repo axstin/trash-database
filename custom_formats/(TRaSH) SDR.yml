@@ -22,4 +22,4 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: SDR
+  pattern: '[TRaSH] SDR'

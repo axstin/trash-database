@@ -31,12 +31,12 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: '[TRaSH] HLG'
+  pattern: HLG
 - name: Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: '[TRaSH] SDR'
+  pattern: '[TRaSH] SDR-2'
 - name: Not DV
   negate: true
   required: true

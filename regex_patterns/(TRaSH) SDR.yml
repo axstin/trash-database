@@ -1,6 +1,6 @@
 name: '[TRaSH] SDR'
-pattern: \bSDR(\b|\d)
-description: TRaSH pattern imported from radarr/pq
+pattern: \bSDR\b
+description: TRaSH pattern imported from radarr/sdr
 tags:
 - TRaSH
 tests: null

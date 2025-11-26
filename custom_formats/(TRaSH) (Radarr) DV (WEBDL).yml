@@ -59,4 +59,4 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Hulu
+  pattern: '[TRaSH] Hulu'

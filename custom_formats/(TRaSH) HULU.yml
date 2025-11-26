@@ -12,7 +12,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Hulu
+  pattern: '[TRaSH] Hulu'
 - name: WEBDL
   negate: false
   required: false

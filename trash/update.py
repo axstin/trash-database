@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "pyyaml",
+# ]
+# ///
+
 # parse and import data from TRaSH Guides
 
 import os
@@ -23,7 +30,7 @@ def load_json(path):
         if file_name.endswith(".json"):
             with open(file_path, "r", encoding="utf-8") as file:
                 contents = json.load(file)
-            
+
             contents["_path"] = file_path
             contents["_id"] = file_name[:-5]
             result[contents["_id"]] = contents
@@ -166,7 +173,7 @@ def convert_condition(spec, cf: CustomFormat, patterns):
         cond["pattern"] = find_or_create_pattern(patterns, spec["name"], spec_value, repr(cf))
     elif spec_type == "SourceSpecification":
         cond["type"] = "source"
-        
+
         mapping = {
             "radarr": {
                 '1': 'cam',
@@ -195,10 +202,10 @@ def convert_condition(spec, cf: CustomFormat, patterns):
     elif spec_type == "ResolutionSpecification":
         cond["type"] = "resolution"
         assert spec_value in (360, 480, 540, 576, 720, 1080, 2160)
-        cond["resolution"] = "%up" % spec_value 
+        cond["resolution"] = "%up" % spec_value
     elif spec_type == "IndexerFlagSpecification":
         cond["type"] = "indexer_flag"
-        
+
         mapping = {
             "radarr": {
                 '1': 'freeleech',
@@ -228,7 +235,7 @@ def convert_condition(spec, cf: CustomFormat, patterns):
         cond["flag"] = mapping[cf.origin][str(spec_value)]
     elif spec_type == "QualityModifierSpecification":
         cond["type"] = "quality_modifier"
-        
+
         assert cf.origin == "radarr"
 
         mapping = {
@@ -264,7 +271,7 @@ def convert_condition(spec, cf: CustomFormat, patterns):
         cond["releaseType"] = mapping[str(spec_value)]
     elif spec_type == "LanguageSpecification":
         cond["type"] = "language"
-        
+
         mapping = {
             "radarr": {
                 '-1': 'any',
@@ -394,7 +401,7 @@ def convert_format(cf: CustomFormat, patterns):
 
     result["conditions"] = conditions
 
-    return ProfilarrCustomFormat(result, cf)   
+    return ProfilarrCustomFormat(result, cf)
 
 def collect_formats(root, arr):
     result = set()
@@ -434,7 +441,7 @@ def load_formats(path):
                 data = yaml.safe_load(file)
                 pcf = ProfilarrCustomFormat(data, source_id=file_name)
                 if pcf in result:
-                    print("notice: found duplicate custom format '%s' in custom_formats (existing: %s), ignoring" % (pcf, next(x for x in result if x == pcf)))
+                    print("notice: found duplicate custom format '%s' in %s (existing: %s), ignoring" % (pcf, path, next(x for x in result if x == pcf)))
                 else:
                     result.add(pcf)
     return result
@@ -459,6 +466,8 @@ sonarr_cfs = convert_formats(root, "sonarr", darry_cfs, patterns)
 shared_cfs = sorted(list(radarr_cfs & sonarr_cfs), key=lambda x: x["name"])
 radarr_only_cfs = sorted(list(radarr_cfs - sonarr_cfs), key=lambda x: x["name"])
 sonarr_only_cfs = sorted(list(sonarr_cfs - radarr_cfs), key=lambda x: x["name"])
+
+print("Total CFs: %u" % (len(shared_cfs) + len(radarr_only_cfs) + len(sonarr_only_cfs)))
 
 print("Shared CFs (size=%u):" % len(shared_cfs))
 #print(shared_cfs)
@@ -501,14 +510,3 @@ for pattern in patterns:
             yaml.dump(pattern, file, sort_keys=False)
 
 print("Done")
-
-
-
-
-
-
-
-
-
-
-

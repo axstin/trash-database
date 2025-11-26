@@ -25,7 +25,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] iT Rename'
+  pattern: iTunes Rename
 - name: WEBDL
   negate: false
   required: false

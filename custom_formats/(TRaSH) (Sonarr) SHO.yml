@@ -24,12 +24,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] SHOWTIME'
+  pattern: Showtime
 - name: SHO Rename
   negate: false
   required: false
   type: release_title
-  pattern: '[TRaSH] SHO Rename'
+  pattern: Showtime Rename
 - name: WEBDL
   negate: false
   required: false
